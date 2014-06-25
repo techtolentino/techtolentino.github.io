@@ -417,6 +417,11 @@ div#top-nav #fixed-nav li.current a {
 	margin-top: 0px;
 	margin-bottom: 14px;
 }
+
+.side-border {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
 /* Dividers ------------------------------------------ */
 .hr-small {
 	float: none;

@@ -11,21 +11,31 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- Import CSS -->
 	<link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="js/source/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<link rel="stylesheet" href="css/font-awesome.css" type="text/css">
 	<script src="js/jquery.min.js"></script>
 	<script src="js/jquery.easing.min.js"></script>
 	<script src="js/jquery.scrollto.min.js"></script>
 	<script src="js/slabtext.min.js"></script>
 	<script src="js/jquery.nav.js"></script>
 	<script src="js/main.js"></script>
-  <script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js"></script>
+  <script type="text/javascript" src="js/source/fancybox/jquery.fancybox.pack.js"></script>
+  <script>
+      $(document).ready(function() {
+          $('.fancybox').fancybox();
+      });
+  </script>
+  
 </head>
 <!-- Begin Header -->
 <body class="home color-1">
 	<div id="header">
 		<div class="container">
-			<div class="row" id="small-nav">
-				<div id="top-nav">
+			<div class="row">
+				<i id="nav-button" class="fa fa-space-shuttle fa-4x"></i>
+				<h2 id="logo"><a href="index.html">RANDY <span class="highlight">TOLENTINO</span></a></h2>
+				<div id="top-nav" class="">
 					<ul id="fixed-nav">
 						<li class="current"><a href="#home">Home</a></li>
 						<li><a href="#about">About</a></li>
@@ -33,11 +43,9 @@
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
-
 			</div>
 		</div>
-	</div>
-	<!-- End Header -->
+	</div>	<!-- End Header -->
 	<!-- Big Full screen Banner -->
 	<div class="hero bg-fixed bg-color" id="home">
 		<div class="slogan">
@@ -66,8 +74,8 @@
 						</div>
 
 						<img src="img/rt.jpeg" alt="profile photo" id="profile">
-						<p>Hello! My name is <strong>Randy Tolentino.</strong> I am a full-stack family-man who recently took a leap of faith when I packed my family up and moved from San Diego to Austin. Here, I would follow my dreams of learning to code and ultimately, finding a career as a UI developer.</p>
-						<p>My journey to coding</p>
+						<p>Hello! My name is <strong>Randy Tolentino.</strong> I am a full-stack family-man who recently took a leap of faith when I packed my family up and moved from San Diego to Austin. Here, I would follow my dreams of learning learning to code and ultimately, finding a career as a UI developer.</p>
+						<p>Background in education</p>
 						<p>In my previous career, I worked as a Site Supervisor for a before and after-school program, specializing in Ed-Tech, and doing my best to curate resources to benefit student learning.</p>
 					</div>
 				</div>
@@ -90,37 +98,37 @@
 				</div>
 				<div class="row">
 					<div class="span4 i-block">
-						<img src="img/sofia-small.png" alt="" class="i-block teal-border" >
+						<a href="https://raw.githubusercontent.com/techtolentino/uidevfolio/master/img/sofia-small.png" class="fancybox" title="Sofia's Catering"><img src="img/sofia-small.png" alt="Sofia's Catering" class="i-block teal-border" ></a>
 						<h3>SOFIA'S CATERING</h3>
-						<p class="bg-mint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
 					</div>
 					<div class="span4 i-block">
-						<img src="img/oxcutters-small.png" alt="" class="i-block teal-border">
+						<a href="" class="fancybox" title=""><img src="img/oxcutters-small.png" alt="" class="i-block teal-border"></a>
 						<h3>OXCUTTERS</h3>
-						<p class="bg-mint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
 					</div>
 					<div class="span4 i-block">
-						<img src="img/placeholder.jpg" alt="" class="i-block teal-border">
-						<h3>STYLGORITHMS</h3>
-						<p class="bg-mint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
+						<a href="" class="fancybox" title=""><img src="img/jotd.png" alt="" class="i-block teal-border"></a>
+						<h3>JOKE OF THE DAY</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
 					</div>
 				</div>
 				<div class="hr hr-invisible"></div>
 				<div class="row">
 					<div class="span4 i-block">
-						<img src="img/fresh-small.png" alt="" class="i-block teal-border">
+						<a href="" class="fancybox" title=""><img src="img/fresh-small.png" alt="" class="i-block teal-border"></a>
 						<h3>FRESH( );</h3>
-						<p class="bg-mint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
 					</div>
 					<div class="span4 i-block">
-						<img src="img/placeholder.jpg" alt="" class="i-block teal-border">
+						<a href="" class="fancybox" title=""><img src="img/codenotsleep-small.png" alt="" class="i-block teal-border"></a>
 						<h3>CODE !SLEEP</h3>
-						<p class="bg-mint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
 					</div>
 					<div class="span4 i-block">
-						<img src="img/jrmentor-small.png" alt="" class="i-block teal-border">
+						<a href="" class="fancybox" title=""><img src="img/jrmentor-small.png" alt="" class="i-block teal-border"></a>
 						<h3>JR MENTOR</h3>
-						<p class="bg-mint">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat, justo sed tincidunt iaculis, nisl enim rutrum dolor, in posuere purus risus vel quam</p>
 					</div>
 				</div>
 			</div>
@@ -154,8 +162,10 @@
 						<hr class="grey"/>
 						<h4>Find me online</h4>
 						<div class="social">
-							
+							<a href="#fb"><i class="icon-twitter-sign"></i></a>
+							<a href="#fb"><i class="icon-google-plus-sign"></i></a>
 						</div>
+
 					</div>
 				</div>
 			</div>
@@ -164,7 +174,7 @@
 	</div>
 	<!-- End Contact Section -->
 	<div id="footer">
-		&copy; Randy Tolentino <a id="attribution" href="http://www.twitter.com/techtolentino">@techtolentino</a>.
+		&copy; 2014 Designed at 2AM <a id="attribution" href="http://www.twitter.com/techtolentino">@techtolentino</a>.
 	</div>
 </body>
 </html>
