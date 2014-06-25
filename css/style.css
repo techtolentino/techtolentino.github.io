@@ -347,6 +347,7 @@ div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 
 div#top-nav #fluid-nav li:first-child, div#top-nav #fixed-nav li:first-child  {
 	margin-left: 0;
+	background-color: #3e3e3e;
 }
 div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	color: #ffffff;
@@ -546,7 +547,7 @@ margin: 0px;
 	}
 	div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 		padding: 10px;
-		
+		background-color: #3e3e3e;
 		display: block;
 		margin-bottom: 0px;
 		margin-left: 0px;
@@ -555,9 +556,10 @@ margin: 0px;
 		display: inline-block;
 		position: absolute;
 		left: 24px;
-		font-size: 24px;
-		top: 50%;
+		font-size: 35px;
+		top: 40%;
 		margin-top: -12px;
+		color: white;
 
 	}
 	.name {
