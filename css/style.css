@@ -117,7 +117,7 @@ body.color-1::selection {background: #23C2BC; color: #fff; }
 body.color-1 a{
 	color: #23C2BC;
 	text-decoration: none;
-	border-bottom: 1px solid #23C2BC;
+	/*border-bottom: 1px solid #23C2BC;*/
 }
 body.color-1 div#top-nav #fixed-nav li a:hover {
 	color: #23C2BC;
@@ -522,7 +522,7 @@ margin: 0px;
 }
 #footer a{
 	color: #fff;
-	text-decoration: underline;
+	text-decoration: none;
 }
 /*Media Queries*/
 @media (max-width: 767px) {
