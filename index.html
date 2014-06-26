@@ -23,7 +23,18 @@
   <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
   <script>
       $(document).ready(function() {
-          $('.fancybox').fancybox();
+        $(".fancybox").fancybox({
+	        helpers:  {
+  	          title : {
+    	        type : 'inside'
+            },
+      	      overlay : {
+        	    css : {
+                'background' : 'rgba(26,26,26,0.9)'
+	            }
+            }
+	        }
+  			});
       });
   </script>
   
