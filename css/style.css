@@ -103,12 +103,12 @@ img {
 
 
 #home {
-	background: url(../img/book.png) no-repeat center center fixed; 
+	/*background: url(../img/book.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-  /*background-color: #1fb0b7;*/
+  background-size: cover;*/
+  background-color: #23C2BC;
 }
 
 /* Colors ------------------------------------------ */
@@ -491,6 +491,10 @@ hr.grey {
 }
 .section-alt{
 	background: #fcfcfc;
+}
+
+.bigname{
+	
 }
 
 .title{
