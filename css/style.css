@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,900,300italic,900italic|Ubuntu:300,400,700,300italic,700italic);
-
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
+@import url(http://fonts.googleapis.com/css?family=Jura);
 /* Common Styles ------------------------------------------ */
 /**{
 	outline: 1px solid #77ff53;
@@ -397,8 +398,8 @@ div#top-nav #fixed-nav li.current a {
 	width: 100%;
 }
 .slogan h1{
-	text-shadow: 2px 2px 2px #333333;
 	color: #ffffff;
+	font-family: 'Jura', sans-serif;
 }
 .hero{
 	border-bottom: 1px solid #e1e1e1;
@@ -505,8 +506,8 @@ hr.grey {
 	background: #fcfcfc;
 }
 
-.bigname{
-	
+.clean{
+	font-family: 'Josefin Slab', serif;
 }
 
 .teal-bg {
