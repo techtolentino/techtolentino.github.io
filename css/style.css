@@ -296,6 +296,18 @@ body.color-6 #footer {
 	color: #fff;
 }
 
+.margins {
+	margin: 5px;
+}
+
+.subtleicons {
+	color: #73dbd7;
+}
+
+.subtleicons:hover {
+	color: #8cdbd1;
+}
+
 .teal-border {
 		border: 1px solid #23C2BC;
 }
@@ -495,6 +507,11 @@ hr.grey {
 
 .bigname{
 	
+}
+
+.teal-bg {
+	background-color: #8cdbd1;
+	padding: 1px 3px;
 }
 
 .title{
