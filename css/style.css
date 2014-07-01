@@ -546,6 +546,11 @@ margin: 0px;
 	color: #fff;
 	text-decoration: none;
 }
+
+#hide {
+	display: none;
+}
+
 /*Media Queries*/
 @media (max-width: 767px) {
 	#drop-nav{

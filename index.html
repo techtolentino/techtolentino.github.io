@@ -11,11 +11,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- Import CSS -->
 	<link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/jquery.fancybox.css" type="text/css" media="screen" />
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/jquery.scrollto.min.js"></script>
+	<script src="js/slabtext.min.js"></script>
+	<script src="js/jquery.nav.js"></script>
+	<script src="js/main.js"></script>
 </head>
 
 <!-- Begin Header -->
@@ -108,19 +111,20 @@
 						<p>Printed these and stuck em' on our fridge</p>
 					</div>
 				</div>
+
 				<div class="row">
-					<div class="span4 i-block">
-						<a href="img/sofia-small.png" class="fancybox" title="Sofia's Catering"><img src="img/sofia-small.png" alt="Sofia's Catering Landing Page" class="i-block teal-border"></a>
+					<div class="span4 i-block" id="gallery1">
+						<a href="img/sofia-small.png" rel="gallery1" title="Sofia's Catering"><img src="img/sofia-small.png" alt="Sofia's Catering Landing Page" class="i-block teal-border"></a>
 						<h3>SOFIA'S CATERING</h3>
 						<p>The first landing page in the <em>Stunt-End Development Project</em>, Sofia's catering was a simple exercise in UI practices, ghost-button implementation, and responsive web design</p>
 					</div>
 					<div class="span4 i-block">
-						<a href="img/oxcutters-small.png" class="fancybox" title="Oxcutters"><img src="img/oxcutters-small.png" alt="Oxcutters Landing Page" class="i-block teal-border"></a>
+						<a href="img/oxcutters-small.png" title="Oxcutters"><img src="img/oxcutters-small.png" alt="Oxcutters Landing Page" class="i-block teal-border"></a>
 						<h3>OXCUTTERS</h3>
 						<p>The second experiment from <em>Stunt-End Development</em> experimented with a centered, symmetrical design. This was an exercise in over-riding default Foundation styling</p>
 					</div>
 					<div class="span4 i-block">
-						<a href="img/jotd-small.png" class="fancybox" title="Joke of the Day App"><img src="img/jotd-small.png" alt="Joke of the Day" class="i-block teal-border"></a>
+						<a href="img/jotd-small.png" title="Joke of the Day App"><img src="img/jotd-small.png" alt="Joke of the Day" class="i-block teal-border"></a>
 						<h3>JOKE OF THE DAY</h3>
 						<p>Designed the entire front-end of this app as part of the MakerSquare Hackathon 1 assignment by way of Foundation, JavaScript, and CSS-tricks to create lightbox effects</p>
 					</div>
@@ -128,17 +132,17 @@
 				<div class="hr hr-invisible"></div>
 				<div class="row">
 					<div class="span4 i-block">
-						<a href="http://freshfunction.herokuapp.com/" class="fancybox" title="Fresh Function App" target="blank"><img src="img/fresh-small.png" alt="Fresh Function App" class="i-block teal-border"></a>
+						<a href="http://freshfunction.herokuapp.com/" title="Fresh Function App" target="blank"><img src="img/fresh-small.png" alt="Fresh Function App" class="i-block teal-border"></a>
 						<h3>FRESH( );</h3>
 						<p>Senior Project 1 - with the Fresh Function, users can create one of a kind code-related t-shirts. Used the Rails framework, Foundation for its grid, and JavaScript functions</p>
 					</div>
 					<div class="span4 i-block">
-						<a href="img/codenotsleep-small.png" class="fancybox" title="Code, Not Sleep"><img src="img/codenotsleep-small.png" alt="Code, Not Sleep" class="i-block teal-border"></a>
+						<a href="img/codenotsleep-small.png" title="Code, Not Sleep"><img src="img/codenotsleep-small.png" alt="Code, Not Sleep" class="i-block teal-border"></a>
 						<h3>CODE !SLEEP</h3>
 						<p>Using the Skeleton boilerplate for the first time! CODE!Sleep collects your sleep info and calculates how much sleep to sacrifice in order to improve coding skills.</p>
 					</div>
 					<div class="span4 i-block">
-						<a href="img/jrmentor-small.png" class="fancybox" title="Jr Mentor"><img src="img/jrmentor-small.png" alt="Jr Mentor" class="i-block teal-border"></a>
+						<a href="img/jrmentor-small.png" title="Jr Mentor"><img src="img/jrmentor-small.png" alt="Jr Mentor" class="i-block teal-border"></a>
 						<h3>JUNIOR MENTOR</h3>
 						<p>Senior Project 2 - designed and developed the entire UI for Junior Mentor, a platform which creates a supportive mentorship network within any organization.</p>
 					</div>
@@ -191,26 +195,4 @@
 	</div>
 </body>
 
-<!-- Fancy Box Script -->
-<script src="js/jquery.scrollto.min.js"></script>
-<script src="js/slabtext.min.js"></script>
-<script src="js/jquery.nav.js"></script>
-<script src="js/main.js"></script>
-<script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
-<script>
-      $(document).ready(function() {
-        $(".fancybox").fancybox({
-	        helpers:  {
-  	          title : {
-    	        type : 'inside'
-            },
-      	      overlay : {
-        	    css : {
-                'background' : 'rgba(26,26,26,0.9)'
-	            }
-            }
-	        }
-  			});
-      });
-  </script>
 </html>
