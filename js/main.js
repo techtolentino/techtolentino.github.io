@@ -51,6 +51,10 @@ $(document).ready(function(){
         }else{
             $top_nav.slideUp();
         }
-     })
+     });
+
+     // $(".current").click(function(){
+     //    $("#top-nav").css("display: hidden");
+     // });
 
 });
