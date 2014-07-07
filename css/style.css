@@ -9,8 +9,8 @@
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
 body {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 14px;
-	line-height: 1.5;
+	font-size: 12px;
+	line-height: 1;
 	color: #333;
 	background-color: #fff;
 	-webkit-font-smoothing: antialiased;
