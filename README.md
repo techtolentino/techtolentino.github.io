@@ -42,3 +42,4 @@ In the upcoming months, I plan on expanding my knowledge and practice in the fol
   
 [Skeleton](http://www.getskeleton.com) CSS Framework  
 [mRova](http://www.mrova.com/free-one-page-html-template/) One-Page Template
+[LightBox Plugin](http://lokeshdhakar.com/projects/lightbox2/)
