@@ -1,8 +1,7 @@
-RANDYTOLENTINO.COM
+[RANDYTOLENTINO.COM](randytolentino.com)  
+
 ==========
-
-[PROFESSIONAL PORTFOLIO](randytolentino.com)  
-
+Professional Portfolio
 
 Here lives the project repository for my personal portfolio. This portfolio gets updated regularly as new project features or updates are committed.
 
