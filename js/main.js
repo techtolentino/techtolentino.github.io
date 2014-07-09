@@ -53,8 +53,8 @@ $(document).ready(function(){
         }
      });
 
-     $(".current").click(function(){
-        $("#top-nav").css("display: hidden");
-     });
+     // $(".current").click(function(){
+     //    $("#top-nav").css("display: hidden");
+     // });
 
 });
