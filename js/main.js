@@ -44,8 +44,9 @@ $(document).ready(function(){
         }
     });
 
+    var $top_nav = $('#top-nav');
+
      $('#nav-button').click(function(){
-        $top_nav = $('#top-nav');
         if($top_nav.is(':hidden')){
             $top_nav.slideDown("slow");
         }else{
@@ -53,8 +54,8 @@ $(document).ready(function(){
         }
      });
 
-     // $(".current").click(function(){
-     //    $("#top-nav").css("display: hidden");
-     // });
+     $("#top-nav li").click(function(){
+        $top_nav.slideUp();
+     });
 
 });
