@@ -45,6 +45,7 @@ $(document).ready(function(){
     });
 
     var $top_nav = $('#top-nav');
+    var $top_nav_li = $('#top-nav li');
 
      $('#nav-button').click(function(){
         if($top_nav.is(':hidden')){
@@ -54,8 +55,8 @@ $(document).ready(function(){
         }
      });
 
-     $("#list-item").click(function(){
-        $top_nav.slideUp();
-     });
+     // $("#top-nav li").click(function(){
+     //    $top_nav.slideUp();
+     // });
 
 });

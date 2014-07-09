@@ -4,8 +4,8 @@
 /* Common Styles ------------------------------------------ */
 /**{
 	outline: 1px solid #77ff53;
-}*/
-
+}
+*/
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
 body {
 	font-family: 'Ubuntu', sans-serif;
@@ -124,7 +124,7 @@ body.color-1 div#top-nav #fixed-nav li a:hover {
 	color: #F6CC64;
 }
 body.color-1 div#top-nav #fixed-nav li.current a {
-	border-bottom: 1px solid #F8F8FA;
+	border-bottom: 1px solid transparent;
 }
 body.color-1 .bg-color{F
 	background: #282E3A;
@@ -334,6 +334,7 @@ body.color-6 #footer {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	position: fixed;
 	height: 50px;
+	z-index: 100;
 }
 #nav-button{
 	display: none;
@@ -356,21 +357,25 @@ body.color-6 #footer {
 }
 div#top-nav{
 	margin-top: 13px;
+	z-index: 300;
 }
 div#top-nav ul {
-
 	font-family: 'Lato',  sans-serif;
 	float: right;
 	margin-bottom: 0px;
+	margin-top: 5px;
+	z-index: 300;
 }
 div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 	display: inline-block;
 	margin-left: 20px;
+	z-index: 300;
 }
 
 div#top-nav #fluid-nav li:first-child, div#top-nav #fixed-nav li:first-child  {
 	margin-left: 0;
 	background-color: #282E3A;
+	z-index: 300;
 }
 div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	color: #ffffff;
@@ -378,21 +383,25 @@ div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	text-transform: uppercase;
 	font-size: 12px;
 	border: none;
+	z-index: 300;
 }
 div#top-nav #fluid-nav li a:hover {
 	color: #333;
 	text-decoration: none;
-
+	z-index: 300;
 }
 div#top-nav #fluid-nav li.current a {
 	color: #faa3a5;
+	z-index: 300;
 }
 div#top-nav #fixed-nav li a:hover {
 	text-decoration: none;
+	z-index: 300;
 }
 div#top-nav #fixed-nav li.current a {
 	color: #F7575D;
 	padding-bottom: 5px;
+	z-index: 300;
 }
 
 .name {
@@ -586,6 +595,7 @@ margin: 0px;
 		display: block;
 		margin-bottom: 0px;
 		margin-left: 0px;
+		text-align: center;
 	}
 	#nav-button{
 		display: inline-block;
@@ -595,6 +605,7 @@ margin: 0px;
 		top: 50%;
 		margin-top: -13px;
 		color: #F7575D;
+		cursor: pointer;
 	}
 	.top-small-space {
 		padding-top: 15px;
@@ -606,5 +617,17 @@ margin: 0px;
 @media (max-width: 480px) { 
 	#logo{
 		font-size: 24px;
+	}
+
+	div#top-nav ul {
+		font-family: 'Lato',  sans-serif;
+		float: right;
+		margin-top: 0;
+		margin-bottom: 0;
+		z-index: 300;
+	}
+
+	div#top-nav li a {
+		padding: 3px;
 	}
 }
