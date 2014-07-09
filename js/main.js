@@ -54,7 +54,7 @@ $(document).ready(function(){
         }
      });
 
-     $("#top-nav li").click(function(){
+     $("#list-item").click(function(){
         $top_nav.slideUp();
      });
 
