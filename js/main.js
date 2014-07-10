@@ -38,6 +38,7 @@ $(document).ready(function(){
         },
         end: function() {
             //I get fired when the animation is ending
+            $top_nav.slideUp();
         },
         scrollChange: function() {
             //I get fired when you enter a section and I pass the list item of the section
