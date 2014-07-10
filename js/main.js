@@ -35,6 +35,7 @@ $(document).ready(function(){
         filter: ':not(.external)',
         begin: function() {
             //I get fired when the animation is starting
+            $("#top-nav").hide();
         },
         end: function() {
             //I get fired when the animation is ending
