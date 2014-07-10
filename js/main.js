@@ -35,13 +35,14 @@ $(document).ready(function(){
         filter: ':not(.external)',
         begin: function() {
             //I get fired when the animation is starting
-            $("#top-nav").hide();
+            // $("#top-nav").slideUp();
         },
         end: function() {
             //I get fired when the animation is ending
         },
         scrollChange: function() {
             //I get fired when you enter a section and I pass the list item of the section
+            // $("#top-nav").show();
         }
     });
 
