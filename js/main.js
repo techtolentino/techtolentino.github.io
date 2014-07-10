@@ -47,7 +47,6 @@ $(document).ready(function(){
     });
 
     var $top_nav = $('#top-nav');
-    var $top_nav_li = $('#top-nav li');
 
      $('#nav-button').click(function(){
         if($top_nav.is(':hidden')){
