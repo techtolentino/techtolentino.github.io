@@ -408,6 +408,11 @@ div#top-nav #fixed-nav li.current a {
 	font-size: 75px;
 	color: #fff;
 }
+
+.subname {
+	font-size: 22px;
+	letter-spacing: 0;
+}
 /* Slogan & Banners ------------------------------------------ */
 .slogan{
 	height: 100%;
