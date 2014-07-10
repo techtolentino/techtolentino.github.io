@@ -334,7 +334,7 @@ body.color-6 #footer {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	position: fixed;
 	height: 50px;
-	z-index: 100;
+	/*z-index: 100;*/
 }
 #nav-button{
 	display: none;
@@ -357,25 +357,25 @@ body.color-6 #footer {
 }
 div#top-nav{
 	margin-top: 13px;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav ul {
 	font-family: 'Lato',  sans-serif;
 	float: right;
 	margin-bottom: 0px;
 	margin-top: 5px;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 	display: inline-block;
 	margin-left: 20px;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 
 div#top-nav #fluid-nav li:first-child, div#top-nav #fixed-nav li:first-child  {
 	margin-left: 0;
 	background-color: #282E3A;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	color: #ffffff;
@@ -383,25 +383,25 @@ div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	text-transform: uppercase;
 	font-size: 12px;
 	border: none;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li a:hover {
 	color: #333;
 	text-decoration: none;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li.current a {
 	color: #faa3a5;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav #fixed-nav li a:hover {
 	text-decoration: none;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 div#top-nav #fixed-nav li.current a {
 	color: #F7575D;
 	padding-bottom: 5px;
-	z-index: 300;
+	/*z-index: 300;*/
 }
 
 .name {
@@ -585,7 +585,7 @@ margin: 0px;
 	background: #fff;
 	position: absolute;
 	top:50px;
-		z-index: 1000;
+		/*z-index: 1000;*/
 		border-right: 1px solid #D6D6D6;
 		border-bottom: 1px solid #D6D6D6;
 		left: 0;
@@ -629,7 +629,7 @@ margin: 0px;
 		float: right;
 		margin-top: 0;
 		margin-bottom: 0;
-		z-index: 300;
+		/*z-index: 300;*/
 	}
 
 	div#top-nav li a {

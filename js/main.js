@@ -35,29 +35,22 @@ $(document).ready(function(){
         filter: ':not(.external)',
         begin: function() {
             //I get fired when the animation is starting
-            // $("#top-nav").slideUp();
         },
         end: function() {
             //I get fired when the animation is ending
         },
         scrollChange: function() {
             //I get fired when you enter a section and I pass the list item of the section
-            // $("#top-nav").show();
         }
     });
 
-    var $top_nav = $('#top-nav');
-
      $('#nav-button').click(function(){
+        $top_nav = $('#top-nav');
         if($top_nav.is(':hidden')){
             $top_nav.slideDown("slow");
         }else{
             $top_nav.slideUp();
         }
      });
-
-     // $("#top-nav li").click(function(){
-     //    $top_nav.slideUp();
-     // });
 
 });
