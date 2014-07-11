@@ -2,10 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
 @import url(http://fonts.googleapis.com/css?family=Jura);
 /* Common Styles ------------------------------------------ */
+
 /**{
 	outline: 1px solid #77ff53;
-}
-*/
+}*/
+
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
 body {
 	font-family: 'Ubuntu', sans-serif;
@@ -124,7 +125,7 @@ body.color-1 div#top-nav #fixed-nav li a:hover {
 	color: #F6CC64;
 }
 body.color-1 div#top-nav #fixed-nav li.current a {
-	border-bottom: 1px solid transparent;
+	/*border-bottom: 1px solid transparent;*/
 }
 body.color-1 .bg-color{F
 	background: #282E3A;
@@ -154,7 +155,7 @@ body.color-2 div#top-nav #fixed-nav li a:hover {
 	color: #3498db;
 }
 body.color-2 div#top-nav #fixed-nav li.current a {
-	border-bottom: 3px solid #3498db;
+	/*border-bottom: 3px solid #3498db;*/
 }
 body.color-2 .bg-color{
 	background: #3498db;
@@ -184,7 +185,7 @@ body.color-3 div#top-nav #fixed-nav li a:hover {
 	color: #F7575D;
 }
 body.color-3 div#top-nav #fixed-nav li.current a {
-	border-bottom: 3px solid #9b59b6;
+	/*border-bottom: 3px solid #9b59b6;*/
 }
 body.color-3 .bg-color{
 	background: #9b59b6;
@@ -214,7 +215,7 @@ body.color-4 div#top-nav #fixed-nav li a:hover {
 	color: #34495e;
 }
 body.color-4 div#top-nav #fixed-nav li.current a {
-	border-bottom: 3px solid #34495e;
+	/*border-bottom: 3px solid #34495e;*/
 }
 body.color-4 .bg-color{
 	background: #34495e;
@@ -244,7 +245,7 @@ body.color-5 div#top-nav #fixed-nav li a:hover {
 	color: #f39c12;
 }
 body.color-5 div#top-nav #fixed-nav li.current a {
-	border-bottom: 3px solid #f39c12;
+	/*border-bottom: 3px solid #f39c12;*/
 }
 body.color-5 .bg-color{
 	background: #f39c12;
@@ -274,7 +275,7 @@ body.color-6 div#top-nav #fixed-nav li a:hover {
 	color: #f1c40f;
 }
 body.color-6 div#top-nav #fixed-nav li.current a {
-	border-bottom: 3px solid #f1c40f;
+	/*border-bottom: 3px solid #f1c40f;*/
 }
 body.color-6 .bg-color{
 	background: #f1c40f;
@@ -383,7 +384,7 @@ div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 	text-transform: uppercase;
 	font-size: 12px;
 	border: none;
-	/*z-index: 300;*/
+	padding: 5px 15px;
 }
 div#top-nav #fluid-nav li a:hover {
 	color: #333;
@@ -400,7 +401,7 @@ div#top-nav #fixed-nav li a:hover {
 }
 div#top-nav #fixed-nav li.current a {
 	color: #F7575D;
-	padding-bottom: 5px;
+	/*padding-bottom: 5px;*/
 	/*z-index: 300;*/
 }
 
@@ -692,7 +693,7 @@ nav#nav-mobile {
 		display: block;
 		margin-bottom: 0px;
 		margin-left: 0px;
-		text-align: center;
+		text-align: left;
 	}
 	#nav-button{
 		display: inline-block;
