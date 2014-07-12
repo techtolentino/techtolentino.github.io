@@ -492,7 +492,7 @@ div#top-nav #fixed-nav li.current a {
 	margin-top: -1px;
 	border-top-width: 1px;
 	border-top-style: solid;
-	z-index: -20;
+	/*z-index: -20;*/
 }
 .hr-invisible {
 	margin-bottom: 0;
@@ -540,6 +540,7 @@ hr.grey {
 }
 .section-alt{
 	background: #fcfcfc;
+	z-index: -30;
 }
 
 .clean{
