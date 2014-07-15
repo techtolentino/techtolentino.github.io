@@ -334,7 +334,7 @@ body.color-6 #footer {
 	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	position: fixed;
-	height: 50px;
+	height: 55px;
 	/*z-index: 100;*/
 }
 #nav-button{
@@ -364,7 +364,7 @@ div#top-nav ul {
 	font-family: 'Lato',  sans-serif;
 	float: right;
 	margin-bottom: 0px;
-	margin-top: 5px;
+	margin-top: 8px;
 	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
