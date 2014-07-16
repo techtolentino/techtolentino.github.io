@@ -8,6 +8,7 @@ $.fn.vAlign = function() {
     $(this).css('padding-top', mh);
     });
 };
+
 })(jQuery);
 $(document).ready(function(){
 	var win_h = $(window).height();
