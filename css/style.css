@@ -3,9 +3,9 @@
 @import url(http://fonts.googleapis.com/css?family=Jura);
 /* Common Styles ------------------------------------------ */
 
-/**{
+*{
 	outline: 1px solid #77ff53;
-}*/
+}
 
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
 body {
@@ -448,8 +448,13 @@ div#top-nav #fixed-nav li.current a {
 
 /* Icon Blocks ------------------------------------------ */
 .i-block{
+	/*text-align: center;*/
+}
+
+.centered {
 	text-align: center;
 }
+
 .i-block i{display: inline-block;margin-bottom: 24px;font-size: 6em; color: #a1a1a1}
 .i-block h3{ color: #a1a1a1;
 	font-weight: bold;
@@ -615,58 +620,10 @@ margin: 0px;
       border-bottom: solid 10px #fff;
       border-right: solid 10px transparent; }
 
-nav {
-  margin-bottom: 30px; }
-
-nav#nav-main {
-  background-color: transparent;
-  padding: 10px 0; }
-  nav#nav-main ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center; }
-  nav#nav-main li {
-    display: inline-block;
-    border-right: solid 1px #F7575D;
-    padding: 0 5px; }
-    nav#nav-main li:last-child {
-      border-right: none; }
-  nav#nav-main a {
-    display: block;
-    color: white;
-    padding: 10px 30px; }
-    nav#nav-main a:hover {
-      background-color: #282E3A;
-      color: #fff; }
-
-nav#nav-mobile {
-  position: relative;
-  display: none; }
-  nav#nav-mobile ul {
-    display: none;
-    list-style-type: none;
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    background-color: #282E3A; }
-  nav#nav-mobile li {
-    display: block;
-    padding: 5px 0;
-    margin: 0 5px;
-    border-bottom: solid 1px #F7575D; }
-    nav#nav-mobile li:last-child {
-      border-bottom: none; }
-  nav#nav-mobile a {
-    display: block;
-    color: white;
-    padding: 10px 30px; }
-    nav#nav-mobile a:hover {
-      background-color: #282E3A;
-      color: #fff; }
+.normal-list li{
+	margin: 5px auto;
+	font-size: 12px;
+}
 
 /* =Media Queries
 -------------------------------------------------------------- */
