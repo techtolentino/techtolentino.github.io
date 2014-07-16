@@ -3,9 +3,9 @@
 @import url(http://fonts.googleapis.com/css?family=Jura);
 /* Common Styles ------------------------------------------ */
 
-*{
+/**{
 	outline: 1px solid #77ff53;
-}
+}*/
 
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
 body {
@@ -96,7 +96,7 @@ img {
 #profile {
 	height: auto;
 	width: 200px;
-	border: 2px solid #282E3A;
+	border: 2px solid #02293e;
 	border-radius: 8px;
 	float: left;
 	margin: 0 20px 20px 0;
@@ -110,31 +110,31 @@ img {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;*/
-  background-color: #282E3A;
+  background-color: #02293e;
 }
 
 /* Colors ------------------------------------------ */
-body.color-1::-moz-selection {background: #282E3A; color: #fff; }
-body.color-1::selection {background: #282E3A; color: #fff; }
+body.color-1::-moz-selection {background: #02293e; color: #fff; }
+body.color-1::selection {background: #02293e; color: #fff; }
 body.color-1 a{
 	color: #F7575D;
 	text-decoration: none;
-	/*border-bottom: 1px solid #282E3A;*/
+	/*border-bottom: 1px solid #02293e;*/
 }
 body.color-1 div#top-nav #fixed-nav li a:hover {
-	color: #F6CC64;
+	color: #68C39F;
 }
 body.color-1 div#top-nav #fixed-nav li.current a {
 	/*border-bottom: 1px solid transparent;*/
 }
-body.color-1 .bg-color{F
-	background: #282E3A;
+body.color-1 .bg-color{
+	background: #02293e;
 }
 body.color-1 hr {
-	border-bottom: 1px solid #F7575D;
+	border-bottom: 1px solid #cfcfcf;
 }
 body.color-1 span.highlight{
-	color: #282E3A;
+	color: #02293e;
 }
 body.color-1 #footer {
 	font-weight: bold;
@@ -142,7 +142,7 @@ body.color-1 #footer {
 	text-align: center;
 	font-size: 13px;
 	padding: 20px 0 20px 0;
-  background-color: #282E3A;
+  background-color: #02293e;
 }
 body.color-2::-moz-selection {background: #3498db; color: #fff; }
 body.color-2::selection {background: #3498db; color: #fff; }
@@ -313,12 +313,12 @@ body.color-6 #footer {
 }
 
 .subtleicons:hover {
-	color: #F7575D;
+	color: #68C39F;
 	/*opacity: 0.5;*/
 }
 
 .highlighted-border {
-		border: 1px solid #282E3A;
+		border: 1px solid #02293e;
 		border-radius: 8px;
 		margin-bottom: 10px; 
 }
@@ -331,7 +331,7 @@ body.color-6 #footer {
 	top:0px;
 	/*border-bottom: 1px solid #D6D6D6;*/
 	width: 100%;
-	background: #282E3A;
+	background: #02293e;
 	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	position: fixed;
@@ -376,7 +376,7 @@ div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 
 div#top-nav #fluid-nav li:first-child, div#top-nav #fixed-nav li:first-child  {
 	margin-left: 0;
-	background-color: #282E3A;
+	background-color: #02293e;
 	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
@@ -489,7 +489,7 @@ div#top-nav #fixed-nav li.current a {
 	margin-left: -16%;
 }
 .hr-inner {
-	border-color: #F7575D;
+	border-color: #02293E;
 	width: 100%;
 	position: absolute;
 	height: 1px;
@@ -516,7 +516,7 @@ hr.grey {
 	margin: 10px 0;
 }
 
-/* Contact us block ------------------------------------------ */
+/* Contact block ------------------------------------------ */
 #contact .social a{
 	margin-right: 10px;
 	font-size: 30px;
@@ -536,17 +536,26 @@ hr.grey {
 	border: 1px solid #F7575D;
 }
 
+.connect {
+	margin-left: 10px;
+}
+
 /* Section, Footer & Misc ------------------------------------------ */
 .content{
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
+
+.hr-centered {
+	margin: 15px auto;
+}
+
 .section{
 	border-bottom: 1px solid #e1e1e1;
 }
 .section-alt{
 	background: #fcfcfc;
-	z-index: -30;
+	/*z-index: -30;*/
 }
 
 .clean{
@@ -613,16 +622,22 @@ margin: 0px;
       border-top: solid 10px #fff;
       border-right: solid 10px transparent; }
     #nav-trigger span:hover {
-      background-color: #282E3A; }
+      background-color: #02293e; }
     #nav-trigger span.open:after {
       border-left: solid 10px transparent;
       border-top: none;
       border-bottom: solid 10px #fff;
       border-right: solid 10px transparent; }
 
+
 .normal-list li{
-	margin: 5px auto;
-	font-size: 12px;
+	list-style-type: none;
+	margin: 6px auto;
+	font-size: 13px;
+}
+
+div#approach li {
+	margin-left: 15px;
 }
 
 /* =Media Queries
@@ -660,7 +675,7 @@ margin: 0px;
 	}
 	div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 		padding: 10px;
-		background-color: #282E3A;
+		background-color: #02293e;
 		display: block;
 		margin-bottom: 0px;
 		margin-left: 0px;
