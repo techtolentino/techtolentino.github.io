@@ -490,7 +490,7 @@
 }
 @media (max-width: 479px) {
 	.container {
-		width: 340px;
+		width: 320px;
 	}
 
 	.nav-collapse {
@@ -894,7 +894,7 @@
 		width: 370px;
 	}
 	.span3 {
-		width: 268px;
+		width: 270px;
 	}
 	.span2 {
 		width: 170px;

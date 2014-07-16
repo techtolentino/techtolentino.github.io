@@ -649,6 +649,7 @@ div#approach li {
 		border: 1px solid #02293e;
 		border-radius: 8px;
 		margin: 10px 0 20px 0;
+		width: 300px;
 	}
 
 	#logo{
@@ -664,7 +665,7 @@ div#approach li {
 	color: #ffffff;
 	font-weight: 700;
 	text-transform: uppercase;
-	font-size: 10px;
+	font-size: 9px;
 	border: none;
 	padding: 5px 8px;
 }
