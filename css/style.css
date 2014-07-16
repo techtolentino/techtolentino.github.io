@@ -453,10 +453,6 @@ div#top-nav #fixed-nav li.current a {
 }
 
 /* Icon Blocks ------------------------------------------ */
-.i-block{
-	/*text-align: center;*/
-}
-
 .centered {
 	text-align: center;
 }
@@ -547,6 +543,10 @@ hr.grey {
 }
 
 /* Section, Footer & Misc ------------------------------------------ */
+#bottom-spacing {
+	margin-bottom: 110px;
+}
+
 .about-text {
 	font-size: 15px;
 }
@@ -610,7 +610,7 @@ margin: 0px;
 
 .normal-list li{
 	list-style-type: none;
-	margin: 6px auto;
+	margin: 15px auto;
 	font-size: 13px;
 }
 
@@ -621,7 +621,11 @@ div#approach li {
 /* =Media Queries
 -------------------------------------------------------------- */
 
+
 @media (max-width: 767px) {
+	#bottom-spacing {
+		margin-bottom: 0;
+	}
 
 	.top-small-space {
 		padding-top: 15px;
@@ -631,6 +635,10 @@ div#approach li {
 	}
 }
 @media (max-width: 480px) { 
+	#bottom-spacing {
+		margin-bottom: 0;
+	}
+
 	#logo{
 		font-size: 24px;
 	}
