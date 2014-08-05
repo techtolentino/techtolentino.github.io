@@ -324,7 +324,7 @@ body.color-6 #footer {
 .background-accent {
 	/*background-color: #b6edeb;*/
 	text-align: center;
-	color: #5b8db3;
+	color: #a0a0a0;
 	padding: 5px 0;
 }
 
@@ -463,8 +463,7 @@ div#top-nav #fixed-nav li.current a {
 }
 
 .i-block i{display: inline-block;margin-bottom: 24px;font-size: 6em; color: #a1a1a1}
-.i-block h3{ color: #a1a1a1;
-	font-weight: bold;
+.i-block h3{ color: #09A9BA;
 	font-size: 1.8em;
 	margin-top: 0px;
 	margin-bottom: 14px;
