@@ -321,7 +321,12 @@ body.color-6 #footer {
 	/*opacity: 0.3;*/
 }
 
-.background-accent {background-color: #5ecae6;}
+.background-accent {
+	/*background-color: #b6edeb;*/
+	text-align: center;
+	color: #5b8db3;
+	padding: 5px 0;
+}
 
 .subtleicons:hover {
 	color: #5F9EA0;
@@ -405,17 +410,9 @@ div#top-nav #fluid-nav li.current a {
 }
 div#top-nav #fixed-nav li a:hover {
 	text-decoration: none;
-	/*z-index: 300;*/
 }
 div#top-nav #fixed-nav li.current a {
 	color: #F7575D;
-	/*padding-bottom: 5px;*/
-	/*z-index: 300;*/
-}
-
-.name {
-	font-size: 60px;
-	color: #fff;
 }
 
 .subname {
@@ -614,6 +611,10 @@ margin: 0px;
 
 #hide {
 	display: none;
+}
+
+.normal-list {
+	margin-top: 10px;
 }
 
 .normal-list li{
