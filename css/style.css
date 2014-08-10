@@ -149,7 +149,7 @@ body.color-1 #footer {
 	text-align: center;
 	font-size: 13px;
 	padding: 20px 0 20px 0;
-  background-color: #A7DBD8;
+  background-color: #c7c7c7;
 }
 body.color-2::-moz-selection {background: #3498db; color: #fff; }
 body.color-2::selection {background: #3498db; color: #fff; }
@@ -539,6 +539,12 @@ hr.grey {
 }
 
 /* Section, Footer & Misc ------------------------------------------ */
+.splash-info {
+	border: 1px solid white;
+	border-radius: 3px;
+	padding: 20px;	
+}
+
 #bottom-spacing {
 	margin-bottom: 105px;
 }
@@ -587,6 +593,7 @@ margin: 0px;
 .clear{
 	clear: both;
 }
+
 #footer {
 	color: #fff;
 	text-align: center;
@@ -594,6 +601,7 @@ margin: 0px;
 	padding: 20px 0 20px 0;
 	height: 30px;
 }
+
 #footer a{
 	color: #fff;
 	text-decoration: none;
