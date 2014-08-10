@@ -623,11 +623,12 @@ div#approach li {
 	margin-left: 15px;
 }
 
-.project-div {
+.tile-section {
 	border: 1px solid #c6e3e4;
 	margin-bottom: 20px;
 	padding: 10px;
 	border-radius: 3px;
+	background-color: #F8FEFF;
 	box-sizing: border-box;
 }
 
