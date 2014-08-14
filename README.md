@@ -27,13 +27,12 @@ This body of work represents a selection of projects where the experimentation o
   
 In the upcoming months, I plan on expanding my knowledge and practice in the following:
   
-* JavaScript - my main goal is to crush JavaScript
-* SVG - Scalable Vector Graphics are just cool as hell... can't wait to learn this!
-* D3 and Famo.us - both look very fun and very interesting
-* Node // Angular // Ember... yes, in that particular order
-* Deeper implementations of using Ruby on Rails
-* Data-Structure Modeling
-* Problem-solving and algorithms
+* JavaScript - my main goal is to crush JavaScript and I work on that every day!
+* SVG - Scalable Vector Graphics are just cool as hell... can't wait to learn this.
+* Angular // Node
+* Maybe some deeper implementations of using Ruby on Rails
+* Problem-solving and algorithms, eventually
+* Application design patterns
   
 ###CREDITS
 ----------
