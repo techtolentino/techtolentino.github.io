@@ -39,6 +39,6 @@ In the upcoming months, I plan on expanding my knowledge and practice in the fol
 
 [RANDYTOLENTINO.COM](http://randytolentino.com) was made with several open-sourced tools:
   
-[Skeleton](http://www.getskeleton.com) CSS Framework  
+[BootStrap 2 (I believe)](http://getbootstrap.com/) CSS Framework  
 [mRova](http://www.mrova.com/free-one-page-html-template/) One-Page Template  
 [LightBox Plugin](http://lokeshdhakar.com/projects/lightbox2/)
