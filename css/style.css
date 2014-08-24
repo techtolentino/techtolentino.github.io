@@ -630,6 +630,11 @@ margin: 0px;
 	min-height: 312px;
 }
 
+.block-section-title:hover, .block-section-title:active  {
+	background-color: #09A9BA;
+	color: white;
+}
+
 /* =Media Queries
 -------------------------------------------------------------- */
 
