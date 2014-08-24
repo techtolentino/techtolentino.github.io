@@ -539,11 +539,6 @@ hr.grey {
 }
 
 /* Section, Footer & Misc ------------------------------------------ */
-.splash-info {
-	border: 1px solid white;
-	border-radius: 3px;
-	padding: 20px;	
-}
 
 #bottom-spacing {
 	margin-bottom: 105px;
@@ -637,6 +632,12 @@ margin: 0px;
 
 
 @media (max-width: 767px) {
+	.splash-info {
+		border: 1px solid white;
+		border-radius: 3px;
+		padding: 20px;	
+	}
+
 	#bottom-spacing {
 		margin-bottom: 0;
 	}
