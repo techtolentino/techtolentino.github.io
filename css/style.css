@@ -4,7 +4,7 @@
 /* Common Styles ------------------------------------------ */
 
 *{
-	outline: 1px solid #77ff53;
+	/*outline: 1px solid #77ff53;*/
 }
 
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
