@@ -459,6 +459,9 @@ div#top-nav #fixed-nav li.current a {
 	font-size: 1.3em;
 	margin-top: 10px;
 	margin-bottom: 14px;
+	background-color: #ffffff;
+	padding: 5px 0;
+	border-radius: 2px;
 }
 
 .side-border {
@@ -622,7 +625,7 @@ margin: 0px;
 	margin-bottom: 20px;
 	padding: 10px;
 	border-radius: 3px;
-	background-color: #F8FEFF;
+	background-color: #E8F1F2;
 	box-sizing: border-box;
 	min-height: 312px;
 }
