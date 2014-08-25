@@ -349,6 +349,7 @@ body.color-6 #footer {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	position: fixed;
 	height: 55px;
+	z-index: 100;
 }
 #nav-button{
 	display: none;
@@ -633,6 +634,10 @@ margin: 0px;
 .block-section-title:hover, .block-section-title:active  {
 	background-color: #09A9BA;
 	color: white;
+}
+
+#portfolio img:hover, #portfolio img:active, #approach img:hover, #approach img:active {
+	opacity: 0.6;
 }
 
 /* =Media Queries
