@@ -683,11 +683,14 @@ margin: 0px;
 	}
 
 	div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
-	color: #5F9EA0;
-	text-transform: uppercase;
-	font-size: 9px;
-	border: none;
-	padding: 5px 8px;
-	margin-left: 3px;
+		color: #5F9EA0;
+		text-transform: uppercase;
+		font-size: 9px;
+		border: none;
+		padding: 5px 8px;
+		margin-left: 3px;
+	}
+	#contact  {
+		text-align: center;
 	}
 }
