@@ -409,7 +409,8 @@ div#top-nav #fixed-nav li.current a {
 .subname {
 	font-size: 20px;
 	letter-spacing: 0;
-	margin-top: 50px;
+	margin: 50px auto;
+	font-family: 'Josefin Slab', sans-serif;
 }
 
 /* Slogan & Banners ------------------------------------------ */
