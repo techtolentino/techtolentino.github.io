@@ -406,8 +406,10 @@ div#top-nav #fixed-nav li.current a {
 }
 .slogan h1{
 	color: #FFFFFF;
-	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 	font-weight: 500;
+	text-align: center;
+	font-size: 5em;
 }
 .hero{
 	border-bottom: 1px solid #e1e1e1;
@@ -691,11 +693,15 @@ margin: 0px;
 
 	.subname {
 		margin: 20px 0 80px 0;
-		font-size: 15px;
+		font-size: 1em;
 	}
 
-	h1 {
-		font-size: 22px;
+	.slogan h1{
+		color: #FFFFFF;
+		font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+		font-weight: 500;
+		text-align: center;
+		font-size: 1.5em;
 	}
 
 }
