@@ -109,7 +109,7 @@ img {
 }
 
 #home {
-	background: url(../img/subtle-texture.jpg) no-repeat center center fixed; 
+	background: url(../img/bbg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -420,7 +420,7 @@ div#top-nav #fixed-nav li.current a {
 	width: 100%;
 }
 .slogan h1{
-	color: #F7575D;
+	color: #FFFFFF;
 	font-family: 'Ubuntu', sans-serif;
 	font-weight: 500;
 }
@@ -642,7 +642,7 @@ margin: 0px;
 	.splash-info {
 		/*border: 1px solid white;*/
 		border-radius: 3px;
-		padding: 20px;	
+		padding: 20px; 	
 	}
 
 	#bottom-spacing {
