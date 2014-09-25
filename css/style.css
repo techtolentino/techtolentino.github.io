@@ -1,11 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,900,300italic,900italic|Ubuntu:300,400,700,300italic,700italic|Bowlby+One);
-@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
-@import url(http://fonts.googleapis.com/css?family=Voces);
 /* Common Styles ------------------------------------------ */
-
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-rendering: optimizelegibility; }
 body {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	font-size: 12px;
 	line-height: 1;
 	color: #333;
@@ -33,7 +29,7 @@ h6 {
 	font-weight: normal;
 	line-height: 1.3;
 	color: inherit;
-	font-family: 'Lato', sans-serif;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
@@ -156,7 +152,6 @@ body.color-2 div#top-nav #fixed-nav li a:hover {
 	color: #3498db;
 }
 body.color-2 div#top-nav #fixed-nav li.current a {
-	/*border-bottom: 3px solid #3498db;*/
 }
 body.color-2 .bg-color{
 	background: #3498db;
@@ -186,7 +181,6 @@ body.color-3 div#top-nav #fixed-nav li a:hover {
 	color: #F7575D;
 }
 body.color-3 div#top-nav #fixed-nav li.current a {
-	/*border-bottom: 3px solid #9b59b6;*/
 }
 body.color-3 .bg-color{
 	background: #9b59b6;
@@ -216,7 +210,6 @@ body.color-4 div#top-nav #fixed-nav li a:hover {
 	color: #34495e;
 }
 body.color-4 div#top-nav #fixed-nav li.current a {
-	/*border-bottom: 3px solid #34495e;*/
 }
 body.color-4 .bg-color{
 	background: #34495e;
@@ -246,7 +239,6 @@ body.color-5 div#top-nav #fixed-nav li a:hover {
 	color: #f39c12;
 }
 body.color-5 div#top-nav #fixed-nav li.current a {
-	/*border-bottom: 3px solid #f39c12;*/
 }
 body.color-5 .bg-color{
 	background: #f39c12;
@@ -276,7 +268,6 @@ body.color-6 div#top-nav #fixed-nav li a:hover {
 	color: #f1c40f;
 }
 body.color-6 div#top-nav #fixed-nav li.current a {
-	/*border-bottom: 3px solid #f1c40f;*/
 }
 body.color-6 .bg-color{
 	background: #f1c40f;
@@ -310,11 +301,9 @@ body.color-6 #footer {
 
 .subtleicons {
 	color: #7c7c7c;
-	/*opacity: 0.3;*/
 }
 
 .background-accent {
-	/*background-color: #b6edeb;*/
 	text-align: center;
 	color: #a0a0a0;
 	padding: 5px 0;
@@ -322,7 +311,6 @@ body.color-6 #footer {
 
 .subtleicons:hover {
 	color: #5F9EA0;
-	/*opacity: 0.5;*/
 }
 
 .highlighted-border {
@@ -366,14 +354,12 @@ body.color-6 #footer {
 }
 div#top-nav{
 	margin-top: 20px;
-	/*z-index: 300;*/
 }
 div#top-nav ul {
 	font-family: 'Lato',  sans-serif;
 	margin-bottom: 0px;
 	margin-top: 8px;
 	text-align: center;
-	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li, div#top-nav #fixed-nav li {
 	display: inline-block;
@@ -393,11 +379,9 @@ div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
 div#top-nav #fluid-nav li a:hover {
 	color: #333;
 	text-decoration: none;
-	/*z-index: 300;*/
 }
 div#top-nav #fluid-nav li.current a {
 	color: #faa3a5;
-	/*z-index: 300;*/
 }
 div#top-nav #fixed-nav li a:hover {
 	text-decoration: none;
@@ -410,7 +394,7 @@ div#top-nav #fixed-nav li.current a {
 	font-size: 20px;
 	letter-spacing: 0;
 	margin: 50px auto;
-	font-family: 'Josefin Slab', sans-serif;
+	font-family: "Andale Mono", AndaleMono, monospace;
 	color: rgba(245, 245, 245, 0.67);
 }
 
@@ -422,7 +406,7 @@ div#top-nav #fixed-nav li.current a {
 }
 .slogan h1{
 	color: #FFFFFF;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	font-weight: 500;
 }
 .hero{
@@ -496,7 +480,6 @@ div#top-nav #fixed-nav li.current a {
 	margin-top: -1px;
 	border-top-width: 1px;
 	border-top-style: solid;
-	/*z-index: -20;*/
 }
 .hr-invisible {
 	margin-bottom: 0;
@@ -641,7 +624,6 @@ margin: 0px;
 
 @media (max-width: 767px) {
 	.splash-info {
-		/*border: 1px solid white;*/
 		border-radius: 3px;
 		padding: 20px; 	
 	}
