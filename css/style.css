@@ -411,6 +411,7 @@ div#top-nav #fixed-nav li.current a {
 	letter-spacing: 0;
 	margin: 50px auto;
 	font-family: 'Josefin Slab', sans-serif;
+	color: rgba(245, 245, 245, 0.67);
 }
 
 /* Slogan & Banners ------------------------------------------ */
