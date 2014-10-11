@@ -455,10 +455,10 @@ div#top-nav #fixed-nav li.current a {
 /* Dividers ------------------------------------------ */
 
 hr {
-	border: 0;
+	/*border: 0;*/
 	margin: 10px auto;
 	max-width: 235px;
-	border: 1px solid #18c4bf;
+	color: #18c4bf;
 }
 .hr {
 	display: inline-block;
