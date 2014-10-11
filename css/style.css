@@ -370,7 +370,7 @@ div#top-nav #fluid-nav li:first-child, div#top-nav #fixed-nav li:first-child  {
 
 }
 div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
-	color: #5F9EA0;
+	color: #FFFFFF;
 	text-transform: uppercase;
 	font-size: 12px;
 	border: none;
@@ -669,7 +669,7 @@ margin: 0px;
 	}
 
 	div#top-nav #fluid-nav li a, div#top-nav #fixed-nav li a {
-		color: #5F9EA0;
+		color: #FFFFFF;
 		text-transform: uppercase;
 		font-size: 9px;
 		border: none;
