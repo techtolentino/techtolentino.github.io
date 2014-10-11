@@ -455,18 +455,19 @@ div#top-nav #fixed-nav li.current a {
 /* Dividers ------------------------------------------ */
 
 hr {
-	/*border: 0;*/
+	border: 0;
 	margin: 10px auto;
 	max-width: 235px;
-	color: #18c4bf;
 }
 .hr {
 	display: inline-block;
 	width: 235px;
-	height: 20px;
-	line-height: 20px;
-	margin: 5px;
+	margin: 10px;
 	max-width: none;
+}
+
+#resume-hr {
+	margin-top: 25px;
 }
 
 
