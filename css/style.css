@@ -395,7 +395,7 @@ div#top-nav #fixed-nav li.current a {
 	letter-spacing: 0;
 	margin: 50px auto;
 	font-family: "Andale Mono", AndaleMono, monospace;
-	color: rgba(245, 245, 245, 0.67);
+	color: #63e6c2;
 }
 
 /* Slogan & Banners ------------------------------------------ */
@@ -405,7 +405,7 @@ div#top-nav #fixed-nav li.current a {
 	width: 100%;
 }
 .slogan h1{
-	color: #FFFFFF;
+	color: #F7575D;
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 	font-weight: 500;
 	text-align: center;
