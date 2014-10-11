@@ -403,6 +403,7 @@ div#top-nav #fixed-nav li.current a {
 	height: 100%;
 	text-align: center;
 	width: 100%;
+	margin-top: 45px;
 }
 .slogan h1{
 	color: #F7575D;
@@ -691,7 +692,7 @@ margin: 0px;
 	}
 
 	.splash-info {
-		margin-top: 30px;
+		margin-top: 85px;
 		padding: 0 20px;
 	}
 
