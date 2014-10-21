@@ -532,9 +532,9 @@ hr {
 	text-align: center;
 }
 .title p{
-	letter-spacing: 1px;
+font-family: "Andale Mono", AndaleMono, monospace;
 line-height: 1.6em;
-font-size: 20px;
+font-size: 16px;
 margin: 0px;
 }
 
