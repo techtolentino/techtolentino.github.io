@@ -10,9 +10,14 @@ body {
 }
 
 @font-face {
-  font-family: Andarilho;
-  src: url(../font/Andarilho-font.ttf);
-  font-weight:normal;
+	font-family: 'Andarilho-font';
+	src: url('../font/Andarilho-font.eot');
+	src: url('../font/Andarilho-font.eot?#iefix') format('eot'),
+     url('../font/Andarilho-font.woff') format('woff'),
+     url('../font/Andarilho-font.ttf') format('truetype'),
+     url('../font/Andarilho-font.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
 a { 
@@ -235,7 +240,7 @@ div#top-nav #fixed-nav li a:hover {
 }
 .slogan h1{
 	color: #18c4bf;
-	font-family: Andarilho, "Trebuchet MS", Arial, sans-serif;
+	font-family: "Andarilho-font", "Trebuchet MS", Arial, sans-serif;
 	font-weight: 700;
 	text-align: center;
 	font-size: 15em;
