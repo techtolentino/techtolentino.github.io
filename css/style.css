@@ -410,6 +410,10 @@ color: #D9FF00;
 	opacity: 0.6;
 }
 
+#mobile-nav {
+	display: none;
+}
+
 /* =Media Queries
 -------------------------------------------------------------- */
 @media (max-width: 979px) {
