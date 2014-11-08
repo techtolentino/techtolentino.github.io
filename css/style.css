@@ -412,6 +412,11 @@ color: #D9FF00;
 
 /* =Media Queries
 -------------------------------------------------------------- */
+@media (max-width: 979px) {
+	.slogan h1 {
+		font-size: 11em; 
+	}
+}
 @media (max-width: 767px) {
 	.splash-info {
 		border-radius: 3px;
