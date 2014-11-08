@@ -10,7 +10,7 @@ body {
 }
 
 @font-face {
-	font-family: 'andarilho-font';
+	font-family: Andarilho;
 	src: url('../font/andarilho-font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
@@ -236,7 +236,7 @@ div#top-nav #fixed-nav li a:hover {
 }
 .slogan h1{
 	color: #18c4bf;
-	font-family: "Andarilho-font", "Trebuchet MS", Arial, sans-serif;
+	font-family: Andarilho, "Trebuchet MS", Arial, sans-serif;
 	font-weight: 700;
 	text-align: center;
 	font-size: 15em;
