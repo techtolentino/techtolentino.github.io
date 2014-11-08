@@ -340,13 +340,14 @@ hr {
 .title{
 	text-align: center;
 	margin-bottom: 40px;
-	font-family: "Segoe UI", Arial, sans-serif;
+	font-family: Andarilho, "Trebuchet MS", Arial, sans-serif;
 }
 .title h2{
 	font-weight: bold;
 	font-size: 2.2em;
 	margin: 0px;
 	text-align: center;
+	font-family: Andarilho, "Trebuchet MS", Arial, sans-serif;
 }
 .title p{
 font-family: "Andale Mono", AndaleMono, monospace;
