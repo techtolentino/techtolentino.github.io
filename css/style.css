@@ -10,12 +10,8 @@ body {
 }
 
 @font-face {
-	font-family: 'Andarilho-font';
-	src: url('../font/Andarilho-font.eot');
-	src: url('../font/Andarilho-font.eot?#iefix') format('eot'),
-     url('../font/Andarilho-font.woff') format('woff'),
-     url('../font/Andarilho-font.ttf') format('truetype'),
-     url('../font/Andarilho-font.svg') format('svg');
+	font-family: 'andarilho-font';
+	src: url('../font/andarilho-font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
