@@ -88,6 +88,26 @@ img {
 	-ms-interpolation-mode: bicubic;
 }
 
+.icon-img {
+	height: 145px;
+	border-radius: 3px;
+	text-align: center;
+	padding-top: 45px;
+	background: #112c49;
+	border: 1px solid transparent;
+	transition: background-color 0.75s ease;
+    -webkit-transition: background-color 0.75s ease;
+    -moz-transition: background-color 0.75s ease;
+    -o-transition: background-color 0.75s ease;
+    transition: background-color 0.75s ease;
+}
+
+.icon-img:hover{
+	color: #abffa3;
+	background-color: transparent;
+	border: 1px solid #abffa3;
+}
+
 #profile {
 	height: auto;
 	width: 200px;
@@ -121,7 +141,7 @@ body.color-1 a{
 	text-decoration: none;
 }
 body.color-1 div#top-nav #fixed-nav li a:hover {
-	color: #D9FF00;
+	color: #abffa3;
 }
 
 body.color-1 .bg-color{
@@ -224,7 +244,7 @@ div#top-nav #fixed-nav li a:hover {
 	margin-bottom: 50px;
 	margin-top: 30px;
 	font-family: "Andale Mono", AndaleMono, monospace;
-	color: #D9FF00;
+	color: #abffa3;
 }
 
 /* Slogan & Banners ------------------------------------------ */
@@ -355,7 +375,7 @@ line-height: 1.6em;
 font-size: 16px;
 margin: 0px;
 text-transform: uppercase;
-color: #D9FF00;
+color: #abffa3;
 }
 
 #footer {

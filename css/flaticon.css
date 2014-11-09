@@ -1,0 +1,58 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 6em;
+font-style: normal;
+margin-left: 10px;
+}.flaticon-codings1:before {
+	content: "\e000";
+}
+.flaticon-coffee16:before {
+	content: "\e001";
+}
+.flaticon-disk4:before {
+	content: "\e002";
+}
+.flaticon-document6:before {
+	content: "\e003";
+}
+.flaticon-educational17:before {
+	content: "\e004";
+}
+.flaticon-glasses21:before {
+	content: "\e005";
+}
+.flaticon-ios17:before {
+	content: "\e006";
+}
+.flaticon-laptop116:before {
+	content: "\e007";
+}
+.flaticon-laughing:before {
+	content: "\e008";
+}
+.flaticon-responsive4:before {
+	content: "\e009";
+}
+.flaticon-sportive26:before {
+	content: "\e00a";
+}
+.flaticon-test1:before {
+	content: "\e00b";
+}
+.flaticon-tshirt22:before {
+	content: "\e00c";
+}
+.flaticon-workstations:before {
+	content: "\e00d";
+}
