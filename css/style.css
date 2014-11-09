@@ -95,11 +95,11 @@ img {
 	padding-top: 45px;
 	background: #112c49;
 	border: 1px solid transparent;
-	transition: background-color 0.75s ease;
-    -webkit-transition: background-color 0.75s ease;
-    -moz-transition: background-color 0.75s ease;
-    -o-transition: background-color 0.75s ease;
-    transition: background-color 0.75s ease;
+	transition: background-color 1s ease;
+    -webkit-transition: background-color 1s ease;
+    -moz-transition: background-color 1s ease;
+    -o-transition: background-color 1s ease;
+    transition: background-color 1s ease;
 }
 
 .icon-img:hover{
