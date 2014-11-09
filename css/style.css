@@ -108,6 +108,17 @@ img {
 	border: 1px solid #abffa3;
 }
 
+.icon-contact {
+	height: 170px;
+	border-radius: 3px;
+	color: #ff175e;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 30px;
+	background: #051A26;
+	border: 1px solid #112c49;
+}
+
 #profile {
 	height: auto;
 	width: 200px;
