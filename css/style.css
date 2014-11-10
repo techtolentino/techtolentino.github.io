@@ -95,11 +95,11 @@ img {
 	padding-top: 45px;
 	background: #112c49;
 	border: 1px solid transparent;
-	transition: background-color 1s ease;
-    -webkit-transition: background-color 1s ease;
-    -moz-transition: background-color 1s ease;
-    -o-transition: background-color 1s ease;
-    transition: background-color 1s ease;
+	transition: background-color 1.5s ease;
+    -webkit-transition: background-color 1.5s ease;
+    -moz-transition: background-color 1.5s ease;
+    -o-transition: background-color 1.5s ease;
+    transition: background-color 1.5s ease;
 }
 
 .icon-img:hover{
@@ -466,6 +466,7 @@ color: #abffa3;
 	.top-small-space {
 		padding-top: 15px;
 		color: #F5FFF6;
+		margin-top: 30px;
 	}
 
 	.slogan h1 {
