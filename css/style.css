@@ -113,9 +113,10 @@ img {
 	border-radius: 3px;
 	color: #ff175e;
 	text-align: center;
-	padding-top: 60px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	background: #051A26;
+	padding-right: 20px;
 }
 
 #profile {
@@ -470,6 +471,10 @@ color: #abffa3;
 
 }
 @media (max-width: 480px) { 
+	.icon-contact {
+		height: 80px;
+	}
+
 	#bottom-spacing {
 		margin-bottom: 0;
 	}
