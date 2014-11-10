@@ -103,7 +103,7 @@ img {
 }
 
 .icon-img:hover{
-	color: #abffa3;
+	color: #18c4bf;
 	background-color: transparent;
 	border: 1px solid #abffa3;
 }
@@ -275,7 +275,6 @@ div#top-nav #fixed-nav li a:hover {
 }
 .hero{
 	border-bottom: 1px solid #ff175e;
-	display: inline-block;
 	width: 100%;
 	margin-top: 50px;
 	height: 150px;
