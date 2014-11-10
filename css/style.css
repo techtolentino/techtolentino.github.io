@@ -116,7 +116,6 @@ img {
 	padding-top: 60px;
 	padding-bottom: 40px;
 	background: #051A26;
-	border: 1px solid #112c49;
 }
 
 #profile {
@@ -329,6 +328,7 @@ hr {
 	margin-right: 10px;
 	font-size: 30px;
 	border: none;
+	text-align: center;
 }
 
 .resume {
@@ -369,8 +369,8 @@ hr {
 	font-family: Andarilho, "Trebuchet MS", Arial, sans-serif;
 }
 .title h2{
-	font-weight: bold;
-	font-size: 2.2em;
+	font-weight: 700;
+	font-size: 2.5em;
 	margin: 0px;
 	text-align: center;
 	font-family: Andarilho, "Trebuchet MS", Arial, sans-serif;
@@ -378,7 +378,7 @@ hr {
 .title p{
 font-family: "Andale Mono", AndaleMono, monospace;
 line-height: 1.6em;
-font-size: 16px;
+font-size: 14px;
 margin: 0px;
 text-transform: uppercase;
 color: #abffa3;

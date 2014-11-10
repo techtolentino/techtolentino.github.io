@@ -13,46 +13,52 @@
 	font-family: Flaticon;
         font-size: 6em;
 font-style: normal;
-margin-left: 10px;
-}.flaticon-codings1:before {
+margin-left: 20px;
+}.flaticon-code36:before {
 	content: "\e000";
 }
-.flaticon-coffee16:before {
+.flaticon-codings1:before {
 	content: "\e001";
 }
-.flaticon-disk4:before {
+.flaticon-coffee16:before {
 	content: "\e002";
 }
-.flaticon-document6:before {
+.flaticon-contact6:before {
 	content: "\e003";
 }
-.flaticon-educational17:before {
+.flaticon-disk4:before {
 	content: "\e004";
 }
-.flaticon-glasses21:before {
+.flaticon-document6:before {
 	content: "\e005";
 }
-.flaticon-ios17:before {
+.flaticon-educational17:before {
 	content: "\e006";
 }
-.flaticon-laptop116:before {
+.flaticon-glasses21:before {
 	content: "\e007";
 }
-.flaticon-laughing:before {
+.flaticon-ios17:before {
 	content: "\e008";
 }
-.flaticon-responsive4:before {
+.flaticon-laptop116:before {
 	content: "\e009";
 }
-.flaticon-sportive26:before {
+.flaticon-laughing:before {
 	content: "\e00a";
 }
-.flaticon-test1:before {
+.flaticon-responsive4:before {
 	content: "\e00b";
 }
-.flaticon-tshirt22:before {
+.flaticon-sportive26:before {
 	content: "\e00c";
 }
-.flaticon-workstations:before {
+.flaticon-test1:before {
 	content: "\e00d";
+}
+.flaticon-tshirt22:before {
+	content: "\e00e";
+}
+.flaticon-workstations:before {
+	content: "\e00f";
 }

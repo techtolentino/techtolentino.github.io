@@ -45,14 +45,4 @@ $(document).ready(function(){
             //I get fired when you enter a section and I pass the list item of the section
         }
     });
-
-     $('#nav-button').click(function(){
-        $top_nav = $('#top-nav');
-        if($top_nav.is(':hidden')){
-            $top_nav.slideDown("slow");
-        }else{
-            $top_nav.slideUp();
-        }
-     });
-
 });
