@@ -229,6 +229,7 @@ div#top-nav ul {
 }
 
 div#top-nav #fixed-nav li {
+	font-family: 'Lato',  sans-serif;
 	display: inline-block;
 }
 
