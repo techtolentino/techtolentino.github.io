@@ -77,7 +77,10 @@ p {
 	color: #F5FFF6;
 	font-size: 13px;
 	line-height: 1.5;
+	font-family: Arial, sans-serif !important;
 }
+
+li {font-family: Arial, sans-serif !important;}
 
 img {
 	max-width: 100%;
