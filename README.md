@@ -1,6 +1,6 @@
 randytolentino.com
 
-#####Author
+#####Creator
 ----------
 Four This Morning  
 [@techtolentino](http://twitter.com/techtolentino/)  
