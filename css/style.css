@@ -182,7 +182,7 @@ body.color-5::selection {background: #f39c12; color: #fff; }
 
 body.color-6::selection {background: #f1c40f; color: #fff; }
 
-.pink {
+.accent {
 	color: #18c4bf;
 	font-weight: lighter;
 }
