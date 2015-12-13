@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="287px" height="285px" viewBox="0 0 287 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="bird-one" sketch:type="MSLayerGroup" transform="translate(6.000000, -36.000000)">
+            <path d="M121.519531,2.99999996e-07 L183.340331,81.5883792 L136.294921,149.388672 L121.519531,2.99999996e-07 Z" id="wing" fill="#FFA19B" sketch:type="MSShapeGroup"></path>
+            <path d="M232.762696,162.678709 L35.0615238,218.374029 L138.675898,154.192973 L188.105495,83.3272761 L232.762696,162.678709 Z" id="body" fill="#FE8883" sketch:type="MSShapeGroup"></path>
+            <path d="M196.816406,88.4023438 L263.012695,113.119141 L280.504883,140.772461 L251.302734,134.292969 L231.356949,152.479152 L196.816406,88.4023438 Z" id="head" fill="#FFA19B" sketch:type="MSShapeGroup"></path>
+            <path d="M34.8920135,223.397153 L152.901935,190.040698 L0.0585937002,316.441409 L34.8920135,223.397153 Z" id="tail" fill="#FFA19B" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
