@@ -148,15 +148,22 @@ blockquote, q {
   padding: .5em 1em;
   font-size: 0.875em;
   font-weight: lighter;
-  margin: 2em 0 2em 0; }
+  margin: 2em 1em 2em 0;
+  display: inline-block; }
+  .button:nth-child(2) {
+    border: 1px dotted #00CBFF;
+    color: #00CBFF; }
   .button:hover {
     color: #002A44;
     border: 1px solid #002A44;
+    background: #FFFDE9;
     cursor: pointer;
-    transition: border .5s ease, color .5s ease; }
+    transition: border .5s ease, color .5s ease, background .5s ease; }
   .button-wrapper {
     display: block;
     padding: 2em 0 2em 0; }
+    .button-wrapper:last-child {
+      padding: 0; }
 
 .right {
   float: right; }
