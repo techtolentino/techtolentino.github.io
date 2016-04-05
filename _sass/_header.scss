@@ -63,6 +63,8 @@
     color: $grey;
 
     &:hover {
-        color: $blue;
+        border-bottom: 3px solid $darkblue;
+        padding-bottom: 3px;
+        color: $darkblue;  
     }
 }
