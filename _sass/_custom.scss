@@ -58,9 +58,9 @@
 }
 
 .active-tab {
-    border-bottom: 3px solid $darkblue;
+    border-bottom: 3px solid $blue;
     padding-bottom: 3px;
     &.active-tab {
-        color: $darkblue;
+        color: $blue;
     }
 }
