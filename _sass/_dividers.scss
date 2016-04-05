@@ -1,0 +1,80 @@
+%divider {
+    border: 0;
+    height: 0;
+    width: 7em;
+    margin: 0 0 2em 0;
+}
+
+.divider {
+    &-default {
+        border: 0;
+        height: 0;
+        border-top: 1px dotted $grey;
+        margin: 1em 0 .5em 0;
+    }
+
+    &-black {
+        @extend %divider;
+
+        max-width: 2em;
+        border-top: 3px solid $darkblue;
+
+        &-full {
+            margin: 1em 0 2em 0;
+            max-width: 100%;
+            border-top: 1px dotted $darkblue;
+        }
+    }
+
+    &-grey {
+        @extend %divider;
+
+        max-width: 2em;
+        border-top: 3px solid $grey;
+
+        &-full {
+            margin: 1em 0 2em 0;
+            max-width: 100%;
+            border-top: 1px dotted $grey;
+        }
+    }
+
+    &-blue {
+        @extend %divider;
+
+        max-width: 2em;
+        border-top: 3px solid $blue;
+
+        &-full {
+            margin: 1em 0 2em 0;
+            max-width: 100%;
+            border-top: 1px dotted $blue;
+        }
+    }
+
+    &-magenta {
+        @extend %divider;
+
+        max-width: 2em;
+        border-top: 3px solid $magenta;
+
+        &-full {
+            margin: 1em 0 2em 0;
+            max-width: 100%;
+            border-top: 1px dotted $magenta;
+        }
+    }
+
+    &-offwhite {
+        @extend %divider;
+
+        max-width: 2em;
+        border-top: 3px solid $offwhite;
+
+        &-full {
+            margin: 1em 0 2em 0;
+            max-width: 100%;
+            border-top: 1px dotted $offwhite;
+        }
+    }
+}

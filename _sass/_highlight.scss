@@ -1,0 +1,15 @@
+.highlight {
+	margin-bottom: 3em;
+	margin-top: 2em;
+	overflow: hidden;
+	&-photo {
+		width: calc(100%/4);
+		float: left;
+		margin-bottom: -0.5em;
+		img {
+			width: 100%;
+			border: 2px solid $offwhite;
+		}
+	}
+
+}

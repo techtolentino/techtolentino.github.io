@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+	<div class="wrapper">
+		<div class="band-spaced">
+			<a href="/2016-blog" class="subtle"><span class="flipped">&#9656; </span> Blog</a>
+			<header class="post-header">
+				<img class="post-card-img" src="{{site.url}}/assets/{{page.img}}">
+				<h3 class="post-heading" itemprop="name headline">{{ page.title }}</h3>
+				<hr class="divider-magenta">
+				<p class="post-subtitle">{{ page.subtitle }}</p>
+				<p class="post-meta">
+					<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+				</p>
+			</header>
+			<div class="project-content" itemprop="articleBody">
+				{{ content }}
+			</div>
+		</div>
+	</div>
+</article>

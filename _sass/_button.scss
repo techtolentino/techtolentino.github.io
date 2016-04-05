@@ -1,0 +1,30 @@
+.button {
+    background: transparent;
+    border: 1px dotted $magenta;
+    color: #FF115B;
+    padding: .5em 1em;
+    font-size: 0.875em;
+    font-weight: lighter;
+    margin: 2em 1em 2em 0;
+    display: inline-block;
+    &:nth-child(2) {
+    	border: 1px dotted $blue;
+    	color: $blue;
+    }
+    
+	&:hover {
+		color: $darkblue;
+		border: 1px solid $darkblue;
+		background: $highlight;
+		cursor: pointer;
+		transition: border .5s ease, color .5s ease, background .5s ease;
+	}
+	&-wrapper {
+		display: block;
+		padding: 2em 0 2em 0;
+		
+		&:last-child {
+			padding: 0;
+		}
+	}
+}

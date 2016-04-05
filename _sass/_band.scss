@@ -1,0 +1,55 @@
+.band {
+    &-hero {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+
+        &-flock {
+            margin-bottom: 2em;
+        }
+
+        &-title {
+            color: $darkblue;
+
+            h2 {
+                font-weight: lighter;
+                margin-top: 1em;
+            }
+
+            img {
+                max-width: 40px;
+                margin-right: 1em;
+            }
+
+            .bird-two {
+                max-width: 30px;
+                margin-right: 1.5em;
+            }
+
+            .bird-three {
+                max-width: 25px;
+                margin-right: 1.25em;
+            }
+        }
+    }
+    
+    &-lightgrey {
+        border-top: 1px dotted $grey;
+        padding: 4em 0 4em 0;
+        background: $offwhite;
+    }    
+
+    &-plain {
+        border-top: 1px dotted $grey;
+        padding: 4em 0 4em 0;
+        background: $white;    
+    }
+
+    &-spaced {
+        padding: 9em 0 5em 0;
+    }
+
+    &--footer {
+        border-top: 1px dotted $grey;
+    }
+}

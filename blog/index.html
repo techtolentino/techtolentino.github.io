@@ -1,0 +1,20 @@
+---
+layout: page
+title: Blog
+permalink: /2016-blog/
+---
+<hr class="divider-magenta">
+<ul class="post-list">
+	{% for post in site.posts %}
+		<li class="post-card">
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+				<div class="post-card-item">
+					<h4 class="post-card-title">{{ post.title }}</h4>
+					<img class="post-card-img" src="{{site.url}}/assets/{{post.img}}">
+					<p class="post-subtitle">{{ post.subtitle }}</p>
+					<p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+				</div>
+			</a>
+		</li>
+	{% endfor %}
+</ul>

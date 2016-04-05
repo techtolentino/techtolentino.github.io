@@ -1,0 +1,58 @@
+// Utils
+.right {
+    float: right;
+}
+
+.accent {
+    color: $magenta;
+}
+
+.subtle {
+    color: $grey;
+
+    a {
+        color: $grey;
+    }
+}
+
+.quote {
+    font-style: italic;
+    font-weight: 400;
+
+    &:before {
+        content: '“';
+        font-size: 3em;
+        color: $darkblue;
+        margin-right: .15em;
+        margin-left: -5px;
+    }
+}
+
+.flipped {
+    display: inline-block;
+    transform: scale(-1);
+    filter: flipH;
+    -ms-filter: flipH;
+}
+
+.centered {
+    text-align: center;
+}
+
+.show {
+    display: inline-block;
+}
+
+.hide {
+    display: none;
+}
+
+.octoran {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.bird-logo {
+    width: 1.25em;
+}

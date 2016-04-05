@@ -1,0 +1,68 @@
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    font-weight: lighter;
+}
+
+.header-brand {
+    height: 1.5em;
+    margin-bottom: -.45em;
+}
+
+.header-main {
+    padding: .75em 0 .5em 0;
+    background: $offwhite;
+    border-bottom: 1px dotted $grey;
+}
+
+.header-secondary {
+    background: -moz-linear-gradient(left, transparent 0%, $offwhite 26%, $offwhite 100%);
+    background: -webkit-linear-gradient(left, transparent 0%, $offwhite 26%, $offwhite 100%);
+    background: linear-gradient(to right, transparent 0%, $offwhite 26%, $offwhite 100%);
+}
+
+.header-title {
+    float: left;
+    color: $darkblue;
+}
+
+.header-menu {
+    float: right;
+    width: 260px;
+}
+
+.header-nav {
+    float: right;
+
+    &:hover {
+        cursor: pointer;
+    }
+    
+    &-dots {
+        width: 52px;
+        height: 10px;
+    }
+    
+    &-close {
+        width: 1em;
+        height: 1em;
+    }
+}
+
+.header-nav-menu {
+    width: 100%;
+    text-align: right;
+    background: transparent;
+    margin-top: 1px;
+}
+
+.header-link {
+    margin: 0 .5em 0 .5em;
+    color: $grey;
+
+    &:hover {
+        color: $blue;
+    }
+}

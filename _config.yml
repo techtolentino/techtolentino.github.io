@@ -1,0 +1,30 @@
+# Site settings
+title: Randy Tolentino
+email: makertolentino@gmail.com
+description: > 
+  Randy is a full-stack family man, front-end software developer, 
+  and a former hip-hop artist.
+baseurl: ""
+url: "http://randytolentino.com"
+twitter_username: techtolentino
+github_username:  techtolentino
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /2016-blog/:year/:month/:day/:title
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: "project"
+      permalink: /work/:title
+
+# Build settings
+markdown: kramdown
