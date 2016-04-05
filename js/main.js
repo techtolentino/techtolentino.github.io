@@ -13,6 +13,4 @@ document.addEventListener('DOMContentLoaded', function() {
 	if(window.location.href.indexOf("work") > -1) {
 		navTabs[2].classList.toggle('active-tab-grey');
 	}	
-
-	console.log(window.location.href);
 });
