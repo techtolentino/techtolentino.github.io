@@ -57,9 +57,25 @@
     width: 1.25em;
 }
 
-.active-tab {
-    border-bottom: 3px solid $blue;
+.active-tab-blue {
     padding-bottom: 3px;
+    border-bottom: 3px solid $blue    
+    &.active-tab {
+        color: $blue;
+    }
+}
+
+.active-tab-magenta {
+    padding-bottom: 3px;
+    border-bottom: 3px solid $magenta    
+    &.active-tab {
+        color: $blue;
+    }
+}
+
+.active-tab-grey {
+    padding-bottom: 3px;
+    border-bottom: 3px solid $grey    
     &.active-tab {
         color: $blue;
     }
