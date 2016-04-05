@@ -6,7 +6,6 @@ script: main.js
 ---
 <hr class="divider-blue">
 
-
 #### Failure initiates the journey
 
 In December of 2013, I remember failing an interview for an ed-tech position in Oregon.
