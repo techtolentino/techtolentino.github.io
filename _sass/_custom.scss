@@ -60,23 +60,17 @@
 .active-tab-blue {
     padding-bottom: 3px;
     border-bottom: 3px solid $blue;
-    &.active-tab {
-        color: $darkblue;
-    }
+    color: $darkblue;
 }
 
 .active-tab-magenta {
     padding-bottom: 3px;
     border-bottom: 3px solid $magenta;
-    &.active-tab {
-        color: $darkblue;
-    }
+    color: $darkblue;
 }
 
 .active-tab-grey {
     padding-bottom: 3px;
     border-bottom: 3px solid $grey;
-    &.active-tab {
-        color: $darkblue;
-    }
+    color: $darkblue;
 }
