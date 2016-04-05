@@ -61,16 +61,25 @@
     padding-bottom: 3px;
     border-bottom: 3px solid $blue;
     color: $darkblue;
+    &.header-link {
+        color: $darkblue;
+    }
 }
 
 .active-tab-magenta {
     padding-bottom: 3px;
     border-bottom: 3px solid $magenta;
     color: $darkblue;
+    &.header-link {
+        color: $darkblue;
+    }
 }
 
 .active-tab-grey {
     padding-bottom: 3px;
     border-bottom: 3px solid $grey;
     color: $darkblue;
+    &.header-link {
+        color: $darkblue;
+    }
 }
