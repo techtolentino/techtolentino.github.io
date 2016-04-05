@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	if(window.location.href.indexOf("about") > -1) {
 		console.log('this is the about page');
-		navTabs[0].classList.toggleClass('active-tab');
 	}
-})
+
+	console.log(window.location.href);
+});
