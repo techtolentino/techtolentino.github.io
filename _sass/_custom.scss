@@ -61,7 +61,7 @@
     padding-bottom: 3px;
     border-bottom: 3px solid $blue;
     &.active-tab {
-        color: $blue;
+        color: $darkblue;
     }
 }
 
@@ -69,7 +69,7 @@
     padding-bottom: 3px;
     border-bottom: 3px solid $magenta;
     &.active-tab {
-        color: $blue;
+        color: $darkblue;
     }
 }
 
@@ -77,6 +77,6 @@
     padding-bottom: 3px;
     border-bottom: 3px solid $grey;
     &.active-tab {
-        color: $blue;
+        color: $darkblue;
     }
 }
