@@ -45,13 +45,35 @@
             }
         }
     }
-    h1 {
-        font-size: 3.5em;
+    .text-1 {
+        font-size: 2em;
         margin-top: .5em;
     }
 
+
     .band-hero {
         padding: 9em 0 5em 0;
+        &-flock {
+            margin-bottom: 1em;
+        }
+        &-title {
+            .bird-one {
+                max-width: 30px;
+                margin-right: .75em;
+            }
+            .bird-two {
+                max-width: 20px;
+                margin-right: .75em;
+            }
+            .bird-three {
+                max-width: 15px;
+                margin-right: .75em;
+            }
+            .bird-four {
+                max-width: 30px;
+                margin-right: .75em;
+            }
+        }
         min-height: 65vh;
     }
 
