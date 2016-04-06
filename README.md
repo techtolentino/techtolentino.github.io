@@ -1,4 +1,4 @@
-<a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/site-hero.png" alt="" width="300"></a>
+<a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/site-hero.png" alt="randytolentino.com hero image" width="300"></a>
 
 #### Introduction
 It's 2016 - things had to change.
