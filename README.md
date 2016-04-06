@@ -1,10 +1,6 @@
 ###[randytolentino.com](http://randytolentino.com/)
 
 <br>
-<br>
-
-[Alt text](https://raw.githubusercontent.com/techtolentino/techtolentino.github.io/master/assets/bird-four.svg)
-<img src="https://raw.githubusercontent.com/techtolentino/techtolentino.github.io/master/assets/bird-four.svg" width="20px">
 
 #### Introduction
 It's 2016 - things had change.
