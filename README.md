@@ -1,5 +1,4 @@
-<a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/flock.png" alt="" width="200"></a>
-###[randytolentino.com](http://randytolentino.com/)
+<a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/hero.png" alt="" width="300"></a>
 
 <br>
 
