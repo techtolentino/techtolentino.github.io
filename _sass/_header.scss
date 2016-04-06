@@ -17,12 +17,6 @@
     border-bottom: 1px dotted $grey;
 }
 
-.header-secondary {
-    background: -moz-linear-gradient(left, transparent 0%, $offwhite 26%, $offwhite 100%);
-    background: -webkit-linear-gradient(left, transparent 0%, $offwhite 26%, $offwhite 100%);
-    background: linear-gradient(to right, transparent 0%, $offwhite 26%, $offwhite 100%);
-}
-
 .header-title {
     float: left;
     color: $darkblue;
