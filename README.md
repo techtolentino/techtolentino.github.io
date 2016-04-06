@@ -1,5 +1,11 @@
 ###[randytolentino.com](http://randytolentino.com/)
 
+<br>
+<br>
+
+[Alt text](https://raw.githubusercontent.com/techtolentino/techtolentino.github.io/master/assets/bird-four.svg)
+<img src="https://raw.githubusercontent.com/techtolentino/techtolentino.github.io/master/assets/bird-four.svg" width="20px">
+
 #### Introduction
 It's 2016 - things had change.
 And it's probably not over.
@@ -12,6 +18,8 @@ With that said, the purpose of my site has pivoted. It'll no longer be project-f
 
 Here, I hope to share the many stories of triumph and downfall that I experience as an established developer with a beginner's mindset.
 
+<br>
+
 #### Contributions
 
 If you notice a problem or have a suggestion, I'm definitely open to hearing from you. As a contributor to Open Source, I value the benefits of social coding and shared knowledge. 
@@ -23,6 +31,8 @@ If you notice a problem or have a suggestion, I'm definitely open to hearing fro
 - Edit away
 - Push to your clone
 - Submit a PR
+
+<br>
 
 #### Maker
 [Randy Tolentino](http://randytolentino.com/)  
