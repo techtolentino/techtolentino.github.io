@@ -1,7 +1,5 @@
 <a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/site-hero.png" alt="" width="300"></a>
 
-<br>
-
 #### Introduction
 It's 2016 - things had change.
 And it's probably not over.
