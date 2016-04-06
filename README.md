@@ -1,7 +1,8 @@
 <a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/site-hero.png" alt="" width="300"></a>
 
 #### Introduction
-It's 2016 - things had change.
+It's 2016 - things had to change.
+
 And it's probably not over.
 
 In the beginning, it was all about _proving yourself_ worthy as a developer by getting a _portfolio_ up on the web.
