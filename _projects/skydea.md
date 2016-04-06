@@ -6,6 +6,7 @@ date:   2016-03-28 06:05:00 -0600
 subtitle: "Ideas in the cloud"
 stack: Ember, Scss, Firebase
 image: svg-skydea.svg
+alt: skydea app icon
 code-link: https://github.com/techtolentino/skydea
 demo-link: https://skydea.firebaseapp.com/
 ---

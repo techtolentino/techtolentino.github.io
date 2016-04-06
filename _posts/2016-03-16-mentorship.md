@@ -3,6 +3,7 @@ layout: post
 title:  "Mentorship"
 subtitle: "So, I became a mentor"
 img: svg-mentorship.svg
+alt: mentorship icon
 date:   2016-03-15 06:05:00 -0600
 ---
 Recently, I've been involved with helping out with a couple of open source (OS) projects.

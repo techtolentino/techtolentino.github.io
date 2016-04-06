@@ -3,6 +3,7 @@ layout: post
 title:  "Cached Favicons"
 subtitle: "Favicon caching issue"
 img: svg-favicon.svg
+alt: favicon icon
 date:   2016-03-22 06:05:00 -0600
 ---
 Ever since I've been helping out in Open Source projects, I've been running into this annoying issue with Google Chrome caching favicons. Chrome seems to love the latest favicon that was used on localhost. And while I really like the newest Open Austin logo (seen in the image above as a favicon), unfortunately, it's not mine.

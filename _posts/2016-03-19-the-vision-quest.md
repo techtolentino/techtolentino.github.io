@@ -3,6 +3,7 @@ layout: post
 title:  "The Vision Quest"
 subtitle: "Soul training via code"
 img: svg-vision-quest.svg
+alt: vision quest icon
 date:   2016-03-18 06:05:00 -0600
 ---
 

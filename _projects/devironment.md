@@ -6,6 +6,7 @@ date:   2016-04-02 06:05:00 -0600
 subtitle: "Take it with you"
 stack: Angular, Scss, Gulp
 image: svg-dev.svg
+alt: developer icon
 code-link: https://github.com/techtolentino/devironment
 demo-link: http://randytolentino.com/environment
 ---

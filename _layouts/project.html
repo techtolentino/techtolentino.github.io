@@ -6,7 +6,7 @@ layout: default
 		<div class="band-spaced">
 			<a href="/work" class="subtle"><span class="flipped">&#9656; </span> Work</a>
 			<header class="project-header">
-				<img class="project-image" src="{{site.url}}/assets/{{page.image}}">
+				<img class="project-image" src="{{site.url}}/assets/{{page.image}}" alt="{{page.alt}}">
 				<h3 class="project-heading" itemprop="name headline">{{ page.title }}</h3>
 				<hr class="divider-grey">
 				<p class="project-subtitle">{{ page.subtitle }}</p>
@@ -14,7 +14,6 @@ layout: default
 			</header>
 			<div class="project-content" itemprop="articleBody">
 				{{ content }}
-				
 				<div class="project-actions">
 					<div class="button-wrapper">
 						<a href="{{page.demo-link}}" target="blank" class="button">Live demo &#9656;</a><a href="{{page.code-link}}" target="blank" class="button">View code &#9656;</a>

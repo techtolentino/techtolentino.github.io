@@ -6,6 +6,7 @@ date:   2016-03-29 06:05:00 -0600
 subtitle: "First project, ever"
 stack: Rails, Javascript, Foundation
 image: svg-fresh.svg
+alt: fresh function app icon
 code-link: https://github.com/techtolentino/fresh
 demo-link: https://freshfunction.herokuapp.com/
 ---
