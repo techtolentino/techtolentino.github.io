@@ -24,8 +24,8 @@ I searched online for where these favicons might possibly be cached. In one solu
 So, I'm not sure which file was the culprit, so I just deleted 'em both!
 
 ```
-Favicons
-Favicons-journal
+📄 Favicons
+📄 Favicons-journal
 ```
 
 **3) Boom!**  
