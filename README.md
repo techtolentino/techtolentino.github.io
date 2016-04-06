@@ -16,7 +16,6 @@ Here, I hope to share the many stories of triumph and downfall that I experience
 
 If you notice a problem or have a suggestion, I'm definitely open to hearing from you. As a contributor to Open Source, I value the benefits of social coding and shared knowledge. 
 
-```
 - Fork the repo
 - Clone your own
 - Run `bundle install` (since [Dan Doezema's](http://dan.doezema.com/2014/01/setting-up-livereload-with-jekyll/) Guard method with LiveReload)
@@ -24,7 +23,6 @@ If you notice a problem or have a suggestion, I'm definitely open to hearing fro
 - Edit away
 - Push to your clone
 - Submit a PR
-```
 
 #### Maker
 [Randy Tolentino](http://randytolentino.com/)  
