@@ -21,7 +21,7 @@ If you notice a problem or have a suggestion, I'm definitely open to hearing fro
 
 - Fork the repo
 - Clone your own
-- Run `bundle install` (since [Dan Doezema's](http://dan.doezema.com/2014/01/setting-up-livereload-with-jekyll/) Guard method with LiveReload)
+- Run `bundle install` (since I use [Dan Doezema's](http://dan.doezema.com/2014/01/setting-up-livereload-with-jekyll/) Guard method with LiveReload)
 - Make a branch
 - Edit away
 - Push to your clone
