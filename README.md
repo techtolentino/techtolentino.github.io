@@ -1,8 +1,8 @@
+<a href="http://randytolentino.com" target="blank"><img src="https://github.com/techtolentino/general_assets/blob/master/images/flock.png" alt="" width="200"></a>
 ###[randytolentino.com](http://randytolentino.com/)
 
 <br>
-<img src="https://github.com/techtolentino/general_assets/blob/master/images/flock.png" alt="" width="200">
-<br>
+
 #### Introduction
 It's 2016 - things had change.
 And it's probably not over.
