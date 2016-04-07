@@ -10,6 +10,7 @@
     &:nth-child(2) {
     	border: 1px dotted $blue;
     	color: $blue;
+    	text-align: right;
     }    
 }
 
@@ -29,20 +30,6 @@
 		
 		&:last-child {
 			padding: 0;
-		}
-	}
-
-	&-set {
-		display: flex;
-		justify-content: space-around;
-	}
-
-	&-half {
-    	@include button;
-		flex: 0 0 50%;
-		flex-shrink: inherit;
-		&:nth-child(2) {
-			text-align: right;
 		}
 	}
 }
