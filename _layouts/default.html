@@ -9,19 +9,34 @@
 			</div>
 		</div>
 		{% include footer.html %}
-	 	<script type="text/javascript">
-	 		document.addEventListener('DOMContentLoaded', function() {
+		
+		{% if page.title == 'About'%}
+		 	<script type="text/javascript">
+		 		document.addEventListener('DOMContentLoaded', function() {
 				var navTabs = document.getElementsByClassName('header-link');
-				if(window.location.href.indexOf("about") > -1) {
 					navTabs[0].classList.toggle('active-tab-blue');
-				}
-				if(window.location.href.indexOf("blog") > -1) {
+				});
+		 	</script>
+		{% endif%}
+
+		{% if page.title == 'Blog'%}
+		 	<script type="text/javascript">
+		 		document.addEventListener('DOMContentLoaded', function() {
+				var navTabs = document.getElementsByClassName('header-link');
 					navTabs[1].classList.toggle('active-tab-magenta');
-				}
-				if(window.location.href.indexOf("work") > -1) {
+				});
+		 	</script>
+		{% endif%}
+
+		{% if page.title == 'Work'%}
+		 	<script type="text/javascript">
+		 		document.addEventListener('DOMContentLoaded', function() {
+				var navTabs = document.getElementsByClassName('header-link');
 					navTabs[2].classList.toggle('active-tab-grey');
-				}	
-		});
+				});
+		 	</script>
+		{% endif%}				
+
 	 	</script>
 	</body>
 </html>
