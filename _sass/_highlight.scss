@@ -1,7 +1,8 @@
 .highlight {
-	margin-bottom: 3em;
-	margin-top: 2em;
+	margin-bottom: 1em;
+	margin-top: 1em;
 	overflow: hidden;
+	padding: 1em;
 	&-photo {
 		width: calc(100%/4);
 		float: left;

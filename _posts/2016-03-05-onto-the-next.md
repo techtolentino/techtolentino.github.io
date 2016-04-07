@@ -3,6 +3,7 @@ layout: post
 title:  "Onto the next"
 subtitle: "Re-coded my site, again..."
 img: svg-redesign.svg
+alt: redesign icon
 date:   2016-03-05 06:05:00 -0600
 ---
 No one looks at your portfolio. Is that true? Might be. But it hasn't stopped me from wanting to redo my entire site again. For me, this is probably the fifth iteration within the past year and a half, so I thought it might be a good time to explain why I re-coded my site, again...

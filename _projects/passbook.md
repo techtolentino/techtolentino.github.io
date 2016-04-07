@@ -6,6 +6,7 @@ date:   2016-03-31 06:05:00 -0600
 subtitle: "Simple bill tracker"
 stack: Angular, Firebase, Gulp
 image: svg-passbook.svg
+alt: passbook app icon
 code-link: https://github.com/techtolentino/passbook_fire
 demo-link: https://passbook.firebaseapp.com/#/bills
 ---
