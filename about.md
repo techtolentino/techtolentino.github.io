@@ -24,29 +24,29 @@ Less than a year and a half after that failed interview, I am more than grateful
 
 God is dope.
 
-<section class="highlight">
-	<div class="highlight-photo">
+<section class="highlight-set">
+	<div class="highlight-set-photo">
 		<img src="/assets/ran_2016.jpg" alt="my glasses">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/beach.jpg" alt="wife and the boys at the beach">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/boys.jpg" alt="walking with my sons">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/ice_cream.jpg" alt="Evan and Pax eating ice cream">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/rhyme.jpg" alt="performing on stage">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/grass.jpg" alt="shoes on the grass">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/wife.jpg" alt="me and my wife">
 	</div>
-	<div class="highlight-photo">
+	<div class="highlight-set-photo">
 		<img src="/assets/space.jpg" alt="my workspace">
 	</div>
 </section>
