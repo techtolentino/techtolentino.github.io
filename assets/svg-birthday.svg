@@ -6,41 +6,49 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="svg-birthday">
-            <g id="magenta" transform="translate(2.000000, 6.000000)" stroke="#FF115B">
-                <ellipse id="Oval-28" stroke-width="0.5" fill="#FBFBFB" cx="7" cy="6.3" rx="6" ry="6.3"></ellipse>
-                <g id="Group-4" transform="translate(2.428571, 9.720000) scale(-1, 1) translate(-2.428571, -9.720000) translate(0.428571, 6.720000)" stroke-width="0.25" stroke-linecap="square">
-                    <path d="M0.857142857,3.36 L1.54285714,3.864" id="Line"></path>
-                    <path d="M1.71428571,2.1 L2.4,2.604" id="Line"></path>
-                    <path d="M0,3.78 L1.02857143,4.536" id="Line"></path>
-                    <path d="M0.857142857,2.52 L1.88571429,3.276" id="Line"></path>
-                    <path d="M1.71428571,1.26 L2.74285714,2.016" id="Line"></path>
+            <g transform="translate(4.000000, 2.000000)" id="Page-1">
+                <g>
+                    <g>
+                        <g id="svg-birthday">
+                            <g id="magenta" transform="translate(0.000000, 3.000000)" stroke="#FF115B">
+                                <ellipse id="Oval-28" stroke-width="0.5" fill="#FBFBFB" cx="6" cy="6.3" rx="6" ry="6.3"></ellipse>
+                                <g id="Group-4" transform="translate(1.928571, 9.720000) scale(-1, 1) translate(-1.928571, -9.720000) translate(0.428571, 7.720000)" stroke-width="0.25">
+                                    <path d="M0.857142857,2.36 L1.54285714,2.864" id="Line"></path>
+                                    <path d="M1.71428571,1.1 L2.4,1.604" id="Line"></path>
+                                    <path d="M0,2.78 L1.02857143,3.536" id="Line"></path>
+                                    <path d="M0.857142857,1.52 L1.88571429,2.276" id="Line"></path>
+                                    <path d="M1.71428571,0.26 L2.74285714,1.016" id="Line"></path>
+                                </g>
+                                <path d="M6.61381291,12.7240249 C6.74820035,12.5609967 6.96224545,12.5563383 7.10047291,12.7240249 L7.71428576,13.468654 L6.00000005,13.468654 L6.61381291,12.7240249 L6.61381291,12.7240249 Z" id="Triangle-2" stroke-width="0.5" fill="#FBFBFB" transform="translate(6.857143, 13.034327) rotate(-8.000000) translate(-6.857143, -13.034327) "></path>
+                                <path d="M7.28571429,14.28 C7.28571429,14.28 8.12279066,15.6025275 8.26254105,17.2869085 C8.40229143,18.9712895 7.5,21 7.5,21" id="Line" stroke-width="0.5"></path>
+                            </g>
+                            <g id="blue" transform="translate(14.000000, 5.000000)" stroke="#00CBFF">
+                                <ellipse id="Oval-28" stroke-width="0.5" fill="#FBFBFB" cx="5" cy="5.4" rx="5" ry="5.4"></ellipse>
+                                <g id="Group-3" transform="translate(3.285714, 10.640000) scale(-1, 1) translate(-3.285714, -10.640000) translate(2.285714, 9.640000)" stroke-width="0.25">
+                                    <path d="M0.714285714,0.08 L1.42857143,0.62" id="Line"></path>
+                                    <path d="M0,0.44 L0.714285714,0.98" id="Line"></path>
+                                </g>
+                                <path d="M5.50356262,10.9119148 C5.61978871,10.7668901 5.80159402,10.7586118 5.92445452,10.9119148 L6.42829429,11.5405967 L4.99972286,11.5405967 L5.50356262,10.9119148 L5.50356262,10.9119148 Z" id="Triangle-2" stroke-width="0.5" fill="#FBFBFB" transform="translate(5.714009, 11.170309) rotate(-8.000000) translate(-5.714009, -11.170309) "></path>
+                                <path d="M6.07142857,12.24 C6.07142857,12.24 6.76899222,13.373595 6.88545087,14.8173501 C7.00190953,16.2611053 6.25,18 6.25,18" id="Line" stroke-width="0.5"></path>
+                            </g>
+                            <g id="darkblue" transform="translate(5.000000, 0.000000)" stroke="#002A44">
+                                <ellipse id="Oval-28" stroke-width="0.5" fill="#FBFBFB" cx="7" cy="7.5" rx="7" ry="7.5"></ellipse>
+                                <g id="Group-2" transform="translate(2.000000, 10.500000) scale(-1, 1) translate(-2.000000, -10.500000) translate(0.000000, 7.000000)" stroke-width="0.25">
+                                    <path d="M1,4.5 L2.2,5.4" id="Line"></path>
+                                    <path d="M0,6 L1,6.75" id="Line"></path>
+                                    <path d="M2,3 L3.2,3.9" id="Line"></path>
+                                    <path d="M3,1.5 L3.8,2.1" id="Line"></path>
+                                    <path d="M1,3.5 L2.48,4.61" id="Line"></path>
+                                    <path d="M0,5 L1.48,6.11" id="Line"></path>
+                                    <path d="M2,2 L3.4,3.05" id="Line"></path>
+                                    <path d="M3,0.5 L3.8,1.1" id="Line"></path>
+                                </g>
+                                <path d="M7.71611506,15.1476488 C7.87290042,14.9535676 8.12261969,14.9480219 8.28388506,15.1476488 L9.00000006,16.034112 L7.00000006,16.034112 L7.71611506,15.1476488 L7.71611506,15.1476488 Z" id="Triangle-2" stroke-width="0.5" fill="#FBFBFB" transform="translate(8.000000, 15.517056) rotate(-8.000000) translate(-8.000000, -15.517056) "></path>
+                                <path d="M8.5,17 C8.5,17 9.4765891,18.7719254 9.6396312,21.0286629 C9.8026733,23.2854004 8.75,26.0034714 8.75,26.0034714" id="Line" stroke-width="0.5"></path>
+                            </g>
+                        </g>
+                    </g>
                 </g>
-                <path d="M7.61381286,12.7240242 C7.7482003,12.560996 7.9622454,12.5563376 8.10047286,12.7240242 L8.71428571,13.4686533 L7,13.4686533 L7.61381286,12.7240242 Z" id="Triangle-2" stroke-width="0.5" fill="#FBFBFB" transform="translate(7.857143, 13.034327) scale(1, -1) rotate(8.000000) translate(-7.857143, -13.034327) "></path>
-                <path d="M8.28571429,14.28 C8.28571429,14.28 9.12279066,15.6025275 9.26254105,17.2869085 C9.40229143,18.9712895 8.5,21 8.5,21" id="Line" stroke-width="0.5" stroke-linecap="square"></path>
-            </g>
-            <g id="blue" transform="translate(17.000000, 8.000000)" stroke="#00CBFF">
-                <ellipse id="Oval-28" stroke-width="0.5" fill="#FBFBFB" cx="5" cy="5.4" rx="5" ry="5.4"></ellipse>
-                <g id="Group-3" transform="translate(3.285714, 10.140000) scale(-1, 1) translate(-3.285714, -10.140000) translate(2.285714, 8.640000)" stroke-width="0.25" stroke-linecap="square">
-                    <path d="M0.714285714,1.08 L1.42857143,1.62" id="Line"></path>
-                    <path d="M0,1.44 L0.714285714,1.98" id="Line"></path>
-                </g>
-                <path d="M5.50356255,10.9119138 C5.61978864,10.7668891 5.80159395,10.7586108 5.92445445,10.9119138 L6.42829422,11.5405957 L4.99972279,11.5405957 L5.50356255,10.9119138 Z" id="Triangle-2" stroke-width="0.5" fill="#FBFBFB" transform="translate(5.714009, 11.170308) scale(1, -1) rotate(8.000000) translate(-5.714009, -11.170308) "></path>
-                <path d="M6.07142857,12.24 C6.07142857,12.24 6.76899222,13.373595 6.88545087,14.8173501 C7.00190953,16.2611053 6.25,18 6.25,18" id="Line" stroke-width="0.5" stroke-linecap="square"></path>
-            </g>
-            <g id="darkblue" transform="translate(7.000000, 3.000000)" stroke="#002A44">
-                <ellipse id="Oval-28" stroke-width="0.5" fill="#FBFBFB" cx="8" cy="7.5" rx="7" ry="7.5"></ellipse>
-                <g id="Group-2" transform="translate(2.500000, 10.500000) scale(-1, 1) translate(-2.500000, -10.500000) translate(0.000000, 6.000000)" stroke-width="0.25" stroke-linecap="square">
-                    <path d="M1,5.5 L2.2,6.4" id="Line"></path>
-                    <path d="M0,7 L1,7.75" id="Line"></path>
-                    <path d="M2,4 L3.2,4.9" id="Line"></path>
-                    <path d="M3,2.5 L3.8,3.1" id="Line"></path>
-                    <path d="M1,4.5 L2.48,5.61" id="Line"></path>
-                    <path d="M0,6 L1.48,7.11" id="Line"></path>
-                    <path d="M2,3 L3.4,4.05" id="Line"></path>
-                    <path d="M3,1.5 L3.8,2.1" id="Line"></path>
-                </g>
-                <path d="M8.716115,15.1476479 C8.87290036,14.9535667 9.12261963,14.948021 9.283885,15.1476479 L10,16.0341111 L8,16.0341111 L8.716115,15.1476479 Z" id="Triangle-2" stroke-width="0.5" fill="#FBFBFB" transform="translate(9.000000, 15.517056) scale(1, -1) rotate(8.000000) translate(-9.000000, -15.517056) "></path>
-                <path d="M9.5,17 C9.5,17 10.4765891,18.7719254 10.6396312,21.0286629 C10.8026733,23.2854004 9.75,26.0034714 9.75,26.0034714" id="Line" stroke-width="0.5" stroke-linecap="square"></path>
             </g>
         </g>
     </g>
