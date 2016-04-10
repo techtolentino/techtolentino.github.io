@@ -19,7 +19,7 @@ Not to mention, every time we step outside of the house, little dude loves rocki
 
 And although there's a very strong connection or resemblance between me and Pax, I would argue that I'm not the only one privy to having a special relationship with him.
 
-The truth is, **he's close to all of us.**
+*The truth is, he's close to all of us.*
 
 Paxon has given Evan his first true and only best friend. He makes Ev crack up with his odd-at-times behaviors and supports Evan's make believe activities every day. He protects his brother, he checks on him when he's sad or in trouble. He's everything we wanted for Evan when we decided to try for another baby.
 
