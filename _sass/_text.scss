@@ -64,10 +64,11 @@ pre {
 
 blockquote, q {
     quotes: initial;
-    border: 3px solid lightgrey;
-    padding: 1em;
+    border-left: 3px solid $midgrey;
+    padding: .5em 1em .5em 1em;
     margin: 1em 0;
-    font-style: italic;    
+    font-style: italic;
+    font-weight: lighter;
 }
 
 .text-5 {
