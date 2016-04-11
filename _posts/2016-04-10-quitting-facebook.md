@@ -5,7 +5,7 @@ title:  "Quitting Facebook"
 subtitle: "Freeing up the mind"
 img: svg-facebooked.svg
 alt: alternative text
-date:   2016-04-07 06:05:00 -0600
+date:   2016-04-10 06:05:00 -0600
 ---
 
 Earlier this year (I don't remember the exact week), I remember having a couple of very difficult days, consecutively. It must've been at least 3 days in a row.
