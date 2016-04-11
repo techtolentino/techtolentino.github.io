@@ -16,23 +16,23 @@ I figured, the solution was simple - spend longer hours at work while sacrificin
 
 To make matters worse, at home, my vibe and energy was out of sync from my family's. I struggled with communicating with my babies, and my wife could tell that my mind-state was deep in code. 
 
-On one particular evening, I remember doing dishes at the island and thinking to myself, *'why are you being more quiet than normal?'* I also recall saying to myself in that moment *'what is going on with you?...leave work at work... snap out of it!'*
+On one particular evening, I remember doing dishes at our kitchen island and thinking to myself, *'why are you being more quiet than normal?'* I also recall saying to myself in that moment *'what is going on with you?...leave work at work... snap out of it!'*
 
-Later that evening, I was laying down in our bedroom and skimming through my Facebook feed like I habitually would. Typical shit - someone selfied, someone ate somewhere or hit the gym, someone else did some quiz, another 'friend' posted some ghost images, someone made a comment on some other racist post, and there was a new job opportunity via Austin Digital Jobs... 
+Later, I was laying down in our bedroom and skimming through my Facebook feed like I habitually would. Typical shit - someone selfied, someone ate somewhere or hit the gym, someone else did some quiz, another 'friend' posted some ghost images, someone made a comment on some other racist post, and there was a new job opportunity via Austin Digital Jobs... 
 
-That's when I realized *damn, what am I doing?*
+That's when I realized *'damn, what am I doing?'*
 
-Here I was, on this particular night, feeling the weight of the world weight down on my heart as I was struggling to get along with my family, in addition to failing hard at work. And what was I doing? - wasting time, energy, and mental space, infinitely scrolling on my dumb ass Facebook feed.
+Here I was, on this particular night, feeling the weight of the world weighing down on my heart as I was struggling to get along with my family, in addition to failing hard at work. And what was I doing? - wasting time, energy, and mental space, infinitely scrolling on my dumb ass Facebook feed.
 
-In that moment, I told myself 
+In that moment, I told myself: 
 
-*this app, this network, this wack ass FB feed isn't helping me be a better husband, isn't helping me be a better father, and it damn sure ain't helping me learn to write reactive Javascript code!*
+*'this app, this network, this wack ass FB feed isn't helping me be a better husband, isn't helping me be a better father, and it damn sure ain't helping me learn to write reactive Javascript code!'*
 
 My initial apprehension involved having associated apps or services where I authenticated-in/created an account using Facebook.
 
-Then I thought - *'you know what, fuck it. If the app or service is important enough, I'll deal with it when I come across it again.*
+Then I thought - *'you know what, fuck it. If the app or service is important enough, I'll deal with it when I come across it again.'*
 
-Later that evening, about a half hour past midnight, when my wife and boys were asleep - I took action and deleted my account. I made the decision to free up my attention and time, and to reallocate that to the areas that needed me more.
+Later that evening, about a half hour past midnight, when my wife and boys were asleep - I took action and deleted my account. I made the decision to free up my attention and time, to reallocate my focus towards the areas that needed me more.
 
 It has been at least 3 months without Facebook and I don't miss it one bit. I'm happy as hell to not have that wack ass *personalized* content feed in my life.
 
