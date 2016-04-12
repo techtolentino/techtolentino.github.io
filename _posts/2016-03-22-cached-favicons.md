@@ -24,10 +24,14 @@ I searched online for where these favicons might possibly be cached. In one solu
 
 So, I'm not sure which file was the culprit, so I just deleted 'em both!
 
-```
-📄 Favicons
+<pre>
+  <code class="js">
+📄 Favicons  
 📄 Favicons-journal
-```
+  </code>
+</pre>
+
+
 
 **3) Boom!**  
 
