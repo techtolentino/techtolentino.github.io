@@ -17,7 +17,7 @@ Here, I hope to share the many stories of triumph and downfall that I experience
 
 #### Future stories
 
-The mind never stops. Throughout every day, I think about stories, reactions, or reflections that I want to expand on. So, here are some of the ideas I had for [future posts](https://github.com/techtolentino/techtolentino.github.io/wiki/Blog-ideas).
+The mind never stops. Throughout every day, I think about stories, reactions, or reflections that I want to expand on. So, here are some of the ideas I had for [future posts](https://github.com/techtolentino/techtolentino.github.io/wiki/Future-posts).
 
 *note - if there is anything you would _like_ me to write about, I'd be game for that. Hit me up.
 
