@@ -15,6 +15,10 @@ Here, I hope to share the many stories of triumph and downfall that I experience
 
 <br>
 
+#### Future stories
+
+Here are some of the ideas I had for [future posts](https://github.com/techtolentino/techtolentino.github.io/wiki/Blog-ideas).
+
 #### Contributions
 
 If you notice a problem or have a suggestion, I'm definitely open to hearing from you. As a contributor to Open Source, I value the benefits of social coding and shared knowledge. 
