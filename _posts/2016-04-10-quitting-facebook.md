@@ -1,5 +1,4 @@
 ---
-<!-- published: false -->
 layout: post
 title:  "Quitting Facebook"
 subtitle: "Freeing up the mind"

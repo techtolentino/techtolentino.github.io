@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /2016-blog/
+permalink: /blog/
 ---
 <hr class="divider-magenta">
 <div class="intro">
