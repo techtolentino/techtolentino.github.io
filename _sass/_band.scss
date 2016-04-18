@@ -34,22 +34,16 @@
     }
     
     &-lightgrey {
-        border-top: 1px dotted $grey;
         padding: 4em 0 4em 0;
         background: $offwhite;
     }    
 
     &-plain {
-        border-top: 1px dotted $grey;
         padding: 4em 0 4em 0;
         background: $white;    
     }
 
     &-spaced {
         padding: 9em 0 5em 0;
-    }
-
-    &--footer {
-        border-top: 1px dotted $grey;
     }
 }
