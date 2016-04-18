@@ -8,7 +8,7 @@
     margin: 2em 1em 2em 0;
     display: inline-block;
     &:nth-child(2) {
-    	border: 1px dotted $blue;
+    	border: 1px solid $blue;
     	color: $blue;
     	text-align: right;
     }    
