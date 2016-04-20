@@ -2,13 +2,19 @@
 <html lang="en">
 	{% include head.html %}
 	<body>
+	{% if page.title == 'About'% or page.title == 'Blog'% or page.title == 'Work' or page.url contains 'blog' or page.url contains 'work' or page.url contains 'about' %}
 		{% include header.html %}
+	{%else %}
+	{% endif%}
 		<div class="page-content">
 			<div class="animated--lag fadeIn" style="display:block;">
 				{{ content }}
 			</div>
 		</div>
+	{% if page.title == 'About'% or page.title == 'Blog'% or page.title == 'Work' or page.url contains 'blog' or page.url contains 'work' or page.url contains 'about' %}
 		{% include footer.html %}
+	{%else %}
+	{% endif%}		
 		
 		{% if page.title == 'About'%}
 		 	<script type="text/javascript">

@@ -52,29 +52,43 @@
 
 
     .band-hero {
-        padding: 9em 0 5em 0;
         &-flock {
             margin-bottom: 1em;
         }
+
         &-title {
             .bird-one {
-                max-width: 30px;
-                margin-right: .75em;
+                max-width: 1.25em;
+                margin-right: 1em;
             }
+
             .bird-two {
-                max-width: 20px;
-                margin-right: .75em;
+                max-width: 1em;
+                margin-right: 1em;
             }
+
             .bird-three {
-                max-width: 15px;
-                margin-right: .75em;
+                max-width: 1em;
+                margin-right: 1em;
             }
+
             .bird-four {
-                max-width: 30px;
-                margin-right: .75em;
+                max-width: 1.25em;
+                margin-right: 1em;
             }
         }
-        min-height: 65vh;
+
+        &-social-list {
+            list-style-type: none;
+            margin-top: 4em;
+            & li {
+                display: inline;
+                & img {
+                    width: 1.5em;
+                    padding: .5em;
+                }
+            }
+        }
     }
 
     .header-link {

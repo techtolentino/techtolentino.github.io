@@ -3,34 +3,81 @@
         min-height: 100vh;
         display: flex;
         align-items: center;
+        justify-content: center;
+
+        &-list {
+            list-style-type: none;
+            margin-left: 0;
+        }
+
+        &-social-list {
+            list-style-type: none;
+            margin-top: 4em;
+            & li {
+                display: inline;
+                & img {
+                    width: 1.5em;
+                    padding: 1em;
+                }
+            }
+        }
+
+        &-headline {
+            margin-bottom: 3em;
+        }
+
+        &-actions {
+            &-list {
+                list-style-type: none;
+                display: flex;
+                justify-content: space-around;
+                & a {
+                    flex: 0 0 20%;
+                    color: $darkblue;
+                    & li {
+                        padding-bottom: .5em;
+                    }
+                }
+            }
+        }
 
         &-flock {
-            margin-bottom: 2em;
+            margin-bottom: 3em;
         }
 
         &-title {
             color: $darkblue;
+            text-align: center;
 
             h2 {
                 font-weight: lighter;
-                margin-top: 1em;
             }
 
-            img {
-                max-width: 40px;
-                margin-right: 1em;
+            .bird-one {
+                max-width: 1.75em;
+                margin-right: 1.5em;
             }
 
             .bird-two {
-                max-width: 30px;
+                max-width: 1.25em;
                 margin-right: 1.5em;
             }
 
             .bird-three {
-                max-width: 25px;
-                margin-right: 1.25em;
+                max-width: 1.35em;
+                margin-right: 1.5em;
             }
+
+            .bird-four {
+                max-width: 1.75em;
+                margin-right: 1.5em;
+            }
+
         }
+    }
+
+    &--footer {
+        border-top: 1px dotted $midgrey;
     }
     
     &-lightgrey {
