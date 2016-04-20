@@ -7,6 +7,14 @@
 
         &-half {
             flex: 0 0 45%;
+            &:nth-child(2) {
+                flex: 0 0 30%;
+            }
+        }
+
+        &-list {
+            list-style-type: none;
+            margin-left: 0;
         }
 
         &-flock {
