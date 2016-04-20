@@ -3,6 +3,11 @@
         min-height: 100vh;
         display: flex;
         align-items: center;
+        justify-content: space-between;
+
+        &-half {
+            flex: 0 0 45%;
+        }
 
         &-flock {
             margin-bottom: 2em;
