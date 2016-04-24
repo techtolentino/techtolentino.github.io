@@ -22,9 +22,7 @@ Since that decision, our lives have changed for the best. As a family, we sacrif
 
 Less than a year and a half after that failed interview, I am more than grateful to announce that I am a [Front-End Software Developer at IBM](/work). I believe that we are very, very fortunate. And, I have strong faith that my personal momentum has still yet to peak.
 
-#thankful
-
-God is dope.
+At the end of the day, I'm thankful & God is dope.
 
 <section class="highlight-set">
 	<div class="highlight-set-photo">
