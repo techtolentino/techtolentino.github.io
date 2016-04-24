@@ -55,6 +55,7 @@
 .header-link {
     margin: 0 .5em 0 .5em;
     color: $grey;
+    text-decoration: none;
 
     &:hover {
         border-bottom: 3px solid $grey;
