@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Cached Favicons"
-subtitle: "Favicon caching issue"
-img: svg-favicon.svg
-alt: favicon icon
 date:   2016-03-22 06:05:00 -0600
 ---
 Ever since I've been helping out in Open Source projects, I've been running into this annoying issue with Google Chrome caching favicons. Chrome seems to love the latest favicon that was used on localhost. And while I really like the newest Open Austin logo (seen in the image above as a favicon), unfortunately, it's not mine.
@@ -11,8 +8,6 @@ Ever since I've been helping out in Open Source projects, I've been running into
 Sure, one could argue *'well, technically it's only on your localhost, right?'*. Yes, of course. But the fact remains - tiny details (or bugs?) like that can be a distraction trying to perfect your site.
 
 At the time of this writing, I hadn't created a favicon for my new site, just yet. So here's what I did to fix it in my local environment:
-
-<hr class="divider-magenta-full">
 
 **1) Find the Favicon cached file**  
 
@@ -25,9 +20,9 @@ I searched online for where these favicons might possibly be cached. In one solu
 So, I'm not sure which file was the culprit, so I just deleted 'em both!
 
 <pre>
-  <code class="js">
-📄 Favicons  
-📄 Favicons-journal
+  <code>
+    - Favicons  
+    - Favicons-journal
   </code>
 </pre>
 

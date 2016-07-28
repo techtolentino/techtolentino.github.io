@@ -1,0 +1,40 @@
+.accent {
+    &--gray {
+        color: $gray-color;
+    }
+
+    &--warm {
+        color: $accent-color;
+    }
+
+    &--cool {
+        color: $cool-color;
+    }
+}
+
+.align {
+    &--center {
+        text-align: center;
+    }
+}
+
+.text {
+    &--normal {
+        font-weight: normal;
+    }
+
+    &--bold {
+        font-weight: bold;
+    }
+
+    &--italics {
+        font-style: italic;
+    }
+
+    &--quote {
+        border-left: 3px solid $cool-color;
+        padding: .5em 1em .5em 1em;
+        font-style: italic;
+        background: lighten($gray-color, 8.5%);
+    }
+}

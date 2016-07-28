@@ -1,27 +1,23 @@
-html {
-    font-size: 1em;
-}
-
 body {
-    background-color: white;
-    font-family: 'Work Sans', serif;
-    font-weight: 400;
-    line-height: 1.45;
-    color: $darkblue;
+    font-family: $base-font-family;
+    font-size: $base-font-size * 1.45;
+    font-weight: $base-font-weight;
+    color: $text-color;
+    background: $background-color;
+    line-height: $base-line-height + .15;
 }
 
-.wrapper {
-    max-width: $large-width;
-    display: block;
-    margin: 0 auto;
-    width: 90%;
-    overflow: hidden;
-
-    &--wide {
-        max-width: 60em;
-        display: block;
-        margin: 0 auto;
-        width: 90%;
-        overflow: hidden;
+@include media-query($extra-extra-large-screen) {
+    body {
+        font-size: $base-font-size * 1.25;
+        line-height: $base-line-height;
     }
 }
+
+@include media-query($small-screen) {
+    body {
+        font-size: $base-font-size;
+        line-height: $base-line-height - .1;
+    }
+}
+

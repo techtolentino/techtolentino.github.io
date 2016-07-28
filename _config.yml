@@ -1,33 +1,13 @@
 # Site settings
 title: Randy Tolentino
 email: makertolentino@gmail.com
-description: > 
-  Aye yo! I'm a full-stack family man, front-end software developer, 
-  and a former hip-hop artist. I love what I do.
+description: > # this means to ignore newlines until "baseurl:"
+
 baseurl: ""
-url: "http://randytolentino.com"
-twitter_username: techtolentino
-github_username:  techtolentino
+url: ""
 
-collections:
-  projects:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      permalink: /blog/:year/:month/:day/:title
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: "project"
-      permalink: /work/:title
+sass:
+    style: compressed
 
 # Build settings
 markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed

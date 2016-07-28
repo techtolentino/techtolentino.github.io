@@ -1,37 +1,42 @@
 ---
 layout: post
 title:  "Quitting Facebook"
-subtitle: "Freeing up the mind"
-img: svg-facebooked.svg
-alt: alternative text
 date:   2016-04-10 06:05:00 -0600
 ---
 
-Earlier this year (I don't remember the exact week), I remember having a couple of very difficult days, consecutively. It must've been at least 3 days in a row.
+Earlier this year (I don't remember the exact week), I remember struggling through a downspiral of three, consecutive, very difficult days.
 
-At work, I believe I we were in the middle of removing React from our application's stack and replacing it with kefir.js - a small library for functional reactive programming. I was completely lost and honestly had no clue on how I was supposed to make any sorta significant contributions to the team.
+At work, I believe I we were in the middle of removing React from our application's stack and replacing it with kefir.js - a small library for functional reactive programming. I was completely lost and honestly had no clue on how I was supposed to make any sort of significant contributions to the team.
 
-I figured, the solution was simple - spend longer hours at work while sacrificing even more sleep than I already do, in the hopes of studying and playing catch up. During that sprint, I vividly remember waking up at times like 2:38 am or 3:00 am, then hopping online trying to figure out how that shit worked.
+My solution was simple - _spend longer hours at work while sacrificing even more sleep than I already do, in the hopes of studying and playing catch up_.
 
-To make matters worse, at home, my vibe and energy was out of sync from my family's. I struggled with communicating with my babies, and my wife could tell that my mind-state was deep in code. 
+During that sprint, I vividly remember waking up at times like 2:38 am or 3:00 am, then jumping online trying to figure out how all of this new stuff worked.
 
-On one particular evening, I remember doing dishes at our kitchen island and thinking to myself, *'why are you being more quiet than normal?'* I also recall saying to myself in that moment *'what is going on with you?...leave work at work... snap out of it!'*
+To make matters worse, at home, my _wavelengths_ were out of sync with the rest of my family. I struggled with communicating with the babies, and my wife could tell that my focus was trapped, deep in code. 
 
-Later, I was laying down in our bedroom and skimming through my Facebook feed like I habitually would. Typical shit - someone selfied, someone ate somewhere or hit the gym, someone else did some quiz, another 'friend' posted some ghost images, someone made a comment on some other racist post, and there was a new job opportunity via Austin Digital Jobs... 
+On one particular evening, I remember doing dishes at our kitchen island and thinking to myself, _'why are you being more quiet than normal?'_ I also recall saying to myself in that moment _'what is going on with you?...leave work at work... snap out of it!'_
 
-That's when I realized *'damn, what am I doing?'*
+Later that evening, I was laying down in our bedroom and skimming through my Facebook feed like I normally would (out of habit). Typical feed activity - someone selfied, someone ate somewhere or hit the gym, someone else did some quiz, another 'friend' posted some ghost images, someone made a comment on some other racist post, and there was a new job opportunity via Austin Digital Jobs... 
 
-Here I was, on this particular night, feeling the weight of the world weighing down on my heart as I was struggling to get along with my family, in addition to failing hard at work. And what was I doing? - wasting time, energy, and mental space, infinitely scrolling on my dumb ass Facebook feed.
+It was mind numbing.
 
-In that moment, I told myself: 
+I placed the phone at my side, face down, then said to myself _'damn, what am I doing?'_
 
-*'this app, this network, this wack ass FB feed isn't helping me be a better husband, isn't helping me be a better father, and it damn sure ain't helping me learn to write reactive Javascript code!'*
+Here I was, on this particular night while my wife and two boys were asleep, feeling the weight of the world weighing down on my heart as I was struggling to get along with my family, in addition to failing hard at work. And what was I doing? - wasting time, energy, and mental space, infinitely scrolling through a trivial Facebook feed.
 
-My initial apprehension involved having associated apps or services where I authenticated-in/created an account using Facebook.
+In that moment, I had to admit myself: 
 
-Then I thought - *'you know what, fuck it. If the app or service is important enough, I'll deal with it when I come across it again.'*
+_<span class="accent--cool">“</span>this app, this network, this FB feed isn't helping me be a better husband, it isn't helping me be a better father, and it damn sure ain't helping me learn to write reactive Javascript code!<span class="accent--cool">”</span>_
 
-Later that evening, about a half hour past midnight, when my wife and boys were asleep - I took action and deleted my account. I made the decision to free up my attention and time, to reallocate my focus towards the areas that needed me more.
+So, I decided to quit Facebook.
 
-It has been at least 3 months without Facebook and I don't miss it one bit. I'm happy as hell to not have that wack ass *personalized* content feed in my life.
+The initial reluctance involved associated apps or services where I authenticated-in/created an account using Facebook. I knew I had some work there, to ensure that nothing I cared about, outside of Facebook, was lost.
+
+But then I reasoned - *'you know what, screw it. If the app or service is important enough, I'll deal with it when I come across it again.'*
+
+So at about a half hour past midnight, I took action and deleted my account. 
+
+**I made the decision to free up my attention and time, to reallocate my focus towards the areas that needed me more.**
+
+It has been at least 3 months without Facebook and I don't miss it one bit.
 

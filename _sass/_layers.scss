@@ -1,0 +1,46 @@
+.layer {
+    padding-top: $spacing-unit / 2;
+    padding-bottom: $spacing-unit / 2;
+
+    &--LARGE {
+        padding-top: $spacing-unit * 6;
+        padding-bottom: $spacing-unit * 6;
+    }
+
+    &--MEDIUM {
+        padding-top: $spacing-unit * 4;
+        padding-bottom: $spacing-unit * 2;
+
+        &-HOME {
+            padding-top: $spacing-unit * 3;
+            padding-bottom: $spacing-unit * 2;
+        }
+    }
+
+    &--SMALL {
+        padding-top: $spacing-unit * 2;
+        padding-bottom: $spacing-unit * 2;
+    }
+}
+
+@include media-query($medium-screen) {
+    .layer {
+        &--LARGE {
+            padding-top: $spacing-unit * 4;
+            padding-bottom: $spacing-unit * 4;
+        }
+
+        &--MEDIUM {
+
+            &-HOME {
+                padding-top: $spacing-unit * 4;
+                padding-bottom: $spacing-unit * 4;
+            }
+        }
+
+        &--SMALL {
+            padding-top: $spacing-unit;
+            padding-bottom: $spacing-unit;
+        }
+    }
+}

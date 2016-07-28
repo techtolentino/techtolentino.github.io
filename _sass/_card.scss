@@ -1,0 +1,14 @@
+.card {
+    padding: 0;
+    border: 1px solid $gray-color;
+
+    &--header {
+        min-height: $spacing-unit / 2;
+        background-color: $accent-color;
+    }
+
+    &--body {
+        padding: $spacing-unit / 2;
+        padding-bottom: $spacing-unit;
+    }
+}

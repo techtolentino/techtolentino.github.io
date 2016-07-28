@@ -1,36 +1,91 @@
-@mixin button {
-    background: transparent;
-    border: 1px solid $magenta;
-    color: #FF115B;
-    padding: .5em 1em;
-    font-size: 0.875em;
-    font-weight: lighter;
-    margin: 2em 1em 2em 0;
-    display: inline-block;
-    text-decoration: none;
-    &:nth-child(2) {
-    	border: 1px solid $blue;
-    	color: $blue;
-    	text-align: right;
-    }    
+@mixin button($button-color, $button-hover, $button-active) {
+    background: $button-color;
+    border: 1.5px solid transparent;
+    padding-top: $spacing-unit / 4;
+    padding-bottom: $spacing-unit / 4;
+    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit / 2;
+    border-radius: 2px;
+    margin: $spacing-unit/4;
+    color: $background-color;
+    transition: background .2s, color .2s;
+
+    @include media-query($medium-screen) {
+        width: 45%;
+    }
+
+    @include media-query($small-screen) {
+        width: 100%;
+    }
+
+    &:hover {
+        background: $button-hover;
+        transition: background .2s, color .2s;
+    }
+
+    &:active {
+        background: $button-active;
+        transition: background .2s, color .2s;
+    }
+
+    &:focus {
+        outline: 0;
+    }
 }
 
+@mixin button-ghost($border, $button-hover, $button-active) {
+    background: transparent;
+    border: 1.5px solid $border;
+    padding-top: $spacing-unit / 3;
+    padding-bottom: $spacing-unit / 3;
+    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit / 2;
+    border-radius: 2px;
+    margin-top: $spacing-unit/ 4;
+    color: $border;
+    transition: background .15s, color .15s;
+    text-decoration: none;
+
+    &:hover {
+        background: darken($button-hover, 10%);
+        border: 1.5px solid darken($button-hover, 10%);
+        color: $background-color;
+        transition: border .15s ease-out, background .15s ease-out, color .15s ease-out;
+    }
+
+    &:active {
+        background: $button-active;
+        border: 1.5px solid $button-active;
+    }
+
+    &:focus {
+        outline: 0;
+    }
+}
 .button {
-    @include button;
-    
-	&:hover {
-		color: $blue;
-		border: 1px solid $blue;
-		background: $highlight;
-		cursor: pointer;
-		transition: border .5s ease, color .5s ease, background .5s ease;
-	}
-	&-wrapper {
-		display: block;
-		padding: 2em 0 2em 0;
-		
-		&:last-child {
-			padding: 0;
-		}
-	}
+    // normal buttons
+    &--accent{
+        @include button($accent-color, darken($accent-color, 10%), darken($accent-color, 15%));
+    }
+
+    &--cool{
+        @include button($cool-color, darken($cool-color, 10%), darken($cool-color, 15%));
+    }
+
+    &--gray{
+        @include button($gray-color, darken($gray-color, 10%), darken($gray-color, 15%));
+    }
+
+    // ghost buttons
+    &--accent--GHOST{
+        @include button-ghost($accent-color, $accent-color, darken($accent-color, 15%));
+    }
+
+    &--cool--GHOST{
+        @include button-ghost($cool-color, $cool-color, darken($cool-color, 15%));
+    }
+
+    &--gray--GHOST{
+        @include button-ghost($gray-color, $gray-color, darken($gray-color, 15%));
+    }
 }

@@ -2,22 +2,30 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// Our variables
-@import "reset";
-@import "config";
-@import "colors";
-@import "base";
-@import "text";
-@import "button";
-@import "custom";
-@import "animations";
-@import "band";
-@import "header";
-@import "page";
-@import "highlight";
-@import "post";
-@import "project";
-@import "footer";
-@import "dividers";
-@import "media-queries";
-@import "syntax";
+
+// Settings
+@import 'normalize';
+@import 'config';
+@import 'functions';
+
+// Base
+@import 'base';
+@import 'typography';
+@import 'syntax-highlighting';
+
+// Elements
+@import 'button';
+@import 'card';
+@import 'container';
+@import 'contact';
+@import 'dividers';
+@import 'footer';
+@import 'image';
+@import 'layers';
+@import 'layout';
+@import 'home';
+@import 'navigation';
+@import 'page';
+@import 'post';
+@import 'sidebar';
+@import 'utilities';

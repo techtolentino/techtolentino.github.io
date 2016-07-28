@@ -1,14 +1,31 @@
 .page {
+    background: $background-color;
+    min-height: 100vh;
+    color: $text-color;
+    display: flex;
+
+    &--accent {
+        background-color: $accent-color;
+        width: 10%;
+    }
+
     &--content {
-        margin-top: 86px;
+        padding: 0 1.5em;
+        width: 60%;
     }
+}
 
-    &-heading {
-        font-family: 'Vidaloka', serif;
-    }
+@include media-query($medium-screen) {
+    .page {
+        background-color: #FBFBFB;
 
-    &-subheading {
-        font-family: 'Work sans', sans-serif;
-        font-weight: lighter;
+        &--accent {
+            width: 0;
+        }
+
+        &--content {
+            padding: 0;
+            width: 100%;
+        }
     }
 }

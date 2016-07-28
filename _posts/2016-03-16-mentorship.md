@@ -1,16 +1,13 @@
 ---
 layout: post
 title:  "Mentorship"
-subtitle: "So, I became a mentor"
-img: svg-mentorship.svg
-alt: mentorship icon
 date:   2016-03-15 06:05:00 -0600
 ---
 Recently, I've been involved with helping out with a couple of open source (OS) projects.
 
-The first one being the <a href="http://open-austin.org" target="blank">Open Austin</a> civic hacking group, where I helped my friend Mateo (who also happens to be the Director!) with a very fun set of website issues.
+The first one being the <a class="link--base" href="http://open-austin.org" target="blank">Open Austin</a> civic hacking group, where I helped my friend Mateo (who also happens to be the Director!) with a very fun set of website issues.
 
-The other being <a href="https://freecodecamp.com" target="blank">Free Code Camp</a>, which is a pretty awesome online *code camp* that is used by tens of thousands of people around the world.
+The other being <a class="link--base" href="https://freecodecamp.com" target="blank">Free Code Camp</a>, which is a pretty awesome online *code camp* that is used by tens of thousands of people around the world.
 
 The cool thing about Free Code Camp (FCC), is that they have such an active, international community. If a student in the US had an issue with some code challenge, say at 3:00 AM, you can bet that there's another student online who is willing to help. This happens all throughout the day, and by just watching the FCC Gitter channel, I'd estimate that the turnaround times for help ranges from 3-5 mins.
 
@@ -22,7 +19,7 @@ On one particular morning, I was helping a couple of students in the Gitter chan
 
 After helping him solve his way through the FCC Challenge that he was stuck on, we chopped it up a bit. He asked about my background as a dev so I told the cliche stories that lead up to my current situation. Then he asked me if I'd be willing to mentor him.
 
-<span class="quote">Oh for sure...</span> I told him.
+_<span class="accent--cool">“</span>Oh for sure...<span class="accent--cool">”</span>_ - I told him.
 
 For quite some time now, I've been trying to imagine a way to reciprocate the amazing experience that I've had, as an up and coming developer. More specifically, it's important to understand that within the dev community, we welcome, embrace, and exercise mentorship all the time. For me, I can name a ton of names off the top of my head, listing all the important figures that have helped grow as a developer.
 

@@ -1,0 +1,23 @@
+$container-tight: 35em;
+
+.container {
+    max-width: $large-screen;
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+
+    &--TIGHT {
+        max-width: $container-tight;
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+@include media-query($small-screen) {
+    .container {
+        &--TIGHT {
+            margin: 0 auto;
+        }
+    }
+}

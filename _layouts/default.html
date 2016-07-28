@@ -1,48 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
-	{% include head.html %}
-	<body>
-	{% if page.title == 'About'% or page.title == 'Blog'% or page.title == 'Work' or page.url contains 'blog' or page.url contains 'work' or page.url contains 'about' %}
-		{% include header.html %}
-	{%else %}
-	{% endif%}
-		<div class="page-content">
-			<div class="animated--lag fadeIn" style="display:block;">
-				{{ content }}
-			</div>
-		</div>
-	{% if page.title == 'About'% or page.title == 'Blog'% or page.title == 'Work' or page.url contains 'blog' or page.url contains 'work' or page.url contains 'about' %}
-		{% include footer.html %}
-	{%else %}
-	{% endif%}		
-		
-		{% if page.title == 'About'%}
-		 	<script type="text/javascript">
-		 		document.addEventListener('DOMContentLoaded', function() {
-				var navTabs = document.getElementsByClassName('header-link');
-					navTabs[0].classList.toggle('active-tab-blue');
-				});
-		 	</script>
-		{% endif%}
-
-		{% if page.title == 'Blog'%}
-		 	<script type="text/javascript">
-		 		document.addEventListener('DOMContentLoaded', function() {
-				var navTabs = document.getElementsByClassName('header-link');
-					navTabs[1].classList.toggle('active-tab-magenta');
-				});
-		 	</script>
-		{% endif%}
-
-		{% if page.title == 'Work'%}
-		 	<script type="text/javascript">
-		 		document.addEventListener('DOMContentLoaded', function() {
-				var navTabs = document.getElementsByClassName('header-link');
-					navTabs[2].classList.toggle('active-tab-grey');
-				});
-		 	</script>
-		{% endif%}				
-
-	 	</script>
-	</body>
+<html>
+    {% include head.html %}
+    <body>
+        <div class="sidebar">
+            <div class="sidebar--side"></div>
+            <div class="sidebar--content">
+                {% include header.html %}
+                <div class="layer--MEDIUM">
+                    <div class="container--TIGHT">
+                        {{ content }}
+                        {% include contact.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
 </html>

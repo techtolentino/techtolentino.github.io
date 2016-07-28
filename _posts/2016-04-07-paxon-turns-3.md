@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Paxon is 3"
-subtitle: "Our baby ain't a baby anymore"
-img: svg-birthday.svg
-alt: alternative text
 date:   2016-04-07 06:05:00 -0600
 ---
 
@@ -15,7 +12,7 @@ For the past three years, it has been truly a blessing for Pax to be in our live
 
 An inside joke that we have in our family, is that Paxon is such a *Daddy's boy*. I guess that stems from several reasons. For one, he looks a lot like me when I was his age. He also loves to follow me around the house, no matter what I do. Whether I'm ironing my shirts, doing dishes, or standing at the counter finishing a git push - Paxon's at my side.
 
-Not to mention, every time we step outside of the house, little dude loves rockin a nice fresh hat. That is *very* me.
+Not to mention, every time we step outside of the house, this little dude loves rockin a nice fresh hat. That is *very* me.
 
 And although there's a very strong connection or resemblance between me and Pax, I would argue that I'm not the only one privy to having a special relationship with him.
 
