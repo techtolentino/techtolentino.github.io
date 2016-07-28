@@ -12,6 +12,8 @@
 
     &--content{
         width: 100%;
+        padding-left: $spacing-unit / 2;
+        padding-right: $spacing-unit / 2;
         position: relative;
     }
 }
