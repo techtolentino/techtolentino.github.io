@@ -50,7 +50,7 @@ After a few minutes of chatting, I learned that he needed a full-on introduction
 
 #### Fixing the situation
 
-When we pulled into his complex, I offered to pick him up the next morning. The only caveat was, I wake up at 4:00 AM, and begin my commute into the office at around 6:30 AM (mainly to beat traffic, but mostly to avoid Texas heat). What's interesting is that this picking up/dropping off has become a part of my commute - it became a routine for me, and I imagine it will be this way until he has established his own car situation.
+When we pulled into his complex, I offered to pick him up the next morning. The only caveat was, I wake up at 4:00 AM, and begin my commute into the office at around 6:30 AM (mainly to beat traffic, but mostly to avoid Texas heat). What's interesting is that this picking up/dropping off has become a part of my commute - it became a routine for me, and I imagine it will be this way until he has an established car situation.
 
 On more than one occasion, we'll discuss software-related topics such as things like Node, security, async Javascript, micro-services, etc. These have been fascinating conversations because there's a lot about tech that I still don't know. But, more importantly, this has also afforded us the chance to establish a friendship, exchange ideas, share stories of each other's culture, and answer questions about our team.
 
@@ -60,12 +60,12 @@ And while this I truly believe that this has made up for our lack of an on-board
 
 With all that being said, I've learned a lot about what it means to truly on-board a new team member. Additionally, this topic sparked a pretty decent discussion at our latest sprint retrospective meeting. Here are some of the takeaways that I believe are worth sharing:
 
-- **Day 1 Starter Kit** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or, it can be as awesome as an interactive todo list app
-- **Sponsorship system** - for the first week or two, someone on the team should volunteer to be a sponsor for the new team member, basically making sure that the new team member has all of the essentials in place
-- **Artifacts** - the new team member should go home with some artifact(s) that they could look over. Ideas that came to mind were slide decks, repositories, seating charts, org charts, and so forth
-- **Meet us challenge** - the new member joining the team can possibly book at least 5 meetings, with different individuals on the team, just to chat and get know that team member. Discussion topics can include previous experience, current work, understanding one's role in the team. (I think this provides great benefit)
-- **Dev / Design environments** - one cannot be successful without the proper tools and understanding of team practices. As a team, be ready to provide your newest member with all of the necessary software/hardware 
-- **Introductory lunch** - while your entire team is there to work, one of the best ways to build and enhance relationships is in a simple team lunch. This opens up the communication lines and is the perfect opportunity become more acquainted
+- **Having a 'Day 1 starter kit'** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or, it can be as awesome as an interactive todo list app
+- **Creating a sponsorship system** - for the first week or two, someone on the team should volunteer to be a sponsor for the new team member, basically making sure that the new team member has all of the essentials in place
+- **Providing artifacts** - the new team member should go home with some artifact(s) that they could look over. Ideas that came to mind were slide decks, repositories, seating charts, org charts, and so forth
+- **The 'Meet us' challenge** - the new member joining the team can possibly book at least 5 meetings, with different individuals on the team, just to chat and get know that team member. Discussion topics can include previous experience, current work, understanding one's role in the team. (I think this provides great benefit)
+- **Setting up Dev/Design environments** - one cannot be successful without the proper tools and understanding of team practices. As a team, be ready to provide your newest member with all of the necessary software/hardware 
+- **Hosting an introductory lunch** - while your entire team is there to work, one of the best ways to build and enhance relationships is in a simple team lunch. This opens up the communication lines and is the perfect opportunity become more acquainted
 
 #### Remember, people first
 
