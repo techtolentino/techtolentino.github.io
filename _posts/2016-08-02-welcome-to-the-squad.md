@@ -8,25 +8,23 @@ date:   2016-08-02 06:05:00 -0600
 
 It's been a hectic week.
 
-At work, there have been a lot of moving pieces, both physically and in terms of the project. Our Austin team is adjusting to our new space in the Design Studio after the major floor plan rearrangement. I can't complain at all though. My new desk space is situated next to a window, on the 8th floor, and comes with a view of north Austin, which is refreshing.
+At work, there have been a lot of moving pieces, both physically and in terms of the project. Our Austin team is adjusting to our new space within the Design Studio after the most recent floor plan rearrangement. I can't complain though; my new desk space is situated next to a window, on the 8th floor, and its expansive view overlooks north Austin, which is refreshing.
 
-Within our product's development workflow, the entire engineering team (front and backend) have moved to a full-stack approach. We're one of the rare teams that are implementing this practice. And since most of our committed, recent sprint work has involved building out the infrastructure for backend microservices, it has been very uncomfortable. Granted, I feel like it has also awakened my interest in new areas of the tech-stack, but I do admit, it has honestly been difficult.
+Within our product's development workflow, the entire engineering team (front and backend) has recentply adopted a full-stack approach, which means that all developers/engineers work the same stories; tasks are not designated according to stack area expertise. From what I've heard, We're one of the rare teams in the entire company that has implemented this practice. And since most of our committed, recent sprint work has involved building out the infrastructure for backend microservices, I've been doing all backend work for the past two sprints. In all honesty, it has been very uncomfortable. Granted, I feel lucky to be able to learn new things. Additionally, it has awakened my interest in new areas of code, but I do admit, it's just been difficult.
 
-Lastly, we've added a new software engineer to our team here in Austin. And although he has years of experience in software, there is an interesting aspect here - he's brand new to the States.
-
-However, the worst part is, there wasn't a whole lot that was planned for his arrival.
+Lastly, we've added a new software engineer to our team here in Austin. And while he has years of experience in software, there is an interesting aspect here - he's brand new to the States. The worst part is, there wasn't a whole lot that was planned for his arrival.
 
 #### Enter visceral feelings
 
-I'm not sure why, but to me, I was hugely disappointed and embarrassed at the idea that our team lacked some form of on-boarding process. For one, I felt badly for the person joining our team, and in this particular case, one who is new to the country. Not only did we fail at providing a hospitable introduction, but at the same time, it felt like we could have done way better job at identifying the huge ambassadorial responsibilities of welcoming someone new to our country.
+I'm not sure why, but to me, I was fairly disappointed and embarrassed at the idea that our team lacked some form of an on-boarding process. For one, I felt badly for the person who joined our team, and in this particular case, one who was and still is new to the country. Not only did we fail at providing a hospitable introduction, but at the same time, it felt like we could have done way better job at identifying the huge ambassadorial responsibilities of welcoming someone new to our country.
 
-So on last Tuesday, after helping the interns downstairs with some user testing, I returned back to my desk to see that our new team member had joined our space. He was sitting across from me within our pod, doing some work on his brand new Macbook. I said hello, then continued to proceed with my work.
+So on last Tuesday, after I had helped the interns downstairs with some user testing on a prototype, I returned back to my desk to see that our new team member had joined our space. He was sat across from me at our dev pod, and was working on his brand new Macbook. I said hello, then continued to proceed with my own work.
 
-About a half hour goes by, and when I come up for air, I notice that he's not interacting with anyone, at all. I figure, maybe someone gave him something to do? I looked around at the other members on my team and saw that everyone was heads down, focused on work with earphones in/headphones on - just a pretty normal scene on my team.
+About a half-hour went by, and when I came up for air, I noticed that he wasn't interacting with anyone, at all. I figured, _maybe someone gave him something to do?, and he was working on it?_ I looked around at the other members of the team and saw that everyone was heads down, focused on work with earphones in/headphones on - a normal scene on my team.
 
-I dive back into my work.
+I made a mental note of my observations, then dove back into the code.
 
-Another half hour goes by and still the same thing - the team is working, the new guy is sitting and staring at his computer. At this point, I decided to speak up.
+After another half-hour passed and nothing changed - the team is working, the new guy was busy at his computer. I wondered if I had missed something, for example, maybe they already did introductions, or a tour, or already put him onto something to work on. At that point, I decided to speak up.
 
 I began by asking questions.
 
@@ -36,21 +34,23 @@ Then he replied, _<span class="accent--cool">“</span>Do you know what's a good
 
 _Hmmm... ok_ - that was my external response. 
 
-But internally, I was actually shocked. Why? Because hearing this definitely opened my eyes to where we _truly needed to start_. While one might (safely) assume that we start off by enabling him to write code or maybe dive into the mission and vision of our project, in that moment, I realized that this guy was re-establishing his entire life situation. This was about way more than just code.
+But internally, I was actually shocked. Why? Because hearing this definitely opened my eyes to where we _truly needed to start_. While one might (safely) assume that we start off by enabling him to write code or perhaps discuss the domain specifics of our project, in that moment, I realized that this guy was re-establishing his entire life situation.
 
-Realizing this left me with mixed feelings.
+This was about way more than just code, and realizing that left me with mixed feelings.
 
-On the one side, I felt humbled and vulnerable (maybe **for** him), mostly because I can relate to this on a personal level. I've lived in many places and moved a ton, growing up, so I am aware of what it's like being new to a city and new to a country. I remember what it was like to relocate my family to Austin, a place where we'd have no having any connections or support network. Then on the other hand, I was considerably upset that I, myself, didn't do _anything_ to prepare for his first day.
+On the one side, I felt humbled and vulnerable (maybe **for** him), mostly because I can relate to this on a personal level. I've lived in many places and moved a ton of times.  So I am mindful of what it's like to be new to a city or country. I remember what it was like to relocate my family to Austin, a place where we'd have no familial connections or support network. Then on the other hand, I was considerably upset that I, myself, didn't do _anything_ to prepare for this moment.
 
-Sure, you can say that this should be an HR responsibility, or even a team obligation. But for me, being member on this team, meant that I was naturally an accountable part of the equation.
+Sure, one might argue that this is an HR responsibility, or even a wider team obligation. But for me, being member on this team, meant that I was naturally an accountable part of the equation.
 
-After a few minutes of chatting, I learned that he needed a full-on introduction to not only our team and our product, but he also needed a quick run down of some bare essentials. I offered to give him a ride home that evening so that I can point out some places of interest that he might want to know about.
+After a few minutes of chatting, I learned that he needed a full-on introduction to not only our team and our product, but he also needed a quick run down of some bare essentials. He needed to know things like where to buy groceries, where to establish a bank account, what's in his community, etc. Consequently, I offered to give him a ride home that evening with the intent of pointing out some places of interest that he might want to know about.
 
 #### Fixing the situation
 
-Over the past week, I have picked him up for work (6:45 am, my schedule), and give him a ride home at the end of the day. On more than one occasion, we'll discuss software-related topics such as things like Node, async Javascript, microservices, etc. 
+When we pulled into his complex, I offered to pick him up the next morning. The only caveat was, I wake up at 4:00 AM, and begin my commute into the office at around 6:30 AM (mainly to beat traffic, but mostly to avoid Texas heat). What's interesting is that this picking up/dropping off has become a part of my commute - it became a routine for me, and I imagine it will be this way until he has established his own car situation.
 
-But, more importantly, this has not only given us the chance to establish a friendship, but it has also been a great opportunity to exchange ideas, share stories of each other's culture, and answer questions about our team.
+On more than one occasion, we'll discuss software-related topics such as things like Node, security, async Javascript, microservices, etc. These have been fascinating conversations because there's a lot about tech that I still don't know. But, more importantly, this has also afforded us the chance to establish a friendship, exchange ideas, share stories of each other's culture, and answer questions about our team.
+
+And while this I truly believe that this has made up for our lack of an on-boarding process, I still think the entire situation would've been _that much better_ had we planned something.
 
 #### How to properly on-board
 
@@ -69,7 +69,9 @@ Like I say on my homepage of this site, good code is about the people. It truly 
 
 At least in my opinion it's not.
 
-For me at least, it's about fostering a healthy team culture, and that starts in the beginning. 
+In my humble opinion, the proper on-boarding of a new team addition is about fostering a healthy team culture from the get go, and I believe it is something that every individual on the team is responsible for.
+
+People skills before anything.
 
 
 
