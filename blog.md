@@ -1,6 +1,6 @@
 ---
 layout: page
-title: it was written
+title: It was written
 subtitle: A collection of thoughts
 ---
 <h1 class="home--subtitle text--bold">on life,<br>familyhood,<br>& code.</h1>
