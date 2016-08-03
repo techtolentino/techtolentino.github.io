@@ -24,8 +24,8 @@ By the time our second son was born, I was sure of a few things. I knew I wanted
 
 At that point, we knew our lives had to change.
 
-<img class="img--FULL" src="assets/fam-collage-1.png" alt="The first years of familyhood">
-<figcaption>The first years of familyhood</figcaption>
+<!-- <img class="img--FULL" src="assets/fam-collage-1.png" alt="The first years of familyhood">
+<figcaption>The first years of familyhood</figcaption> -->
 
 #### Uprooting
 
@@ -37,8 +37,8 @@ On the morning of March 2nd, 2014, we left the sunny west coast and bid farewell
 
 It was 28<sup> ºF</sup> when we landed in Texas.
 
-<img class="img--FULL" src="assets/fam-collage-2.png" alt="Relocating to Austin">
-<figcaption>Relocating to Austin</figcaption>
+<!-- <img class="img--FULL" src="assets/fam-collage-2.png" alt="Relocating to Austin">
+<figcaption>Relocating to Austin</figcaption> -->
 
 #### New heights
 
@@ -46,8 +46,8 @@ If there's one thing I learned over the past couple of years, it would be this: 
 
 Two years later, and I'm happy to report that the initial sacrifices we took have paid off, beautifully. We settled in a new city, I finished school within three months, and landed my first position as (in my dream industry) shortly after. 
 
-<img class="img--FULL" src="assets/fam-collage-3.png" alt="">
-<figcaption>Life has been blessed, to say the least</figcaption>
+<!-- <img class="img--FULL" src="assets/fam-collage-3.png" alt="">
+<figcaption>Life has been blessed, to say the least</figcaption> -->
 
 #### Fam
 
