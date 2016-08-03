@@ -54,7 +54,7 @@
 @include media-query($small-screen) {
     .post {
         &-list-item {
-            padding: 1em 1em 1em 0;
+            // padding: 1em 1em 1em 0;
         }
 
         &-link {

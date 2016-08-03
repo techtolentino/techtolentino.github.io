@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to the squad"
 date:   2016-08-02 06:05:00 -0600
+photo: welcome_to_the_squad.jpg
 ---
 
 #### Change is inevitable

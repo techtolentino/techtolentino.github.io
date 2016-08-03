@@ -2,9 +2,10 @@
 layout: post
 title:  "The Vision Quest"
 date:   2016-03-18 06:05:00 -0600
+photo: the_vision_quest.jpg
 ---
 
-After graduating from the three month initial bootcamp here at IBM Design Studios, I was *deployed* to the CIO Organization. Here, I'd join a team of full-stack devs, all with engineering backgrounds, who were very talented and had world-class experience in building software applications - it was intimidating to say the least.
+After completing from the three month initial bootcamp here at IBM Design Studios, I was *deployed* to the CIO Organization. Here, I'd join a team of full-stack devs, all with engineering backgrounds, who were very talented and had world-class experience in building software applications - it was intimidating to say the least.
 
 On my first official day, I sat in on a scrum call and heard each dev team member give their updated status. Shit was crazy. I honest-to-God had no idea what they were talking about, not only from project-specific standpoint, but even from a technical standpoint as well. I knew two things after that call:
 

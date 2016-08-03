@@ -2,6 +2,7 @@
 layout: post
 title:  "Mentorship"
 date:   2016-03-15 06:05:00 -0600
+photo: mentorship.jpg
 ---
 Recently, I've been involved with helping out with a couple of open source (OS) projects.
 

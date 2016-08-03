@@ -11,6 +11,7 @@ subtitle: A collection of thoughts
     {% for post in site.posts %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             <li class="post-list-item">
+                <img class="img--FULL" src="/assets/{{post.photo}}" alt="">
                 <h4 class="post-title">
                 <span class="post-link">{{ post.title }} ▸</span>
                 </h4>
