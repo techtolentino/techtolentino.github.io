@@ -10,7 +10,7 @@ It's been a hectic week.
 
 At work, there have been a lot of moving pieces, both physically and in terms of the project. Our Austin team is adjusting to our new space within the Design Studio after the most recent floor plan rearrangement. I can't complain though; my new desk space is situated next to a window, on the 8th floor, and its expansive view overlooks north Austin, which is refreshing.
 
-Within our product's development workflow, the entire engineering team (front and backend) has recentply adopted a full-stack approach, which means that all developers/engineers work the same stories; tasks are not designated according to stack area expertise. From what I've heard, We're one of the rare teams in the entire company that has implemented this practice. And since most of our committed, recent sprint work has involved building out the infrastructure for backend microservices, I've been doing all backend work for the past two sprints. In all honesty, it has been very uncomfortable. Granted, I feel lucky to be able to learn new things. Additionally, it has awakened my interest in new areas of code, but I do admit, it's just been difficult.
+Within our product's development workflow, the entire engineering team (front and back-end) has recently adopted a full-stack approach, which means that all developers/engineers work the same stories; tasks are not designated according to stack area expertise. From what I've heard, We're one of the rare teams in the entire company that has implemented this practice. And since most of our committed, recent sprint work has involved building out the infrastructure for back-end micro-services, I've been doing all back-end work for the past two sprints. In all honesty, it has been very uncomfortable. Granted, I feel lucky to be able to learn new things. Additionally, it has awakened my interest in new areas of code, but I do admit, it's just been difficult.
 
 Lastly, we've added a new software engineer to our team here in Austin. And while he has years of experience in software, there is an interesting aspect here - he's brand new to the States. The worst part is, there wasn't a whole lot that was planned for his arrival.
 
@@ -48,7 +48,7 @@ After a few minutes of chatting, I learned that he needed a full-on introduction
 
 When we pulled into his complex, I offered to pick him up the next morning. The only caveat was, I wake up at 4:00 AM, and begin my commute into the office at around 6:30 AM (mainly to beat traffic, but mostly to avoid Texas heat). What's interesting is that this picking up/dropping off has become a part of my commute - it became a routine for me, and I imagine it will be this way until he has established his own car situation.
 
-On more than one occasion, we'll discuss software-related topics such as things like Node, security, async Javascript, microservices, etc. These have been fascinating conversations because there's a lot about tech that I still don't know. But, more importantly, this has also afforded us the chance to establish a friendship, exchange ideas, share stories of each other's culture, and answer questions about our team.
+On more than one occasion, we'll discuss software-related topics such as things like Node, security, async Javascript, micro-services, etc. These have been fascinating conversations because there's a lot about tech that I still don't know. But, more importantly, this has also afforded us the chance to establish a friendship, exchange ideas, share stories of each other's culture, and answer questions about our team.
 
 And while this I truly believe that this has made up for our lack of an on-boarding process, I still think the entire situation would've been _that much better_ had we planned something.
 
@@ -63,11 +63,11 @@ With all that being said, I've learned a lot about what it means to truly on-boa
 - **Dev / Design environments** - one cannot be successful without the proper tools and understanding of team practices. As a team, be ready to provide your newest member with all of the necessary software/hardware 
 - **Introductory lunch** - while your entire team is there to work, one of the best ways to build and enhance relationships is in a simple team lunch. This opens up the communication lines and is the perfect opportunity become more acquainted
 
-#### People first
+#### Remember, people first
 
-Like I say on my homepage of this site, good code is about the people. It truly is. And when it comes to on-boarding new team members, it's **not** about how quickly one can get a pull-request up and merged. 
+I find it ironic that a product team can spend so much time, invested in solving for users, and at the same time lack an on-boarding process. It doesn't make sense to me. To reiterate what I say on the landing page of this site, **good code is about the people**, it's about the team and the users we solve for. It truly is. And when it comes to on-boarding new team members, it's **not** about how quickly one can get a pull-request up and merged or how fast one can build an asset. 
 
-At least in my opinion it's not.
+At least in my opinion it isn't.
 
 In my humble opinion, the proper on-boarding of a new team addition is about fostering a healthy team culture from the get go, and I believe it is something that every individual on the team is responsible for.
 
