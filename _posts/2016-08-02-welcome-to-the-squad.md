@@ -18,7 +18,7 @@ Lastly, we've added a new software engineer to our team here in Austin. And whil
 
 I'm not sure why, but to me, I was fairly disappointed and embarrassed at the idea that our team lacked some form of an on-boarding process. For one, I felt badly for the person who joined our team, and in this particular case, one who was and still is new to the country. Not only did we fail at providing a hospitable introduction, but at the same time, it felt like we could have done way better job at identifying the huge ambassadorial responsibilities of welcoming someone new to our country.
 
-So on last Tuesday, after I had helped the interns downstairs with some user testing on a prototype, I returned back to my desk to see that our new team member had joined our space. He was sat across from me at our dev pod, and was working on his brand new Macbook. I said hello, then continued to proceed with my own work.
+So on last Tuesday, after I had helped the interns downstairs with some user testing on a prototype, I returned back to my desk to see that our new team member had joined our space. He was situated directly across from me at our dev pod, and was working on his brand new Macbook. I said hello, then continued to proceed with my own work.
 
 About a half-hour went by, and when I came up for air, I noticed that he wasn't interacting with anyone, at all. I figured, _maybe someone gave him something to do?, and he was working on it?_ I looked around at the other members of the team and saw that everyone was heads down, focused on work with earphones in/headphones on - a normal scene on my team.
 
