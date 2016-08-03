@@ -61,8 +61,8 @@ And while this I truly believe that this has made up for our lack of an on-board
 With all that being said, I've learned a lot about what it means to truly on-board a new team member. Additionally, this topic sparked a pretty decent discussion at our latest sprint retrospective meeting. Here are some of the takeaways that I believe are worth sharing:
 
 - **Having a 'Day 1 starter kit'** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or, it can be as awesome as an interactive todo list app
-- **Creating a sponsorship system** - for the first week or two, someone on the team should volunteer to be a sponsor for the new team member, basically making sure that the new team member has all of the essentials in place
-- **Providing artifacts** - the new team member should go home with some artifact(s) that they could look over. Ideas that came to mind were slide decks, repositories, seating charts, org charts, and so forth
+- **Creating a sponsorship system** - for the first week or two, someone on the team can volunteer to be a sponsor for the new team member, basically making sure that the new team member has all of the essentials in place
+- **Providing artifacts** - the new team member might want to go home with some artifact(s) that to review. Ideas that came to mind were slide decks, repositories, seating charts, org charts, and so forth
 - **The 'Meet us' challenge** - the new member joining the team can possibly book at least 5 meetings, with different individuals on the team, just to chat and get know that team member. Discussion topics can include previous experience, current work, understanding one's role in the team. (I think this provides great benefit)
 - **Setting up Dev/Design environments** - one cannot be successful without the proper tools and understanding of team practices. As a team, be ready to provide your newest member with all of the necessary software/hardware 
 - **Hosting an introductory lunch** - while your entire team is there to work, one of the best ways to build and enhance relationships is in a simple team lunch. This opens up the communication lines and is the perfect opportunity become more acquainted
@@ -73,7 +73,7 @@ I find it ironic that a product team can spend so much time, invested in solving
 
 At least in my opinion it isn't.
 
-In my humble opinion, the proper on-boarding of a new team addition is about fostering a healthy team culture from the get go, and I believe it is something that every individual on the team is responsible for.
+In my humble opinion, fostering a healthy team culture begins with the on-boarding process, and I believe it is something that every individual on the team is responsible for.
 
 People skills before anything.
 
