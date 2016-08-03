@@ -28,7 +28,7 @@ About a half-hour went by, and when I came up for air, I noticed that he wasn't 
 
 I made a mental note of my observations, then dove back into the code.
 
-After another half-hour passed and nothing changed - the team is working, the new guy was busy at his computer. I wondered if I had missed something, for example, maybe they already did introductions, or a tour, or already put him onto something to work on. At that point, I decided to speak up.
+Another half-hour passed and nothing changed - the team is working, the new guy was busy at his computer. I wondered if I had missed something, for example, maybe they already did introductions, or a tour, or already put him onto something to work on. At that point, I decided to speak up.
 
 I began by asking questions.
 
