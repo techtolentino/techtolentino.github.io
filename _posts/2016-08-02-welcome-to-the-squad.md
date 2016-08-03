@@ -14,7 +14,7 @@ Within our product's development workflow, the entire engineering team (front an
 
 From what I understand, we're one of the rare teams in the entire company that has implemented this model. And since most of our committed, recent sprint work has involved building out the infrastructure for back-end micro-services, I've been doing all back-end work for the past two sprints. Honestly, it has been very uncomfortable, but at the same time, super interesting. Still, I do feel fortunate to have this opportunity to learn new things. As a result, it has awakened my interest in new areas of code, but I do admit, it's just been difficult.
 
-(I can dedicate a whole post just on this item alone - I will).
+(I'm going to dedicate an entire post to this model at some point).
 
 But lastly, and the thing I wanted to expound on, is that we've added a new software engineer to our team here in Austin. And while he has years of experience in software, there is an interesting aspect at play here - he's brand new to the States. And to me, the worst part is that there wasn't a whole lot of effort placed into the  planning for his arrival.
 
