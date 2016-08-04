@@ -4,11 +4,11 @@ title:  "The Vision Quest"
 date:   2016-03-18 06:05:00 -0600
 ---
 
-After graduating from the three month initial bootcamp here at IBM Design Studios, I was *deployed* to the CIO Organization. Here, I'd join a team of full-stack devs, all with engineering backgrounds, who were very talented and had world-class experience in building software applications - it was intimidating to say the least.
+After completing the three month immersive bootcamp here at IBM Design Studios, I was *deployed* onto an awesome project under the CIO Organization. Here, I'd join a team of full-stack devs, all with engineering backgrounds, who were very talented and had world-class experience in building software - it was intimidating to say the least.
 
-On my first official day, I sat in on a scrum call and heard each dev team member give their updated status. Shit was crazy. I honest-to-God had no idea what they were talking about, not only from project-specific standpoint, but even from a technical standpoint as well. I knew two things after that call:
+On my first official day, I sat in on a scrum call and heard each dev team member give their updated status. It was crazy. I honest-to-God had no idea what they were talking about, not only from project-specific standpoint, but even from a technical standpoint as well. I knew two things after that call:
 
-I was either going to learn a ton of shit while being on this team *or* I was going to fail miserably.
+I was either going to learn a ton while being on this team *or* I was going to fail miserably.
 
 Turns out, both are true, every dang day. Yes, I fail every day and I learn a ton from those failures.
 

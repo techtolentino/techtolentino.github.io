@@ -2,6 +2,7 @@
 layout: post
 title:  "Gitflow"
 date:   2016-03-28 06:05:00 -0600
+published: false
 ---
 
 So, I have an idea - it's nothing new, but it will be fun, _I think_. I want to create some sorta e-book or simple app that will detail a couple of the Git workflows that I've experienced, whether that has been on a team here within IBM or in some outside, open source project. 
