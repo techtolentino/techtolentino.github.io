@@ -42,9 +42,9 @@ But internally, I was actually shocked. Why? Because hearing this definitely ope
 
 This was about way more than just code, and realizing that left me with mixed feelings.
 
-On the one side, I felt humbled and vulnerable (maybe **for** him), mostly because I can relate to this on a personal level. I've lived in many places and moved a ton of times.  So I am mindful of what it's like to be new to a city or country. I remember what it was like to relocate my family to Austin, a place where we'd have no familial connections or support network. Then on the other hand, I was considerably upset that I, myself, didn't do _anything_ to prepare for this moment.
+On the one side, I felt humbled and vulnerable (maybe **for** him), mostly because I can relate to this on a personal level. I've lived in many places and moved a ton of times, so, I am mindful of what it's like to be new to a city or country. I remember what it was like to relocate my family to Austin, a place where we'd have no familial connections or support network. Then on the other hand, I was considerably upset that I, myself, didn't do _anything_ to prepare for this moment.
 
-Sure, one might argue that this is an HR responsibility, or even a wider team obligation. But for me, being member on this team, meant that I was naturally an accountable part of the equation.
+Sure, one might argue that this is an HR responsibility, or even a wider team obligation. But for me, being a member on this team, meant that I was naturally an accountable part of the equation.
 
 After a few minutes of chatting, I learned that he needed a full-on introduction to not only our team and our product, but he also needed a quick run down of some bare essentials. He needed to know things like where to buy groceries, where to establish a bank account, what's in his community, etc. Consequently, I offered to give him a ride home that evening with the intent of pointing out some places of interest that he might want to know about.
 
@@ -54,26 +54,26 @@ When we pulled into his complex, I offered to pick him up the next morning. The 
 
 On more than one occasion, we'll discuss software-related topics such as things like Node, security, async Javascript, micro-services, etc. These have been fascinating conversations because there's a lot about tech that I still don't know. But, more importantly, this has also afforded us the chance to establish a friendship, exchange ideas, share stories of each other's culture, and answer questions about our team.
 
-And while this I truly believe that this has made up for our lack of an on-boarding process, I still think the entire situation would've been _that much better_ had we planned something.
+And while I want to say that this has sorta made up for our lack of an on-boarding process, I still propose that the entire situation would've been _that much better_ had we planned something.
 
 #### How to properly on-board
 
-With all that being said, I've learned a lot about what it means to truly on-board a new team member. Additionally, this topic sparked a pretty decent discussion at our latest sprint retrospective meeting. Here are some of the takeaways that I believe are worth sharing:
+With all that being said, I've learned a lot about what it means to truly on-board a new team member. Additionally, the topic sparked a pretty decent discussion at our latest sprint retrospective meeting. Here are some interesting takeaways that I believe are worth sharing:
 
-- **Having a 'Day 1 starter kit'** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or, it can be as awesome as an interactive todo list app
-- **Creating a sponsorship system** - for the first week or two, someone on the team can volunteer to be a sponsor for the new team member, basically making sure that the new team member has all of the essentials in place
-- **Providing artifacts** - the new team member might want to go home with some artifact(s) that to review. Ideas that came to mind were slide decks, repositories, seating charts, org charts, and so forth
+- **Have a 'Day 1 starter kit'** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or as awesome as an interactive todo list app. But basically, this starter kit should aim to address human needs with things like a logistical tour, team info, and channels of communication
+- **Creating a sponsorship system** - for the first week or two, someone on the team can volunteer to be a sponsor for the new team member, ensuring that the new team member has all of the essentials in place, and, a new friend
+- **Providing artifacts** - the new team member might want to go home with some artifact(s) to review. It shouldn't be required homework, but it does give the new member the opportunity to fill in any gaps and formulate questions. Ideas that came to mind were slide decks, repositories, links to documentation, seating charts, org charts, and so forth
 - **The 'Meet us' challenge** - the new member joining the team can possibly book at least 5 meetings, with different individuals on the team, just to chat and get know that team member. Discussion topics can include previous experience, current work, understanding one's role in the team. (I think this provides great benefit)
-- **Setting up Dev/Design environments** - one cannot be successful without the proper tools and understanding of team practices. As a team, be ready to provide your newest member with all of the necessary software/hardware 
-- **Hosting an introductory lunch** - while your entire team is there to work, one of the best ways to build and enhance relationships is in a simple team lunch. This opens up the communication lines and is the perfect opportunity become more acquainted
+- **Setting up dev/design environments** - one cannot be successful without the proper tools and understanding of team practices. As a team, be ready to provide the newest member with all of the necessary licenses and access to any software tool
+- **Hosting an introductory lunch** - one of the best ways to build and enhance relationships is in a simple team lunch. This opens up the communication lines and is the perfect opportunity become more acquainted
 
 #### Remember, people first
 
-I find it ironic that a product team can spend so much time, invested in solving for users, and at the same time lack an on-boarding process. It doesn't make sense to me. To reiterate what I say on the landing page of this site, **good code is about the people**, it's about the team and the users we solve for. It truly is. And when it comes to on-boarding new team members, it's **not** about how quickly one can get a pull-request up and merged or how fast one can build an asset. 
+I find it ironic that a product team can spend so much time, invested in designing/building for external user experiences, and at the same time lack an on-boarding process. It doesn't make sense to me. To reiterate what I say on the landing page of this site, **good code is about the collective people**, it's about our internal team and the users we solve for. It truly is. And when it comes to on-boarding new team members, it's **not** about how quickly one can get a pull-request up and merged or how fast one can build an asset to be used in production. 
 
 At least in my opinion it isn't.
 
-In my humble opinion, fostering a healthy team culture begins with the on-boarding process, and I believe it is something that every individual on the team is responsible for.
+In my humble opinion, the bigger picture and longer-lasting impact of fostering a healthy team culture begins with the on-boarding process, and I believe it is something that every individual on the team is responsible for.
 
 People skills before anything.
 
