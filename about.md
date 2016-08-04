@@ -44,7 +44,7 @@ It was 28<sup> ºF</sup> when we landed in Texas.
 
 If there's one thing I learned over the past couple of years, it would be this: welcome the risks - even if that ultimately equates to _only the possibility_ of something greater. These possibilities can be life-changing.
 
-Two years later, and I'm happy to report that the initial sacrifices we took have paid off, beautifully. We settled in a new city, I finished school within three months, and landed my first position as (in my dream industry) shortly after. 
+Two years later, and I'm happy to report that the initial sacrifices we made have paid off beautifully. For me, personally, I couldn't be happier in my new career as a front-end developer, working in the tech industry. And for my family, we are fortunate be living a simple, healthy, and close-knit life.
 
 <!-- <img class="img--FULL" src="assets/fam-collage-3.png" alt="">
 <figcaption>Life has been blessed, to say the least</figcaption> -->
@@ -53,8 +53,8 @@ Two years later, and I'm happy to report that the initial sacrifices we took hav
 
 Like I've mentioned before, **being a Front-End Developer ain't about me. It's just not. In the work aspect, it's about the team I work with, and how together, we aim to bring value and solve problems for our users.  Then on the other hand, this entire journey is about my family.**
 
-These consecutive years of waking up between 3 - 4am to study, learn, and practice code, (along with happily putting in 10 hour days at work) have all been for my wife and two boys. They are the my purpose, my best friends, and I love that they keep me motivated.
+These consecutive years of waking up between 3 - 4am to study, learn, and practice code, (along with happily putting in 10 hour days at work) have all been for my wife and two boys. They are my purpose, my best friends, and I love that they keep me motivated.
 
-Where we go from here, man, who knows?
+Where we go from here, well, I have a slight idea. I know for a fact that I want to continue growing as a software front-end developer. And as a family, we've discussed exploring and experiencing new cities, landscapes, cultures, and people. I feel like the possibilities are open, and I'm excited to see what unfolds.
 
-What I do know, is that we can look back and reflect on the sacrifices and risks that we took over the past couple of years, and proudly say to ourselves -  *we've made it.*
+What I also know, is that we can look back and reflect on the sacrifices and risks that we took over the past couple of years, and proudly say to ourselves -  *we've made it.*

@@ -4,7 +4,7 @@ title:  "Welcome to the squad"
 date:   2016-08-02 06:05:00 -0600
 ---
 
-#### Change is inevitable
+#### Change is inevitable, but good
 
 It's been a hectic week.
 
@@ -20,7 +20,7 @@ But lastly, and the thing I wanted to expound on, is that we've added a new soft
 
 #### Enter visceral feelings
 
-I'm not sure why, but to me, I was fairly disappointed and embarrassed at the idea that our team lacked some form of an on-boarding process. For one, I felt badly for the person who joined our team, and in this particular case, one who was and still is new to the country. Not only did we fail at providing a hospitable introduction, but at the same time, it felt like we could have done way better job at identifying the huge ambassadorial responsibilities of welcoming someone new to our country.
+I'm not sure why, but to me, I was fairly disappointed and embarrassed at the idea that our team lacked some form of an on-boarding process. For one, I felt badly for the person who joined our team, and in this particular case, one who was and still is new to the country. Not only did we fail at providing a hospitable introduction, but at the same time, it felt like we could have done a way better job at identifying the huge ambassadorial responsibilities of welcoming someone new to our country.
 
 So on last Tuesday, after I had helped the interns downstairs with some user testing on a prototype, I returned back to my desk to see that our new team member had joined our space. He was situated directly across from me at our dev pod, and was working on his brand new Macbook. I said hello, then continued to proceed with my own work.
 
@@ -60,7 +60,7 @@ And while I want to say that this has sorta made up for our lack of an on-boardi
 
 With all that being said, I've learned a lot about what it means to truly on-board a new team member. Additionally, the topic sparked a pretty decent discussion at our latest sprint retrospective meeting. Here are some interesting takeaways that I believe are worth sharing:
 
-- **Have a 'Day 1 starter kit'** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or as awesome as an interactive todo list app. But basically, this starter kit should aim to address human needs with things like a logistical tour, team info, and channels of communication
+- **Have a 'Day 1 starter kit'** - this can be as minimal as a document with a list of things to know and accomplish on the first day, or as awesome as an interactive to-do list app. But basically, this starter kit should aim to address human needs with things like a logistical tour, team info, and channels of communication
 - **Creating a sponsorship system** - for the first week or two, someone on the team can volunteer to be a sponsor for the new team member, ensuring that the new team member has all of the essentials in place, and, a new friend
 - **Providing artifacts** - the new team member might want to go home with some artifact(s) to review. It shouldn't be required homework, but it does give the new member the opportunity to fill in any gaps and formulate questions. Ideas that came to mind were slide decks, repositories, links to documentation, seating charts, org charts, and so forth
 - **The 'Meet us' challenge** - the new member joining the team can possibly book at least 5 meetings, with different individuals on the team, just to chat and get know that team member. Discussion topics can include previous experience, current work, understanding one's role in the team. (I think this provides great benefit)
