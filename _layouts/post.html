@@ -2,8 +2,16 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <h4 class="home--title accent--cool text--normal">{{page.date | date: "%b %-d, %Y"}}</h4>
-    <h1 class="home--subtitle text--bold">{{page.title}}</h1>
-    <hr class="divider--gray">
-    {{content}}
+	<h4 class="home--title accent--cool text--normal">{{page.date | date: "%b %-d, %Y"}}</h4>
+	<h1 class="home--subtitle text--bold">{{page.title}}</h1>
+	<hr class="divider--gray">
+	{{content}}
+	<div class="post-pagination">
+		{% if page.previous.url %}
+			<a class="post-pagination-link-left" href="{{page.previous.url}}"><span class="rotate">▸</span> {{page.previous.title}}<br><span class="post-pagination-previous-date">{{page.previous.date | date: "%b %-d, %Y"}}</span></a>
+		{% endif %}
+		{% if page.next.url %}
+			<a class="post-pagination-link-right" href="{{page.next.url}}">{{page.next.title}} ▸<br><span class="post-pagination-next-date">{{page.next.date | date: "%b %-d, %Y"}}</span></a>
+		{% endif %}
+	</div>
 </article>

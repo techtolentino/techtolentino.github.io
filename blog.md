@@ -5,8 +5,6 @@ subtitle: A collection of thoughts
 ---
 <h1 class="home--subtitle text--bold">on life,<br>familyhood,<br>& code.</h1>
 <hr class="divider--gray">
-
-
 <ul class="post-list">
     {% for post in site.posts %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
