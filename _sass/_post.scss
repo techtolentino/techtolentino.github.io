@@ -53,14 +53,16 @@ $post-meta-type-size: .75em;
     }
 
     &-pagination {
-        display: flex;
-        justify-content: space-between;
+        clear: both;
         padding-top: $spacing-unit / 2;
+        padding-bottom: $spacing-unit / 2;
         margin-top: $spacing-unit * 2;
+        margin-bottom: $spacing-unit;
         border-top: 1px dotted $gray-color;
     }
 
     &-pagination-link-left {
+        float: left;
         color: darken($gray-color, 15%);
         text-decoration: none;
 
@@ -70,6 +72,7 @@ $post-meta-type-size: .75em;
     }
 
     &-pagination-link-right {
+        float: right;
         color: darken($gray-color, 15%);
         text-decoration: none;
         text-align: right;
