@@ -34,6 +34,12 @@ header {
             color: $cool-color;
         }
     }
+
+    &--ACTIVE {
+        border-bottom: 3px solid $cool-color;
+        padding-bottom: 1em;
+        color: $cool-color;
+    }
 }
 
 @include media-query($extra-extra-large-screen) {
