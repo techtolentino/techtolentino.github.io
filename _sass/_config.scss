@@ -1,0 +1,21 @@
+// Base variables
+$base-font-family: 'Benton Light', sans-serif;
+$base-font-size:   1em;
+$base-font-weight: 700;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.45;
+
+// Spacing
+$spacing-unit: 2em;
+
+// Colors
+$black: #272727;
+$white: #FBFCFC;
+$primary: #40D5BB;
+$secondary: #FF5C49;
+$gray: #8C9696;
+
+// Width of the content area
+$large-screen: 60em;
+$medium-screen: 48em;
+$small-screen: 30em;

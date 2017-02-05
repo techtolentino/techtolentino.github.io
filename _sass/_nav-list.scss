@@ -1,0 +1,15 @@
+.nav-list {
+    list-style-type: none;
+    padding-left: 0;
+
+    &--item {
+        display: inline-block;
+        padding-right: $spacing-unit / 2;
+    }
+
+    &--link {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}

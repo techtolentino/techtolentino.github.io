@@ -1,0 +1,12 @@
+.icon {
+    width: 100%;
+
+    &-md {
+        width: $spacing-unit * 1.5;
+        height: $spacing-unit * 1.5;
+    }
+
+    &-sm {
+        width: $spacing-unit / 1.25;
+    }
+}
