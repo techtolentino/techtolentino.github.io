@@ -1,15 +1,22 @@
 .nav-list {
     list-style-type: none;
-    padding-left: 0;
+    padding: 0;
+    margin: 0;
+    text-align: right;
 
     &--item {
         display: inline-block;
-        padding-right: $spacing-unit / 2;
+        padding: 0 0 0 $spacing-unit / 1.5;
+        text-transform: uppercase;
     }
 
     &--link {
+        color: $gray;
+        font-family: 'Benton Light';
+        
         &:hover {
             text-decoration: none;
+            color: $primary;
         }
     }
 }

@@ -2,6 +2,13 @@
 <html class="no-js" lang="">
     {% include head.html %}
     <body>
-        {{content}}
+        {% include header.html %}
+        <div class="band-md">
+            <div class="container container-md">
+                <h1>{{page.title}}</h1>
+                <h3>{{page.subtitle}}</h3>
+                {{content}}
+            </div>
+        </div>
     </body>
 </html>
