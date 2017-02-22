@@ -6,12 +6,12 @@
 
     &--item {
         display: inline-block;
-        padding: 0 0 0 $spacing-unit / 1.5;
         text-transform: uppercase;
     }
 
     &--link {
         color: $gray;
+        margin-right: $spacing-unit / 2;
         font-family: 'Benton Light';
         
         &:hover {
@@ -21,6 +21,7 @@
     }
     
     &--ACTIVE {
-        color: $secondary;
+        color: $primary;
+        font-family: 'Benton Regular';
     }
 }
