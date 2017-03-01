@@ -46,7 +46,7 @@ a {
     color: $primary;
     transition: color .25s;
     text-decoration: none;
-    font-family: 'Benton Regular', sans-serif;
+    font-family: 'Benton Light', sans-serif;
 
     &:hover {
         color: darken($primary, 15%);

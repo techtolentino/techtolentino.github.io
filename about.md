@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+subtitle: It's about us, not me
 ---
 
 #### Former life
