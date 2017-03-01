@@ -17,7 +17,7 @@ The following projects are among some of the things that I have previously worke
 
 <div>	
 	{% for project in page.projects %}
-		<h3>{{project.name}}</h3>
+		<h4>{{project.name}}</h4>
 			<p><a href="{{project.url}}">Demo</a> | <a href="{{project.url}}">GitHub</a></p>
 		<p>{{project.description}}</p>
 	{% endfor%}

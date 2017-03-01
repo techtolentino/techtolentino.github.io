@@ -1,0 +1,7 @@
+---
+layout: default
+---
+{% for project in site.projects %}
+	<p><a href="{{project.url}}">Demo</a> | <a href="{{project.url}}">GitHub</a></p>
+	<p>{{project.description}}</p>
+{% endfor %}
