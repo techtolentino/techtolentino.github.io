@@ -56,8 +56,6 @@ a {
     }
 }
 
-// .407
-
 @include media-query($small-screen) {
     h1, h2, h3, h4 {
       margin: 1.14em 0 0.15em;

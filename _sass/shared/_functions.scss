@@ -1,7 +1,7 @@
 // Use media queries like this:
 // @include media-query($small-screen) {}
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }

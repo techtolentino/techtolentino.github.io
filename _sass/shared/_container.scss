@@ -1,0 +1,15 @@
+@mixin container {
+  display: block;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.container {
+  @include container;
+  max-width: $large-screen;
+
+  &_md {
+    @include container;
+    max-width: $small-screen;
+  }
+}

@@ -1,13 +1,13 @@
-.nav-list {
+.contact_list {
     list-style-type: none;
     padding-left: 0;
 
-    &--item {
+    &__item {
         display: inline-block;
         padding-right: $spacing-unit / 2;
     }
 
-    &--link {
+    &__link {
         &:hover {
             text-decoration: none;
         }

@@ -1,17 +1,17 @@
-.band {
+.row {
     width: 100%;
     padding: $spacing-unit 0 $spacing-unit 0;
 
-    &-md {
+    &_md {
         width: 100%;
         padding: $spacing-unit * 2 0 $spacing-unit * 2 0;
     }
 
-    &-full {
+    &_full {
         min-height: 100vh;
     }
 
-    &--SECONDARY {
+    &_SECONDARY {
         background: $secondary;
     }
 
