@@ -37,7 +37,7 @@
     .kt    { color: #458; font-weight: bold } // Keyword.Type
     .m     { color: #099 } // Literal.Number
     .s     { color: #d14 } // Literal.String
-    .na    { color: $secondary } // Name.Attribute
+    .na    { color: $light-green } // Name.Attribute
     .nb    { color: #0086B3 } // Name.Builtin
     .nc    { color: #458; font-weight: bold } // Name.Class
     .no    { color: #008080 } // Name.Constant
@@ -45,7 +45,7 @@
     .ne    { color: #900; font-weight: bold } // Name.Exception
     .nf    { color: #900; font-weight: bold } // Name.Function
     .nn    { color: #555 } // Name.Namespace
-    .nt    { color: $primary } // Name.Tag
+    .nt    { color: $blue } // Name.Tag
     .nv    { color: #008080 } // Name.Variable
     .ow    { font-weight: bold } // Operator.Word
     .w     { color: #bbb } // Text.Whitespace
@@ -76,6 +76,6 @@
     font-family: 'Roboto Mono', monospace;
     padding: 1px 3px;
     border-radius: 2px;
-    color: $primary;
+    color: $blue;
     margin: $spacing-unit / 2 0;
 }

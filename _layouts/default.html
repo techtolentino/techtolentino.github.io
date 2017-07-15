@@ -5,5 +5,12 @@
     {% include components/nav.html %}
     {{content}}
     {% include components/footer.html %}
+    <script>
+    const navToggle = document.getElementById('nav_toggle');
+      console.log(navToggle.active, "<<<<<<<<<<");
+      navToggle.addEventListener('click', function() {
+      this.classList.toggle('is-active');
+    })
+    </script>
   </body>
 </html>

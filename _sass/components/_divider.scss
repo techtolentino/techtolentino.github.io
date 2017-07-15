@@ -6,12 +6,12 @@
 
 .divider {
   @include divider;
-  border-top: 2px solid $primary;
+  border-top: 2px solid $charcoal;
   width: $spacing-unit * 2;
 
   &_LIGHT {
     @include divider;
-    border-top: 2px solid $primary;
+    border-top: 2px solid $charcoal;
     width: $spacing-unit * 1.5;
     margin: $spacing-unit 0 $spacing-unit  0;
   }
