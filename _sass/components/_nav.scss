@@ -1,0 +1,14 @@
+.nav {
+  &_list {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+
+    &_item {
+      padding: $spacing-unit / 2;
+      color: $secondary;
+    }
+  }
+}

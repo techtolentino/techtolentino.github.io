@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<div class="container container-md">
-  <div class="row_md row_full row_SECONDARY">
-    <h1 class="text__WHITE">{{page.title}}</h1>
-    <hr class="divider_WHITE">
+<main>
+  <div class="container_md">
+    <div class="row_md">
+      <h1>{{page.title}}</h1>
+      <h3>{{page.subtitle}}</h3>
+      <hr class="divider_LIGHT">
+      {{content}}
+    </div>
   </div>
-</div>
-<div class="container-md">
-  <div class="row_md">
-    {{content}}
-  </div>
-</div>
+</main>

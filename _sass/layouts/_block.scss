@@ -1,0 +1,70 @@
+$block-spacing: $spacing-unit / 2;
+
+.block {
+  width: 100%;
+  display: block;
+
+  &_row {
+    display: flex;
+    padding-bottom: $block-spacing;
+
+    @include media-query($medium-screen) {
+      display: block;
+    }
+  }
+
+  &_full {
+    width: 100%;
+    padding: $block-spacing;
+    border: 2px solid $light-green;
+
+    @include media-query($medium-screen) {
+      width: initial;
+    }
+  }
+
+  &_third {
+    width: 30%;
+    padding: $block-spacing;
+    border: 2px solid $green;
+
+    @include media-query($medium-screen) {
+      width: initial;
+      margin-bottom: $block-spacing;
+    }
+  }
+
+  &_two_thirds {
+    width: 70%;
+    padding: $block-spacing;
+    border: 2px solid $blue;
+    margin-left: $block-spacing;
+
+    @include media-query($medium-screen) {
+      width: initial;
+      margin-left: 0;
+    }
+  }
+
+  &_half {
+    width: 50%;
+    padding: $block-spacing;
+    border: 2px solid $charcoal;
+
+    &:not(:first-child) {
+      margin-left: $block-spacing;
+      border: 2px solid $light;
+
+      @include media-query($medium-screen) {
+        margin-left: 0;
+      }
+    }
+
+    @include media-query($medium-screen) {
+      width: initial;
+        margin-bottom: $block-spacing;
+    }
+  }
+
+
+}

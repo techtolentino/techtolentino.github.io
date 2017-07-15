@@ -43,17 +43,7 @@ strong {
 }
 
 a {
-    color: $primary;
-    transition: color .25s;
     text-decoration: none;
-    font-family: 'Benton Regular', sans-serif;
-
-    &:hover {
-        color: darken($primary, 15%);
-        text-decoration: underline;
-        cursor: pointer;
-        transition: color .25s;
-    }
 }
 
 @include media-query($small-screen) {
