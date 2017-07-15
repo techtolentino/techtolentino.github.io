@@ -4,11 +4,11 @@
     margin: 0;
     display: flex;
     list-style-type: none;
-    justify-content: flex-end;
 
     &_item {
-      padding: $spacing-unit / 2;
       color: $secondary;
+      margin-right: $spacing-unit / 2;
+      padding: $spacing-unit / 2 0;
     }
   }
 }
