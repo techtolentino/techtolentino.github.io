@@ -6,11 +6,16 @@
     {{content}}
     {% include components/footer.html %}
     <script>
-    const navToggle = document.getElementById('nav_toggle');
-      console.log(navToggle.active, "<<<<<<<<<<");
+      const navToggle = document.getElementById('nav_toggle');
+      const nav = document.getElementById('nav_list');
+
       navToggle.addEventListener('click', function() {
-      this.classList.toggle('is-active');
-    })
+        this.classList.toggle('is-active');
+        nav.style.display = nav.style.display === 'block' ? '' : 'block';
+
+      });
+
+
     </script>
   </body>
 </html>
