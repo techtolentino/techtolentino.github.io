@@ -5,9 +5,11 @@ description: >
 keywords: "Randy Tolentino, Front End Developer, hip hop artist, Son of Ran, Design, Code"
 
 # Collections
-# collections:
-#     some-collection:
-#         output: true
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path
+    layout: page
 
 # Build settings
 markdown: kramdown
