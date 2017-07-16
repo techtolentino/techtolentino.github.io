@@ -4,28 +4,44 @@
     margin: 0;
     display: flex;
     list-style-type: none;
+    align-items: center;
+    flex-direction: column;
 
     @include media-query($medium-screen) {
-      flex-direction: column;
-      display: none;
-      padding-bottom: $spacing-unit / 2;
-      border-bottom: 1px solid $blue;
     }
 
     &_item {
-      color: $blue;
-      margin-right: $spacing-unit / 2;
+      border-bottom: 1px solid $blue;
+      color: $white;
+      width: 100%;
+      text-align: center;
       padding: $spacing-unit / 2 0;
+      margin-bottom: $spacing-unit / 4;
+    }
+  }
+
+  &_trigger {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &_display {
+    position: relative;
+    display: none;
+
+    &_page {
+      position: absolute;
+      height: 100vh;
+      width: 100%;
+      background-color: $charcoal;
     }
 
-    &_toggle {
-      display: none;
-
-      @include media-query($medium-screen) {
-        display: block;
-        padding: $spacing-unit / 2 0;
-        background-color: $blue;
-      }
+    &_content {
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      flex-direction: column;
+      color: $white;
     }
   }
 }

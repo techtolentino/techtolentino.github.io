@@ -1,18 +1,34 @@
+<div class="nav_display" id="nav_display">
+  <div class="nav_display_page">
+    <div class="container_md">
+      <div class="row_md">
+        <div class="nav_display_content">
+          <ul class="nav_list" id="nav_list">
+            <a href="/" class="nav_list_item">
+              <li>HOME</li>
+            </a>
+            <a href="/about" class="nav_list_item">
+              <li>ABOUT</li>
+            </a>
+          </ul>
+          <div class="nav_desc">
+            <h2>Contact</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea nam maxime sit at libero esse odit consectetur, debitis saepe optio quisquam sint totam exercitationem distinctio officia recusandae vitae et? Non?</p>
+            {% include components/contact-list.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <nav class="nav">
   <div class="container_md">
-    <button class="hamburger hamburger--3dy" id="nav_toggle" type="button">
-    <span class="hamburger-box">
-      <span class="hamburger-inner"></span>
-    </span>
-    </button>
-
-    <ul class="nav_list" id="nav_list">
-      <a href="/">
-        <li class="nav_list_item">home</li>
-      </a>
-      <a href="/about">
-        <li class="nav_list_item">about</li>
-      </a>
-    </ul>
+    <div class="nav_trigger">
+      <button class="hamburger hamburger--3dy" id="nav_toggle" type="button">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+      </button>
+    </div>
   </div>
 </nav>
