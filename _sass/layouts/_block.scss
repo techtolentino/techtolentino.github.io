@@ -1,4 +1,4 @@
-$block-spacing: $spacing-unit / 2;
+$block-spacing: $spacing-unit / 3;
 
 .block {
   width: 100%;
@@ -11,12 +11,19 @@ $block-spacing: $spacing-unit / 2;
     @include media-query($medium-screen) {
       display: block;
     }
+
+    &_reverse {
+      flex-direction: row-reverse;
+    }
   }
 
   &_full {
     width: 100%;
-    padding: $block-spacing;
-    border: 2px solid $light-green;
+    // padding: $block-spacing;
+    min-height: 16em;
+    background-size: cover;
+    background-position: center;
+    background-color: $blue;
 
     @include media-query($medium-screen) {
       width: initial;
@@ -24,9 +31,12 @@ $block-spacing: $spacing-unit / 2;
   }
 
   &_third {
-    width: 30%;
-    padding: $block-spacing;
-    border: 2px solid $green;
+    width: 36%;
+    // padding: $block-spacing;
+    min-height: 16em;
+    background-size: cover;
+    background-position: center;
+    background-color: $green;
 
     @include media-query($medium-screen) {
       width: initial;
@@ -35,9 +45,12 @@ $block-spacing: $spacing-unit / 2;
   }
 
   &_two_thirds {
-    width: 70%;
-    padding: $block-spacing;
-    border: 2px solid $blue;
+    width: 64%;
+    // padding: $block-spacing;
+    min-height: 16em;
+    background-size: cover;
+    background-position: center;
+    background-color: $charcoal;
     margin-left: $block-spacing;
 
     @include media-query($medium-screen) {
@@ -48,12 +61,15 @@ $block-spacing: $spacing-unit / 2;
 
   &_half {
     width: 50%;
-    padding: $block-spacing;
-    border: 2px solid $charcoal;
+    // padding: $block-spacing;
+    min-height: 16em;
+    background-size: cover;
+    background-position: center;
+    background-color: $light-green;
 
     &:not(:first-child) {
       margin-left: $block-spacing;
-      border: 2px solid $light;
+      background-color: $blue;
 
       @include media-query($medium-screen) {
         margin-left: 0;
@@ -64,5 +80,14 @@ $block-spacing: $spacing-unit / 2;
       width: initial;
         margin-bottom: $block-spacing;
     }
+  }
+
+  &_img {
+    width: 100%;
+    margin-bottom: -6px;
+  }
+
+  &_title {
+
   }
 }
