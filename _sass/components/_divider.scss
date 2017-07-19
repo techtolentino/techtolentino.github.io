@@ -16,6 +16,17 @@
     margin: $spacing-unit 0 $spacing-unit  0;
   }
 
+  &_center {
+    @include divider;
+    border-top: 1px dotted $charcoal;
+    width: 100%;
+    margin: $spacing-unit * 2 auto $spacing-unit * 2 auto;
+
+    @include media-query($medium-screen) {
+      margin: $spacing-unit auto $spacing-unit auto;
+    }
+  }
+
   &_WHITE {
     @include divider;
     border-top: 2px solid $white;

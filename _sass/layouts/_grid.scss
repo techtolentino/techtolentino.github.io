@@ -6,7 +6,6 @@
 .grid {
   display: grid;
   grid-gap: $spacing-unit / 2;
-  padding-bottom: $spacing-unit / 2;
 
   &_thirds {
     display: grid;
@@ -14,12 +13,13 @@
     grid-template-columns: 1fr 1fr 1fr;
     padding-bottom: $spacing-unit / 2;
 
-    @include media-query($large-screen) {
+    @include media-query($medium-screen) {
       grid-template-columns: 1fr;
     }
   }
 
   &_card {
+
     &_image {
       background-position: center;
       min-height: $spacing-unit * 12;

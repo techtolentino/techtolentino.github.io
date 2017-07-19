@@ -1,24 +1,27 @@
 .row {
-    width: 100%;
-    padding: $spacing-unit 0 $spacing-unit 0;
+  width: 100%;
+  padding: $spacing-unit 0 $spacing-unit 0;
 
-    &_md {
-        width: 100%;
-        padding: $spacing-unit * 2 0 $spacing-unit * 2 0;
-    }
-
-    &_full {
-        min-height: 100vh;
-    }
-
-    &_trim {
+  &_md {
       width: 100%;
-      padding: $spacing-unit / 2 0 $spacing-unit / 2 0;
-    }
+      padding: $spacing-unit * 2 0 $spacing-unit * 2 0;
 
-    &_SECONDARY {
-        background: $light-green;
-    }
+      @include media-query($medium-screen) {
+        padding: $spacing-unit 0 $spacing-unit 0;
+      }
+  }
 
 
+  &_full {
+      min-height: 100vh;
+  }
+
+  &_trim {
+    width: 100%;
+    padding: 0;
+  }
+
+  &_SECONDARY {
+      background: $light-green;
+  }
 }
