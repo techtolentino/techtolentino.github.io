@@ -32,7 +32,9 @@ h5 {
 small, .font_small {font-size: 0.75em;}
 
 p {
-    margin-bottom: 1.3em;
+    &:not(:last-child) {
+      margin-bottom: 1.3em;
+    }
 }
 
 strong {
