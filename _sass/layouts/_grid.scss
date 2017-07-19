@@ -1,7 +1,40 @@
+%grid-card {
+  background-size: cover;
+  background-position: center;
+}
+
 .grid {
   display: grid;
   grid-gap: $spacing-unit / 2;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: repeat(3, 200px);
   padding-bottom: $spacing-unit / 2;
+
+  &_thirds {
+    display: grid;
+    grid-gap: $spacing-unit / 2;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-bottom: $spacing-unit / 2;
+
+    @include media-query($large-screen) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &_card {
+    &_image {
+      background-position: center;
+      min-height: $spacing-unit * 12;
+      background-size: cover;
+
+      &_third {
+        background-position: center;
+        min-height: $spacing-unit * 6;
+        background-size: cover;
+      }
+    }
+
+    &_title {
+      margin-top: $spacing-unit / 4;
+
+    }
+  }
 }
