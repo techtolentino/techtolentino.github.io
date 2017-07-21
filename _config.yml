@@ -1,10 +1,11 @@
+---
 # Site settings
 title: Randy Tolentino | Chapter Four
 theme: fourfold
 heading: unfolding
 subheading: the narrative
-description: >
-  Every day feels like a fresh start.
+description: | 
+  This story was never my own, although years back I used to think so. As a husband and as a father, I've come to realize that this entire thing has a higher purpose. This collection of writings aims to document and convey my understandings through a fourfold lens
 keywords: "Randy Tolentino, Front End Developer, hip hop artist, Son of Ran, Design, Code"
 
 # Collections
@@ -24,3 +25,4 @@ collections:
 
 # Build settings
 markdown: kramdown
+---

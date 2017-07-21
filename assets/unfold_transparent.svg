@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="272px" height="267px" viewBox="0 0 272 267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.5 134.5 135.558594 267 0.5 267"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="135.058594" height="132.5" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="0.5 0.5 135.558594 133 0.5 133"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="135.058594" height="132.5" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <polygon id="path-5" points="137 0.5 272.058594 133 137 133"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="135.058594" height="132.5" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polygon id="path-7" points="137 134.5 272.058594 267 137 267"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="135.058594" height="132.5" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" stroke-width="20" fill="#FDFDFD">
+            <use id="Triangle" stroke="#8C9196" mask="url(#mask-2)" transform="translate(68.029297, 200.750000) scale(-1, -1) translate(-68.029297, -200.750000) " xlink:href="#path-1"></use>
+            <use id="Triangle" stroke="#9CD0C3" mask="url(#mask-4)" transform="translate(68.029297, 66.750000) scale(-1, 1) translate(-68.029297, -66.750000) " xlink:href="#path-3"></use>
+            <use id="Triangle" stroke="#666666" mask="url(#mask-6)" xlink:href="#path-5"></use>
+            <use id="Triangle" stroke="#A0CAC0" mask="url(#mask-8)" transform="translate(204.529297, 200.750000) scale(1, -1) translate(-204.529297, -200.750000) " xlink:href="#path-7"></use>
+        </g>
+    </g>
+</svg>

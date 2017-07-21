@@ -20,16 +20,17 @@
     }
   }
 
+  &_intro {
+    p {
+      color: $ebony;
+    }
+  }
+
   &_subtitle {
-    margin-top: 0;
     font-size: 3.157em;
 
     @include media-query($medium-screen) {
       font-size: 1.962em;
     }
-  }
-
-  &_description {
-    color: $ebony;
   }
 }

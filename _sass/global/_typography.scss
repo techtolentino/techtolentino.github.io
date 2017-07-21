@@ -1,5 +1,5 @@
 h1, h2, h3, h4 {
-  margin: 1.414em 0 0.5em;
+  margin: 0 0 0.5em;
   font-weight: inherit;
   line-height: 1.2;
 }
@@ -48,7 +48,7 @@ a {
 
 @include media-query($small-screen) {
     h1, h2, h3, h4 {
-      margin: 1.14em 0 0.15em;
+      margin: 0 0 0.15em;
       font-weight: inherit;
       line-height: 1;
     }
@@ -82,5 +82,6 @@ a {
 
     p {
         margin-bottom: 1.3em;
+        font-size: .875em;
     }
 }

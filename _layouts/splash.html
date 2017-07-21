@@ -3,8 +3,15 @@ layout: default
 ---
 <div class="row_md row_primary">
   <div class="container_lg">
-    <h1 class="site_title">{{ site.heading }}</h1>
-    <h2 class="site_subtitle">{{ site.subheading }}</h2>
-    <p class="site_description">{{ site.description }}</p>
+    <div class="site_intro">
+    <h1 class="site_title">{{ page.title }}</h1>
+    <h2 class="site_subtitle">{{ page.subtitle }}</h2>
+    {{ page.description | markdownify }}
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="container_lg">
+    <h3>Recent posts</h3>
   </div>
 </div>
