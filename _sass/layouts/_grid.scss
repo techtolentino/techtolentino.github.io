@@ -22,11 +22,18 @@
     }
   }
 
+  &_halves {
+    display: grid;
+    grid-gap: $spacing-unit / 2;
+    padding-bottom: $spacing-unit / 2;
+    grid-template-columns: 1fr 1fr;
+  }
+
   &_thirds {
     display: grid;
     grid-gap: $spacing-unit / 2;
-    grid-template-columns: 1fr 1fr 1fr;
     padding-bottom: $spacing-unit / 2;
+    grid-template-columns: 1fr 1fr 1fr;
 
     @include media-query($medium-screen) {
       grid-template-columns: 1fr;
@@ -37,8 +44,13 @@
 
     &_image {
       background-position: center;
-      min-height: $spacing-unit * 12;
+      min-height: $spacing-unit * 6;
       background-size: cover;
+      padding: .5em;
+
+      &:hover {
+        background-color: $charcoal;
+      }
 
       @include media-query($medium-screen) {
         min-height: $spacing-unit * 6;
@@ -48,11 +60,8 @@
         background-position: center;
         min-height: $spacing-unit * 6;
         background-size: cover;
+        padding: .5em;
       }
-    }
-
-    &_title {
-      margin-top: $spacing-unit / 4;
     }
   }
 }

@@ -1,6 +1,7 @@
 .text {
-  &__META {
-      color: $gray;
+  &_meta {
+      color: $blue;
+      font-size: small;
   }
 
   &_title {
