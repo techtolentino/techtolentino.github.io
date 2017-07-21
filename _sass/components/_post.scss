@@ -1,0 +1,32 @@
+.post {
+  &_title {
+    color: $charcoal;
+  }
+
+  &_subtitle {
+    color: $gray;
+  }
+
+  &_image {
+    width: 100%;
+    padding-bottom: $spacing-unit / 2;
+  }
+
+  &_meta {
+    color: $blue;
+    font-size: small;
+  }
+
+  &_continue {
+    display: inline-block;
+    border: 1px solid $blue;
+    color: $blue;
+    font-size: small;
+    padding: .5em 1em;
+    border-radius: 25px;
+      &:hover {
+        background: $blue;
+        color: $white;
+      }
+  }
+}

@@ -10,15 +10,20 @@ $spacing-unit: 2em;
 
 // Colors
 
+$dark: #152126;
+$gray: #666666;
+$green: #9CD0C3;
+$opal: #A0CAC0;
+$ebony: #2F3136;
+$white: #FDFDFD;
+
+
 $light: #FEF2DA;
 $light-green: #CCDAB9;
-$green: #9DC3AA;
 $blue: #318FD2;
 $charcoal: #637079;
 
-$black: #272727;
-$white: #FDFDFD;
-$gray: #8C9696;
+$black: #FDFDFD;
 $light-gray: lighten($charcoal, 35%);
 
 // Width of the content area

@@ -1,5 +1,26 @@
 .nav {
   padding: $spacing-unit / 2 0;
+  background: $dark;
+
+  &_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &_site {
+    &_brand {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: $white;
+    }
+
+    &_title {
+      font-family: 'Benton Regular';
+      padding-left: $spacing-unit / 4;
+    }
+  }
 
   &_list {
     padding: 0;
@@ -8,14 +29,15 @@
     list-style-type: none;
     justify-content: flex-end;
 
-    @include media-query($medium-screen) {
-    }
 
     &_item {
-      color: $blue;
+      color: $white;
       text-align: center;
       padding: $spacing-unit / 2 0;
-      font-size: small;
+
+      &:hover {
+        color: $green;
+      }
 
       &:not(:last-child) {
         margin-right: $spacing-unit / 2;
