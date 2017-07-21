@@ -9,7 +9,7 @@
   border-top: 2px solid $charcoal;
   width: $spacing-unit * 2;
 
-  &_LIGHT {
+  &_CHARCOAL {
     @include divider;
     border-top: 2px solid $charcoal;
     width: $spacing-unit * 1.5;
@@ -18,9 +18,9 @@
 
   &_center {
     @include divider;
-    border-top: 1px dotted $charcoal;
+    border-top: 1px solid $light-gray;
     width: 100%;
-    margin: $spacing-unit * 2 auto $spacing-unit * 2 auto;
+    margin: 0 auto;
 
     @include media-query($medium-screen) {
       margin: $spacing-unit auto $spacing-unit auto;
@@ -31,5 +31,6 @@
     @include divider;
     border-top: 2px solid $white;
     width: $spacing-unit * 2;
+    margin: $spacing-unit 0 $spacing-unit  0;
   }
 }

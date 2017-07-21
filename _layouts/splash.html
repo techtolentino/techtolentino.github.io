@@ -6,12 +6,9 @@ layout: default
     <div class="site_intro">
     <h1 class="site_title">{{ page.title }}</h1>
     <h2 class="site_subtitle">{{ page.subtitle }}</h2>
+    <hr class="divider_WHITE">
     {{ page.description | markdownify }}
     </div>
   </div>
 </div>
-<div class="row">
-  <div class="container_lg">
-    <h3>Recent posts</h3>
-  </div>
-</div>
+{{content}}

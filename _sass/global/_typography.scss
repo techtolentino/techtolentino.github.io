@@ -18,6 +18,7 @@ h2 {
 h3 {
     font-size: 1.777em;
     font-family: 'Benton Light', sans-serif;
+    color: $gray;
 }
 
 h4 {
@@ -32,9 +33,7 @@ h5 {
 small, .font_small {font-size: 0.75em;}
 
 p {
-    &:not(:last-child) {
-      margin-bottom: 1.3em;
-    }
+    margin-bottom: 1.3em;
 }
 
 strong {
@@ -43,7 +42,15 @@ strong {
 }
 
 a {
+    transition: color .25s;
     text-decoration: none;
+    font-family: 'Benton Regular', sans-serif;
+
+    &:hover {
+        text-decoration: underline;
+        cursor: pointer;
+        transition: color .25s;
+    }
 }
 
 @include media-query($small-screen) {
@@ -67,6 +74,7 @@ a {
     h3 {
         font-size: 1.37em;
         font-family: 'Benton Light', sans-serif;
+        color: $gray;
     }
 
     h4 {

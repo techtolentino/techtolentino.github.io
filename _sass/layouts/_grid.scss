@@ -1,0 +1,28 @@
+.grid {
+  display: grid;
+  grid-gap: $spacing-unit / 2;
+
+  &_thirds {
+    grid-template-columns: 1fr 1fr 1fr;
+
+    @include media-query($medium-screen) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &_card {
+    background: $white;
+
+    &_body {
+      padding: $spacing-unit / 2 $spacing-unit / 2 $spacing-unit / 2 0;
+    }
+
+    &_title {
+
+    }
+
+    &_image {
+      width: 100%;
+    }
+  }
+}

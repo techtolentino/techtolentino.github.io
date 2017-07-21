@@ -17,4 +17,9 @@
     @include container;
     max-width: $large-screen;
   }
+
+  &_xl {
+    @include container;
+    max-width: 60em;
+  }
 }
