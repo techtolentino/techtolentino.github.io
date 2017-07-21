@@ -16,10 +16,18 @@
   &_lg {
     @include container;
     max-width: $large-screen;
+
+    &_nested {
+      @include container;
+      max-width: $large-screen;
+      padding: 0;
+    }
   }
 
   &_xl {
     @include container;
     max-width: 60em;
   }
+
+
 }

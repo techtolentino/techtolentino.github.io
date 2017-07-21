@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-<main>
-  <div class="container_lg">
-    <div class="row_md">
-      <h2 class="page_title">{{page.title}}</h2>
-      <h3>{{page.subtitle}}</h3>
-      <hr class="divider_CHARCOAL">
-      {{content}}
+<div class="container_lg">
+  <div class="row_md">
+    <h2 class="page_title">{{page.title}}</h2>
+    <h3>{{page.subtitle}}</h3>
+    <hr class="divider_CHARCOAL">
+    <img class="post_image" src="{{ page.main-image }}" alt="">
+    {{content}}
     </div>
   </div>
-</main>
