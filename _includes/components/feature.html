@@ -5,12 +5,17 @@
       {% for post in site.entries | limit:1%}
         <h4 class="post_title">{{ post.title }}</h4>
         <p class="post_meta">{{ post.date | date: '%B %d, %Y' }}</p>
-        <img class="post_image" src="{{ post.main-image }}" alt="">
-        <p class="post_excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        {% if post.excerpt != post.content %}
-          <a class="post_continue" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-        {% endif %}
-      {% endfor %}
-    </div>
+        <figure class="figure">
+          <a class="figure_link" href="{{ post.feature-image }}">
+            <img class="post_image" src="{{ post.feature-image }}" alt="{{ post.feature-image-alt }}">
+          <figurecaption class="figure_caption">A beautiful day at the Mayborn Museum</figurecaption>
+        </a>
+      </figure>
+      <p class="post_excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+      {% if post.excerpt != post.content %}
+        <a class="post_continue" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+      {% endif %}
+    {% endfor %}
   </div>
+</div>
 </div>

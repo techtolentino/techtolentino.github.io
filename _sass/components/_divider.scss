@@ -27,6 +27,17 @@
     }
   }
 
+&_elipses {
+    @include divider;
+    border-top: 4px dotted $charcoal;
+    width: 1.25em;
+    margin: $spacing-unit auto;
+
+    @include media-query($medium-screen) {
+      margin: $spacing-unit auto $spacing-unit auto;
+    }
+  }
+
   &_WHITE {
     @include divider;
     border-top: 2px solid $white;
