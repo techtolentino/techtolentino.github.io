@@ -1,5 +1,5 @@
 h1, h2, h3, h4 {
-  margin: 1.414em 0 0.5em;
+  margin: 0 0 0.5em;
   font-weight: inherit;
   line-height: 1.2;
 }
@@ -24,7 +24,7 @@ h3 {
 h4 {
     font-size: 1.333em;
     font-weight: 700;
-    color: $primary;
+    color: $charcoal;
 }
 
 h5 {
@@ -43,14 +43,13 @@ strong {
 }
 
 a {
-    color: $primary;
     transition: color .25s;
     text-decoration: none;
-    font-family: 'Benton Regular', sans-serif;
+    color: $green;
+    font-family: 'Benton Light', sans-serif;
 
     &:hover {
-        color: darken($primary, 15%);
-        text-decoration: underline;
+        text-decoration: none;
         cursor: pointer;
         transition: color .25s;
     }
@@ -58,7 +57,7 @@ a {
 
 @include media-query($small-screen) {
     h1, h2, h3, h4 {
-      margin: 1.14em 0 0.15em;
+      margin: 0 0 0.15em;
       font-weight: inherit;
       line-height: 1;
     }
@@ -81,9 +80,10 @@ a {
     }
 
     h4 {
-        font-size: .962em;
+        font-size: 1em;
         font-weight: 700;
-        color: $primary;
+        font-family: 'Benton Regular', sans-serif;
+        color: $charcoal;
     }
 
     h5 {
@@ -94,5 +94,6 @@ a {
 
     p {
         margin-bottom: 1.3em;
+        font-size: .875em;
     }
 }

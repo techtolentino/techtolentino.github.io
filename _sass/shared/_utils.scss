@@ -1,5 +1,16 @@
 .text {
-    &__META {
-        color: $gray;
-    }
+  &_meta {
+    color: $blue;
+    font-size: small;
+  }
+
+  &_white {
+    color: $white;
+  }
+
+  &_title {
+    font-size: 12vw;
+    margin: 0;
+    color: $charcoal;
+  }
 }

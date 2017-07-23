@@ -1,0 +1,22 @@
+.figure {
+  margin: 0;
+  padding-bottom: $spacing-unit / 1.25;
+
+  &_image {
+    width: 100%;
+  }
+
+  &_caption {
+    font-size: small;
+    color: $gray;
+    font-style: italic;
+  }
+
+  &_link {
+    font-family: 'Benton Light';
+    &:hover {
+      text-decoration: none;
+      opacity: .7;
+    }
+  }
+}

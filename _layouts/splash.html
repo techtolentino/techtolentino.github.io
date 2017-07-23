@@ -1,10 +1,14 @@
 ---
 layout: default
 ---
-<div class="container container_md">
-  <div class="row_md">
-    <h1>{{page.title}}</h1>
-    <h3>{{page.subtitle}}</h3>
-    {{content}}
+<div class="row_md row_primary">
+  <div class="container_lg">
+    <div class="site_intro">
+    <h1 class="site_title">{{ page.title }}</h1>
+    <h2 class="site_subtitle">{{ page.subtitle }}</h2>
+    <hr class="divider_WHITE">
+    {{ page.description | markdownify }}
+    </div>
   </div>
 </div>
+{{content}}

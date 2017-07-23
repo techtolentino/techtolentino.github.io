@@ -1,13 +1,20 @@
+---
 # Site settings
-title: Randy Tolentino | Chapter Four
-description: >
-  Randy Tolentino is a family man - happily married and the father of two. He enjoys family dates, wood working, writing code, sewing things, and design.
+title: Randy Tolentino | Fourfold
+theme: fourfold
+heading: unfolding
+subheading: the narrative
+description: |
+  This story was never my own, although years back I used to think so. As a husband and as a father, I've come to realize that this entire thing has a higher purpose. This collection of writings aims to document and convey my understandings through a fourfold lens
 keywords: "Randy Tolentino, Front End Developer, hip hop artist, Son of Ran, Design, Code"
 
 # Collections
-# collections:
-#     some-collection:
-#         output: true
+collections:
+  entries:
+    output: true
+    permalink: /:collection/:path
+    layout: page
 
 # Build settings
 markdown: kramdown
+---

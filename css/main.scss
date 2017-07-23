@@ -2,12 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import './base/normalize';
-@import './base/config';
-@import './base/base';
-@import './base/syntax-highlighting';
+@import './base/index';
+@import './shared/index';
+@import './components/index';
+@import './layouts/index';
 
-@import './shared/functions';
 
 @import './global/fonts';
 @import './global/typography';
@@ -15,8 +14,6 @@
 
 // Elements
 @import './components/row';
-@import './shared/container';
 @import './components/divider';
 @import './components/icon';
 @import './components/contact-list';
-@import './shared/utils';
