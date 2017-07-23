@@ -85,9 +85,28 @@ It's the funniest thing to see the kids walk into our room, every time. Turn on 
 
 We ordered some food, re-hydrated, and just relaxed a little bit in the afternoon because we didn't want to be out and about in the unforgiving Texas heat, during rush hour.
 
-Because we were situated on the third floor of the hotel, I had a good view of the freeway from our room and I was waiting to see what traffic looked like in Waco. As 4pm came around, traffic was light. Then 4:30pm, not much different. At 5pm, still no congestion, _what in the world, is there not rush hour traffic out here?_
-
-Apparently not on this day.
+Being situated on the third floor gave us good view of the freeway from our room. I was waiting to see what traffic looked like in Waco. As 4pm came around, traffic was light. Then 4:30pm, not much different. At 5pm, still no congestion, _what in the world, is there not rush hour traffic out here?_ Apparently not on this day.
 
 #### Khris' surprise
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium distinctio hic, reprehenderit rerum eius atque molestias repellendus id unde itaque ab adipisci architecto facere laudantium, voluptatibus neque possimus deserunt commodi.
+As the sun was close to setting, Khris announced that we were all going out for a surprise. She's known to do extra research on local attractions and things to do for the family, so I was curious to see what unfolded.
+
+The drive was pretty short. She navigated us back into the university area and we turned into what seemed like a residential area, swung around into a gravel sort of back-lot, and parked. We arrived at a place called [Heritage Creamery](http://www.heritagecreamery.com/). She and the boys _love_ sweets so as soon as they saw the ice cream icon painted on the wall, they were ecstatic.
+
+<div class="container_lg_nested">
+  <div class="grid grid_halves">
+    <div class="grid_card">
+      <figure class="figure">
+        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500815849/20170719_192315_ogdb0e.jpg">
+          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500815849/20170719_192315_ogdb0e.jpg" alt="">
+        </a>
+      </figure>
+    </div>
+    <div class="grid_card">
+      <figure class="figure">
+        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500815971/20170719_192353_zjkrof.jpg">
+          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500815971/20170719_192353_zjkrof.jpg" alt="">
+        </a>
+      </figure>
+    </div>
+  </div>
+</div>
