@@ -1,0 +1,33 @@
+.post {
+  &_title {
+    color: $charcoal;
+  }
+
+  &_subtitle {
+    color: $gray;
+  }
+
+  &_image {
+    width: 100%;
+    padding: $spacing-unit / 2 0;
+  }
+
+  &_meta {
+    color: $green;
+    font-size: small;
+  }
+
+  &_continue {
+    display: inline-block;
+    border: 1px solid darken($green, 10%);
+    color: darken($green, 10%);
+    font-size: small;
+    padding: .5em 1em;
+    border-radius: 25px;
+      &:hover {
+        background: darken($green, 10%);
+        color: $white;
+        text-decoration: none;
+      }
+  }
+}

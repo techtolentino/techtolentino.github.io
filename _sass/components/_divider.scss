@@ -6,19 +6,42 @@
 
 .divider {
   @include divider;
-  border-top: 2px solid $primary;
+  border-top: 2px solid $charcoal;
   width: $spacing-unit * 2;
 
-  &_LIGHT {
+  &_CHARCOAL {
     @include divider;
-    border-top: 2px solid $primary;
+    border-top: 2px solid $charcoal;
     width: $spacing-unit * 1.5;
     margin: $spacing-unit 0 $spacing-unit  0;
+  }
+
+  &_center {
+    @include divider;
+    border-top: 1px solid $light-gray;
+    width: 100%;
+    margin: 0 auto;
+
+    @include media-query($medium-screen) {
+      margin: $spacing-unit auto $spacing-unit auto;
+    }
+  }
+
+&_elipses {
+    @include divider;
+    border-top: 4px dotted $charcoal;
+    width: 1.25em;
+    margin: $spacing-unit auto;
+
+    @include media-query($medium-screen) {
+      margin: $spacing-unit auto $spacing-unit auto;
+    }
   }
 
   &_WHITE {
     @include divider;
     border-top: 2px solid $white;
     width: $spacing-unit * 2;
+    margin: $spacing-unit 0 $spacing-unit  0;
   }
 }

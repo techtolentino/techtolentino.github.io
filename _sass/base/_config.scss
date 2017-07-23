@@ -3,19 +3,30 @@ $base-font-family: 'Benton Light', sans-serif;
 $base-font-size:   1em;
 $base-font-weight: 700;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.45;
+$base-line-height: 1.5;
 
 // Spacing
 $spacing-unit: 2em;
 
 // Colors
-$black: #272727;
-$white: #FBFCFC;
-$primary: #40D5BB;
-$secondary: #FF5C49;
-$gray: #8C9696;
+
+$dark: #152126;
+$gray: #666666;
+$green: #6BCFB8;
+$opal: #A0CAC0;
+$ebony: #2F3136;
+$white: #FDFDFD;
+
+
+$light: #FEF2DA;
+$light-green: #CCDAB9;
+$blue: #318FD2;
+$charcoal: #637079;
+
+$black: #FDFDFD;
+$light-gray: lighten($charcoal, 35%);
 
 // Width of the content area
-$large-screen: 60em;
-$medium-screen: 48em;
+$large-screen: 50em;
+$medium-screen: 40em;
 $small-screen: 30em;

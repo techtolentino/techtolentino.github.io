@@ -1,0 +1,19 @@
+.footer {
+  background: $dark;
+
+  &_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    @include media-query($small-screen) {
+      flex-direction: column;
+    }
+
+  }
+
+  &_title {
+    color: $white;
+    font-family: 'Benton Light';
+  }
+}

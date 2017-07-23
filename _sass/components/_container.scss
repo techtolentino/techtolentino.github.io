@@ -1,0 +1,33 @@
+@mixin container {
+  display: block;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.container {
+  @include container;
+  max-width: $large-screen;
+
+  &_md {
+    @include container;
+    max-width: $medium-screen;
+  }
+
+  &_lg {
+    @include container;
+    max-width: $large-screen;
+
+    &_nested {
+      @include container;
+      max-width: $large-screen;
+      padding: 0;
+    }
+  }
+
+  &_xl {
+    @include container;
+    max-width: 60em;
+  }
+
+
+}
