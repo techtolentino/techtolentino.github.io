@@ -7,12 +7,14 @@ layout: default
     <h3>{{page.subtitle}}</h3>
     <p class="post_meta">{{ page.date | date: '%B %d, %Y' }}</p>
     <hr class="divider_CHARCOAL">
+    {% if page.feature-image %}
     <figure class="figure">
       <a class="figure_link" href="{{ page.feature-image }}">
         <img class="post_image" src="{{ page.feature-image }}" alt="{{ page.feature-image-alt }}">
-      <figurecaption class="figure_caption">A beautiful day at the Mayborn Museum</figurecaption>
+      <figurecaption class="figure_caption">{{ page.feature-image-alt }}</figurecaption>
     </a>
   </figure>
+  {% endif %}
   {{content}}
 </div>
 </div>

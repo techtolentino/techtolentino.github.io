@@ -8,4 +8,4 @@ description: |
   This collection of writing is meant to capture the personal growth, gained understanding, and the experiences of who I am, but further, aims to pass these ideas through the lens and context of being a part of my family.
 ---
 {% include components/feature.html %}
-{% include components/recent-posts.html %}
+

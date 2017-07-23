@@ -8,7 +8,7 @@
         <figure class="figure">
           <a class="figure_link" href="{{ post.feature-image }}">
             <img class="post_image" src="{{ post.feature-image }}" alt="{{ post.feature-image-alt }}">
-          <figurecaption class="figure_caption">A beautiful day at the Mayborn Museum</figurecaption>
+          <figurecaption class="figure_caption">{{ post.feature-image-alt }}</figurecaption>
         </a>
       </figure>
       <p class="post_excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>

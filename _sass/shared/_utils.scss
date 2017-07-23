@@ -1,7 +1,11 @@
 .text {
   &_meta {
-      color: $blue;
-      font-size: small;
+    color: $blue;
+    font-size: small;
+  }
+
+  &_white {
+    color: $white;
   }
 
   &_title {
