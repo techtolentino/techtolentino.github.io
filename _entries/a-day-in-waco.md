@@ -90,7 +90,7 @@ Being situated on the third floor gave us good view of the freeway from our room
 #### Khris' surprise
 As the sun was close to setting, Khris announced that we were all going out for a surprise. She's known to do extra research on local attractions and things to do for the family, so I was curious to see what unfolded.
 
-The drive was pretty short. She navigated us back into the university area and we turned into what seemed like a residential area, swung around into a gravel sort of back-lot, and parked. We arrived at a place called [Heritage Creamery](http://www.heritagecreamery.com/). She and the boys _love_ sweets so as soon as they saw the ice cream icon painted on the wall, they were ecstatic.
+The drive was pretty short. She navigated us back into the university area and we turned into what seemed like a residential area, swung around into a gravel sort of back-lot, and parked. We arrived at a place called [Heritage Creamery](http://www.heritagecreamery.com/). She and the boys _love_ sweets so as soon as they saw the ice cream icon painted on the back-entrance exterior wall, they were ecstatic.
 
 <div class="container_lg_nested">
   <div class="grid grid_halves">
@@ -110,3 +110,23 @@ The drive was pretty short. She navigated us back into the university area and w
     </div>
   </div>
 </div>
+
+After a brief stop at Heritage, we hopped back in the car and headed to her next surprise -- the historic Suspension Bridge. Turns out, this bridge was critical for traders and travelers, and is an iconic symbol in the state's history.
+
+We walked up and down the bridge, of course staying in close proximity to the boys' due to little gaps in the bridge and in its railing. After about fifteen minutes of catching fresh air, we caught the sunset, took a few more photos, then headed back to the hotel.
+
+<figure class="figure">
+    <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500825942/20170719_195952_o32rcg.jpg">
+      <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500825942/20170719_195952_o32rcg.jpg" alt="Fresh air over the Brazos River">
+    <figurecaption class="figure_caption">Fresh air over the Brazos River</figurecaption>
+  </a>
+</figure>
+
+#### The bigger picture
+This was the first of many trips that we plan on taking, with the specific intention of transforming it into educational opportunities for the boys. It's been years in the making, but finally, the boys are old enough to appreciate some of the more interesting aspects of traveling to new places.
+
+Our trip to Waco encompassed some of the ideas that Khris and I have always wanted to instill in our children's life experiences -- learning to appreciate the history of various places, discovering local cultures, and observing its people.
+
+At the end of the day, I'm thankful to be in a position where we can do such things. Our next adventure is a little over a month away and will involve a longer road trip.
+
+Nonetheless, as a family we're excited and we can't wait.
