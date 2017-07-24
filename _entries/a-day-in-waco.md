@@ -3,7 +3,7 @@ layout: page
 title: A Day in Waco
 subtitle: learning through traveling
 date:   2017-07-20 0:0:01 -0600
-feature-image: https://res.cloudinary.com/fourfold/image/upload/v1500670559/20170719_200205_oxspbe.jpg
+feature-image: https://image.ibb.co/mshsc5/20170719_200205.jpg
 feature-image-alt: Sunset behind the historic Suspension Bridge
 ---
 #### Education as a priority
@@ -24,8 +24,8 @@ At the moment, I'm in transition between companies; this gave us the perfect opp
 If there's one thing to appreciate about living in Central Texas, it'd have to be the access to these enormous, well-designed, interactive children museums. We've been to the Thinkery, we've done the Doseum in San Antonio -- both were amazing. So, as we looked around for similar facilities, we discovered the Mayborn Museum on the Baylor University campus, in Waco, TX.
 
 <figure class="figure">
-    <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500672567/20170719_150120_lpqtcz.jpg">
-      <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500672567/20170719_150120_lpqtcz.jpg" alt="A beautiful day at the Mayborn Museum">
+    <a class="figure_link" href="https://image.ibb.co/koadH5/20170719_150120.jpg">
+      <img class="figure_image" src="https://image.ibb.co/koadH5/20170719_150120.jpg" alt="A beautiful day at the Mayborn Museum">
     <figurecaption class="figure_caption">A beautiful day at the Mayborn Museum</figurecaption>
   </a>
 </figure>
@@ -40,22 +40,22 @@ Costing less than $30 for the entire family, this experience was definitely wort
   <div class="grid grid_thirds">
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500672207/20170719_114441_uyfarm.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500672207/20170719_114441_uyfarm.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/bYu5x5/20170719_114441.jpg">
+          <img class="figure_image" src="https://image.ibb.co/bYu5x5/20170719_114441.jpg" alt="">
         </a>
       </figure>
     </div>
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500734796/20170719_135213_v4sejt.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500734796/20170719_135213_v4sejt.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/cnnQx5/20170719_135213.jpg">
+          <img class="figure_image" src="https://image.ibb.co/cnnQx5/20170719_135213.jpg" alt="">
         </a>
       </figure>
     </div>
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500672207/20170719_144924_bliuzn.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500672207/20170719_144924_bliuzn.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/moX3jk/20170719_144924.jpg">
+          <img class="figure_image" src="https://image.ibb.co/moX3jk/20170719_144924.jpg" alt="">
         </a>
       </figure>
     </div>
@@ -63,15 +63,15 @@ Costing less than $30 for the entire family, this experience was definitely wort
   <div class="grid grid_halves">
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500672207/20170719_140722_j25tws.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500672207/20170719_140722_j25tws.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/bLn3jk/20170719_140722.jpg">
+          <img class="figure_image" src="https://image.ibb.co/bLn3jk/20170719_140722.jpg" alt="">
         </a>
       </figure>
     </div>
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500672608/20170719_143816_fbi6wi.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500672608/20170719_143816_fbi6wi.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/jiX3jk/20170719_143816.jpg">
+          <img class="figure_image" src="https://image.ibb.co/jiX3jk/20170719_143816.jpg" alt="">
         </a>
       </figure>
     </div>
@@ -96,15 +96,15 @@ The drive was pretty short. She navigated us back into the university area and w
   <div class="grid grid_halves">
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500815849/20170719_192315_ogdb0e.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500815849/20170719_192315_ogdb0e.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/n9Y9Pk/20170719_192315.jpg">
+          <img class="figure_image" src="https://image.ibb.co/n9Y9Pk/20170719_192315.jpg" alt="">
         </a>
       </figure>
     </div>
     <div class="grid_card">
       <figure class="figure">
-        <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500815971/20170719_192353_zjkrof.jpg">
-          <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500815971/20170719_192353_zjkrof.jpg" alt="">
+        <a class="figure_link" href="https://image.ibb.co/fFHfVQ/20170719_192353.jpg">
+          <img class="figure_image" src="https://image.ibb.co/fFHfVQ/20170719_192353.jpg" alt="">
         </a>
       </figure>
     </div>
@@ -116,8 +116,8 @@ After a brief stop at Heritage, we hopped back in the car and headed to her next
 We walked up and down the bridge, of course staying in close proximity to the boys' due to little gaps in the bridge and in its railing. After about fifteen minutes of catching fresh air, we caught the sunset, took a few more photos, then headed back to the hotel.
 
 <figure class="figure">
-    <a class="figure_link" href="https://res.cloudinary.com/fourfold/image/upload/v1500825942/20170719_195952_o32rcg.jpg">
-      <img class="figure_image" src="https://res.cloudinary.com/fourfold/image/upload/v1500825942/20170719_195952_o32rcg.jpg" alt="Fresh air over the Brazos River">
+    <a class="figure_link" href="https://image.ibb.co/hakCc5/20170719_195952.jpg">
+      <img class="figure_image" src="https://image.ibb.co/hakCc5/20170719_195952.jpg" alt="Fresh air over the Brazos River">
     <figurecaption class="figure_caption">Fresh air over the Brazos River</figurecaption>
   </a>
 </figure>
