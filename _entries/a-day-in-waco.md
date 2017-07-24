@@ -32,7 +32,7 @@ If there's one thing to appreciate about living in Central Texas, it'd have to b
 
 It's an understatement to simply say that we _enjoyed_ the Mayborn Museum -- this place is incredible. What's nice is that the museum's arrangement and composition strikes the perfect balance between educational and interactive exhibits. Ev and Pax were able to take their time and peruse galleries and themed rooms that touched on a variety of subjects like history, anthropology, archeology, biology, energy, music, language arts, and technology.
 
-Evan's favorite: the western-themed room, Pax's favorite: (I forget, I'll have to ask him again when he wakes up).
+Evan's favorite experience: the western-themed room. Pax's favorite: being enclosed in a bubble in the water-play room.
 
 Costing less than $30 for the entire family, this experience was definitely worth the trip.
 
