@@ -5,7 +5,6 @@ subtitle: learning through traveling
 date:   2017-07-20 0:0:01 -0600
 feature-image: https://image.ibb.co/mshsc5/20170719_200205.jpg
 feature-image-alt: Sunset behind the historic Suspension Bridge
-feature: true
 ---
 #### Education as a priority
 One of the main motivators for deciding to home school our boys was to give them the freedom to learn things that interested them, when they wanted. This _breathing room_ gives the child an allowance to naturally partake in continuous learning, unbound by enforced schedules or prescribed curriculum.
