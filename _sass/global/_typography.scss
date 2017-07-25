@@ -42,10 +42,14 @@ strong {
     font-weight: lighter;
 }
 
+ul {
+  list-style-type: square;
+}
+
 a {
     transition: color .25s;
     text-decoration: none;
-    color: $green;
+    color: darken($green, 15%);
     font-family: 'Benton Light', sans-serif;
 
     &:hover {

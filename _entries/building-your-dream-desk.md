@@ -1,14 +1,35 @@
 ---
 layout: page
-title: Building your dream (desk)
+title: Building a desk from scratch
 subtitle: an offering to my career
 date:   2017-07-21 0:0:01 -0600
 feature-image: https://image.ibb.co/idZSS5/20170522_182514.jpg
-feature-image-alt: Prepping for 30 plywood cuts
+feature-image-alt: Prepping for 30 cuts of birch plywood
 feature: true
 ---
 
-#### So I wanted to make a desk
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae unde obcaecati saepe molestias, quam. Ad non velit eos animi sunt doloribus tenetur itaque quos voluptas, saepe, debitis, alias nihil.
+#### A newfound past-time
+Prior to purchasing our home, I became heavily interested in woodworking projects. For a week straight, when the fam was asleep, I'd binge watch videos on Youtube, fascinated by the amazing work that people were sharing -- things like custom coffee tables, farm tables, floating shelves, artwork, you name it. I told Khris that I when we moved into our home, I would buy a few tools and attempt to make some of the stuff I'd seen.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, voluptate, neque! Odio eius veritatis ullam rem esse saepe mollitia. Ducimus incidunt sequi earum unde nulla voluptatibus eum perferendis harum ullam.
+Over the last four months, I've slowly transformed a portion of our garage into a makeshift shop which has allowed me to become familiar with a very small set of tools. My normal routine of waking-up-at-4am-to-code has now been transferred over to this new practice.
+
+I also feel like this is critical for the boys to witness because they understand that I knew nothing about building when we first moved in. I try to ensure that they see me running into mishaps, researching a solution, and solving a problem. Ultimately, I want them to see what interest + practice can equate to.
+
+#### Inspiration & design
+About six years back, we were sitting at my cousin Zar's dining table one night and I remember telling myself that 'I would love to have something like this in my home office someday.' Since then, I've always held onto this dream of having a large, expansive desk -- one that provided a sense of space and clarity.
+
+When I decided to take on idea of building my own desk, it had to fit that requirement, it had to have room to _mentally breathe_. I was also inspired by a lot of the furniture design work by Mike Montgomery at [Modern Builds](http://www.modernbuilds.com/), along with the precision-based craftsmanship of Glenn from [DIY Creators](https://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA). Both of these guys are amazing at documenting their processes of building some really cool stuff.
+
+After about a week of cycling through designs in my head, I chose to build a contemporary styled desk with the following specifics:
+
+- dimensions: 60" w x 6" h x 30" d
+- material: premium birch plywood
+- desktop color: flat white
+- detail: exposed plywood edges
+- finish: glossed edges and satin top
+
+#### The process
+
+
+
+In my mind, there's something to appreciate about having the ability to make your own furniture or house decor. There's this _sense of pride_ one feels when a project actually turns out as expected.
