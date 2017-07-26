@@ -44,6 +44,7 @@ strong {
 
 ul {
   list-style-type: square;
+  font-size: inherit;
 }
 
 a {
@@ -100,4 +101,10 @@ a {
         margin-bottom: 1.3em;
         font-size: .875em;
     }
+
+    ul {
+      list-style-type: square;
+      font-size: .875em;
+    }
+
 }

@@ -29,7 +29,23 @@ After about a week of cycling through designs in my head, I chose to build a con
 - finish: glossed edges and satin top
 
 #### The process
+I orginally began ideating in Sketch, even though I know it's not the right tool to use for illustrations. It took about a week of iterating over different styles  before arriving at what I liked. The final design would be a boxed, rounded-corner desk top, with slots for optinal storage.
 
+With the dimensions and design figured out, I began planning my cuts. After purchasing two 4 x 8 birch plywood boards, I outlined the cuts, and went to work with the circular saw. I made around 27 straight cuts with the circ saw (not easy), and prepared them for the glue up phase.
+
+<figure class="figure">
+    <a class="figure_link" href="https://image.ibb.co/dTZSS5/20170523_045923.jpg">
+      <img class="figure_image" src="https://image.ibb.co/dTZSS5/20170523_045923.jpg" alt="A total of ~30 pieces, ready to glue">
+    <figurecaption class="figure_caption">A total of ~30 pieces, ready to glue</figurecaption>
+  </a>
+</figure>
+
+<figure class="figure">
+    <a class="figure_link" href="https://image.ibb.co/fbYAfQ/20170523_213217.jpg">
+      <img class="figure_image" src="https://image.ibb.co/fbYAfQ/20170523_213217.jpg" alt="Applying glue and clamps to the support beams">
+    <figurecaption class="figure_caption">Applying glue and clamps to the support beams</figurecaption>
+  </a>
+</figure>
 
 
 In my mind, there's something to appreciate about having the ability to make your own furniture or house decor. There's this _sense of pride_ one feels when a project actually turns out as expected.
