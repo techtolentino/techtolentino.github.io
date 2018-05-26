@@ -1,7 +1,7 @@
-<div class="row_md">
+<div class="row_md row_secondary">
   <div class="container_lg">
     <div class="feature">
-      <h1 class="feature_title">Latest post</h1>
+      <h2 class="feature_title">Latest post</h2>
       {% for post in site.entries | limit:1%}
         <h3 class="post_title">{{ post.title }}</h3>
         <p class="post_meta">{{ post.date | date: '%B %d, %Y' }}</p>

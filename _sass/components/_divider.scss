@@ -6,12 +6,19 @@
 
 .divider {
   @include divider;
-  border-top: 2px solid $charcoal;
+  border-top: 4px solid $charcoal;
   width: $spacing-unit * 2;
 
   &_CHARCOAL {
     @include divider;
-    border-top: 2px solid $charcoal;
+    border-top: 4px solid $charcoal;
+    width: $spacing-unit * 1.5;
+    margin: $spacing-unit 0 $spacing-unit  0;
+  }
+
+  &_GREEN {
+    @include divider;
+    border-top: 4px solid $green;
     width: $spacing-unit * 1.5;
     margin: $spacing-unit 0 $spacing-unit  0;
   }
@@ -40,7 +47,7 @@
 
   &_WHITE {
     @include divider;
-    border-top: 2px solid $white;
+    border-top: 4px solid $white;
     width: $spacing-unit * 2;
     margin: $spacing-unit 0 $spacing-unit  0;
   }
