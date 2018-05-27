@@ -5,8 +5,9 @@ subtitle: learning through traveling
 date:   2017-07-20 0:0:01 -0600
 feature-image: https://image.ibb.co/mshsc5/20170719_200205.jpg
 feature-image-alt: Sunset behind the historic Suspension Bridge
+published: false
 ---
-#### Education as a priority
+##### Education as a priority
 One of the main motivators for deciding to home school our boys was to give them the freedom to learn things that interested them, when they wanted. This _breathing room_ gives the child an allowance to naturally partake in continuous learning, unbound by enforced schedules or prescribed curriculum.
 
 Having over 17 years of work experience in various academic  settings, I know firsthand what the public school system looks and feels like. While there may be a wide number of benefits that suits most families out there, it is also true that the system isn't the best fit for all individuals and learning styles.

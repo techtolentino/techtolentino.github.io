@@ -4,4 +4,4 @@ title: randy
 subtitle: tolentino
 description: senior web developer
 ---
-{% include components/feature.html %}
+<!-- {% include components/feature.html %} -->

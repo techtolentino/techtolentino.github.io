@@ -3,7 +3,7 @@
     <div class="feature">
       <h2 class="feature_title">Latest post</h2>
       {% for post in site.entries | limit:1%}
-        <h3 class="post_title">{{ post.title }}</h3>
+        <h4 class="post_title">{{ post.title }}</h4>
         <p class="post_meta">{{ post.date | date: '%B %d, %Y' }}</p>
         <figure class="figure">
           <a class="figure_link" href="{{ post.feature-image }}">
