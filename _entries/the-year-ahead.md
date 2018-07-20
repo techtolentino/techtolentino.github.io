@@ -7,7 +7,7 @@ feature-image: https://image.ibb.co/bPjvJd/acl_tour_2018.jpg
 feature-image-alt: Touring the Austin Central Library with Friends
 published: true
 ---
-While I would normally not journal about these sorts of feelings and ideas until shortly after the new year, I think the timing is appropriate. Within the month of July, several anniversary-like events occur and a lot has been going through my head as of late.
+While I would normally not journal about these sorts of feelings and ideas until shortly after the new year, I think the timing is appropriate. The month of July marks a few personal annual events, so naturally, my mind if is full of reflection.
 
 <br>
 
