@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Year Ahead
-subtitle: "setting the stage for the upcoming year"
+subtitle: "Setting the stage for the upcoming year"
 date:   2018-07-20 0:0:01 -0600
 feature-image: https://image.ibb.co/bPjvJd/acl_tour_2018.jpg
 feature-image-alt: Touring the Austin Central Library with Friends
