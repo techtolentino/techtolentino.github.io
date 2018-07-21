@@ -9,10 +9,8 @@ layout: default
     <hr class="divider_CHARCOAL">
     {% if page.feature-image %}
     <figure class="figure">
-      <a class="figure_link" href="{{ page.feature-image }}">
-        <img class="post_image" src="{{ page.feature-image }}" alt="{{ page.feature-image-alt }}">
+      <img class="post_image" src="{{ page.feature-image }}" alt="{{ page.feature-image-alt }}">
       <figurecaption class="figure_caption">{{ page.feature-image-alt }}</figurecaption>
-    </a>
   </figure>
   {% endif %}
   {{content}}

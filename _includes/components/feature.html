@@ -1,21 +1,22 @@
 <div class="row_md row_secondary">
   <div class="container_lg">
+    <h2 class="feature_title">Latest posts</h2>
+    <div class="feature_posts_container">
+    {% for post in site.entries reversed | limit:2%}
     <div class="feature">
-      <h2 class="feature_title">Latest post</h2>
-      {% for post in site.entries | limit:1%}
-        <h4 class="post_title">{{ post.title }}</h4>
-        <p class="post_meta">{{ post.date | date: '%B %d, %Y' }}</p>
-        <figure class="figure">
-          <a class="figure_link" href="{{ post.feature-image }}">
-            <img class="post_image" src="{{ post.feature-image }}" alt="{{ post.feature-image-alt }}">
-          <figurecaption class="figure_caption">{{ post.feature-image-alt }}</figurecaption>
+      <h4 class="post_title">{{ post.title }}</h4>
+      <p class="post_meta">{{ post.date | date: '%B %d, %Y' }}</p>
+      <figure class="figure">
+        <a class="figure_link" href="{{ site.baseurl }}{{ post.url }}">
+          <img class="post_image" src="{{ post.feature-image }}" alt="{{ post.feature-image-alt }}">
         </a>
       </figure>
-      <p class="post_excerpt">{{ post.excerpt }}</p>
+      <p class="post_excerpt">{{ post.content | strip_html | truncatewords: 25 }}</p>
       {% if post.excerpt != post.content %}
         <a class="post_continue" href="{{ site.baseurl }}{{ post.url }}">Continue reading ...</a>
       {% endif %}
+    </div>
     {% endfor %}
+    </div>
   </div>
-</div>
 </div>

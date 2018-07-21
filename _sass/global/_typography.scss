@@ -26,6 +26,7 @@ h4 {
     font-size: 1.333em;
     font-weight: 700;
     color: $charcoal;
+    padding-top: $spacing-unit * .5;
 }
 
 h5 {
@@ -69,7 +70,7 @@ a {
     h1, h2, h3, h4 {
       margin: 0 0 0.5em;
       font-weight: inherit;
-      line-height: 1;
+      line-height: 1.44;
     }
 
     h1 {
@@ -84,26 +85,28 @@ a {
     }
 
     h3 {
-        font-size: 1.37em;
-        font-family: 'Benton Light', sans-serif;
-        color: $gray;
+      font-size: 1.37em;
+      font-family: 'Benton Light', sans-serif;
+      color: $gray;
     }
 
     h4 {
-        font-size: 1em;
-        font-weight: 700;
-        font-family: 'Benton Regular', sans-serif;
-        color: $charcoal;
+      font-size: 1.3em;
+      font-weight: 700;
+      font-family: 'Benton Regular', sans-serif;
+      color: $charcoal;
     }
 
     h5 {
-        font-family: 'Benton Regular', sans-serif;
+      font-family: 'Benton Regular', sans-serif;
+      font-size: 1.2em;
+      color: $charcoal;
     }
 
     small, .font_small {font-size: 0.75em;}
 
     p {
         margin-bottom: 1.3em;
-        font-size: .875em;
+        // font-size: .875em;
     }
 }

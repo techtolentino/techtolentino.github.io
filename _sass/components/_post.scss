@@ -9,12 +9,15 @@
 
   &_image {
     width: 100%;
-    padding: $spacing-unit / 2 0;
+    padding: $spacing-unit / 2 0 0 0;
   }
 
   &_meta {
     color: $green;
     font-size: small;
+    @include media-query($medium-screen) {
+      margin-bottom: 0;
+    }
   }
 
   &_continue {

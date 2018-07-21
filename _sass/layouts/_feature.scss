@@ -1,7 +1,25 @@
 .feature {
+  max-width: 45%;
+  @include media-query($medium-screen) {
+    max-width: 100%;
+    padding-bottom: $spacing-unit;
+  }
+
+  &_posts_container {
+    display: flex;
+    justify-content: space-between;
+    @include media-query($medium-screen) {
+      flex-direction: column;
+    }
+  }
+
   &_title {
     color: $charcoal;
     font-weight: lighter;
     font-family: 'Benton Regular';
+  }
+
+  .figure {
+    padding-bottom: 0;
   }
 }
