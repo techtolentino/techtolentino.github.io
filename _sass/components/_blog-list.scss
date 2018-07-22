@@ -1,0 +1,14 @@
+.blog-list {
+  list-style-type: none;
+  padding-left: 0;
+  padding-bottom: $spacing-unit;
+
+  &-item {
+    padding-top: $spacing-unit;
+    border-bottom: 1px solid $light-gray;
+
+    &-title {
+      color: $green;
+    }
+  }
+}

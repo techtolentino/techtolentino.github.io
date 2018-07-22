@@ -11,6 +11,15 @@
       }
   }
 
+  &_sm {
+    width: 100%;
+    padding: $spacing-unit 0;
+
+    @include media-query($medium-screen) {
+      padding: $spacing-unit 0 $spacing-unit 0;
+    }
+  }
+
 
   &_full {
       min-height: 58vh;
@@ -19,6 +28,10 @@
   &_trim {
     width: 100%;
     padding: 0;
+  }
+
+  &_bottom_trim {
+    padding-bottom: 0;
   }
 
   &_primary {

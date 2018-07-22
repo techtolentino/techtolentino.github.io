@@ -14,7 +14,7 @@ keywords: "Randy Tolentino, Front End Developer, hip hop artist, Son of Ran, Des
 collections:
   entries:
     output: true
-    permalink: /:collection/:path
+    permalink: /blog/:path
     layout: page
 
 # Build settings

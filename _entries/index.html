@@ -1,0 +1,25 @@
+---
+layout: default
+title: Blog
+list: false
+---
+<div class="container_lg">
+  <div class="row_sm row_bottom_trim">
+    <h2 class="page_title">{{page.title}}</h2>
+    <hr class="divider_GREEN">
+  </div>
+</div>
+<div class="container_lg">
+  <div class="row_trim">
+    <ul class="blog-list">
+    {% for post in site.entries reversed %}
+      {% if post.list != false %}
+      <li class="blog-list-item">
+        <a class="blog-list-item-link" href="{{ site.url }}{{ post.url }}"><h4 class="blog-list-item-title">{{ post.title }}</h4></a>
+        <small>{{ post.date | date: '%B %d, %Y' }}</small>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+</div>
