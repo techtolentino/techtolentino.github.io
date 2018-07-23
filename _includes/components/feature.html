@@ -2,7 +2,8 @@
   <div class="container_lg">
     <h2 class="feature_title">Latest posts</h2>
     <div class="feature_posts_container">
-    {% for post in site.entries reversed | limit:2%}
+    {% for post in site.entries reversed %}
+    {% if post.list != false %}
     <div class="feature">
       <h4 class="post_title">{{ post.title }}</h4>
       <p class="post_meta">{{ post.date | date: '%B %d, %Y' }}</p>
@@ -16,6 +17,7 @@
         <a class="post_continue" href="{{ site.baseurl }}{{ post.url }}">Continue reading ...</a>
       {% endif %}
     </div>
+    {% endif %}
     {% endfor %}
     </div>
   </div>
