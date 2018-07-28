@@ -1,11 +1,11 @@
 ---
 layout: page
-title: That Food Can Get Cold
+title: The Spirit, Unafraid
 subtitle: "Prioritizing those you love most"
-date: 2018-07-24 0:0:01 -0600
+date: 2018-07-28 0:0:01 -0600
 feature-image: https://image.ibb.co/c5NSg8/when_they_were_babies.jpg
 feature-image-alt: They don't stay young for long
-published: true
+published: false
 ---
 
 Over the weekend, my wife suggested that I listen to a woman by the name of Lisa Nichols. Lisa is a well-known inspirational speaker, she's a teacher, and just a straight up amazing human being.

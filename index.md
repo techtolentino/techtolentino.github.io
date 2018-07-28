@@ -2,6 +2,6 @@
 layout: splash
 title: randy
 subtitle: tolentino
-description: senior web developer
+description: these worlds within me
 ---
 {% include components/feature.html %}

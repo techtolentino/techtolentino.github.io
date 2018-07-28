@@ -1,13 +1,20 @@
 .feature {
-  max-width: 45%;
+  width: 45%;
+  padding-bottom: $spacing-unit * 1.5;
   @include media-query($medium-screen) {
-    max-width: 100%;
-    padding-bottom: $spacing-unit;
+    width: 100%;
+    padding-bottom: $spacing-unit * 1.25;
+    margin-bottom: $spacing-unit * .5;
+
+    &:not(:last-child) {
+      border-bottom: 1px dotted lighten($gray, 40%);
+    }
   }
 
   &_posts_container {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     @include media-query($medium-screen) {
       flex-direction: column;
     }
