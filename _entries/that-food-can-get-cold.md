@@ -19,9 +19,9 @@ On one particular occassion while she was on the road, her son (who was 21 years
 Hearing those moved worlds within me.
 
 #### We Only Need a Moment
-Oftentimes, as adults and parents, we can be so preoccupied with nested list of things at any given moment. Things like our careers, our interests, personal aspirations, social media, the state of the world, what needs to be done around the home, what needs fixing or cleaning, extended family, friends, helping others... the list doesn't end.
+Oftentimes, as adults and parents, we can be so preoccupied with a nested list of things at any given moment. We store thoughts and spend dwelling on our careers, our interests, personal aspirations, social media, the state of the world, what needs to be done around the home, what needs fixing or cleaning, our extended family, friends, helping others... this list doesn't end.
 
-Sometimes, as a kid, all you need is a moment. A moment to connect with Mom or Dad, where they're not looking at a screen or holding a phone. And in that moment, maybe you want to laugh, ask a question, tell a story, or share something you've learned.
+Sometimes though, as a kid, all you need is a moment. A moment to connect with Mom or Dad, where they're not looking at a screen or holding a phone. And in that moment, maybe you want to laugh, ask a question, tell a story, or share something you've learned.
 
 These opportunities (because that's what they really are) don't last forever.
 
