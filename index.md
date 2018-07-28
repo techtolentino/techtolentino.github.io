@@ -1,7 +1,6 @@
 ---
 layout: splash
-title: randy
-subtitle: tolentino
-description: these worlds within me
+title: Randy Tolentino
+description: family, balance, and focused growth
 ---
 {% include components/feature.html %}
