@@ -15,6 +15,7 @@
     margin-bottom: 0;
     font-size: 4.24em;
     font-family: 'Benton Regular';
+    line-height: 1.44;
 
     @include media-query($medium-screen) {
       font-size: 2.75em;
@@ -28,8 +29,8 @@
   }
 
   &_subtitle {
-    font-weight: lighter !important;
     font-family: 'Benton Light', sans-serif;
+    color: $gray;
 
     @include media-query($medium-screen) {
       font-size: 1.962em;

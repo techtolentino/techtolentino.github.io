@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: Randy Tolentino
-description: family, balance, and focused growth
+subtitle: Fail, Grow, & Repeat
+description: reflections on family, balance, and focused growth
 ---
 {% include components/feature.html %}
