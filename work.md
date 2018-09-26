@@ -6,7 +6,7 @@ subtitle: Recent Experience & Client Projects
 
 <div class="project">
   <h3 class="project_title">IBM Portfolio of Experiences</h3>
-  <a href="http://randytolentino.com/assets/docs/Randy%20Tolentino%20-%20Software%20Front%20End%20Developer%20-%20IBM%20Portfolio%20of%20Experiences.pdf" target="blank"><img class="project_img" src="https://image.ibb.co/gj9qmp/portfolio_screenshot.png" alt="IBM Project Whitewater"></a>
+  <a href="http://randytolentino.com/assets/docs/randy_tolentino_IBM_portfolio.pdf" target="blank"><img class="project_img" src="https://image.ibb.co/gj9qmp/portfolio_screenshot.png" alt="IBM Project Whitewater"></a>
   <p>This is a document that I prepared for my former manager based out of RTP, and this is intended to capture not only my contributions to my colleagues/teams/projects, but also demonstrate the kind of team player that I am.</p>
 </div>
 
