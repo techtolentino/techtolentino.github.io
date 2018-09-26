@@ -17,7 +17,7 @@
     }
 
     &_title {
-      font-family: 'Benton Regular';
+      font-family: "Benton Regular";
       padding-left: $spacing-unit / 4;
     }
   }
@@ -29,14 +29,18 @@
     list-style-type: none;
     justify-content: flex-end;
 
-
-    &_item {
+    &_item a {
       color: $white;
       text-align: center;
-      padding: $spacing-unit / 2 0;
+      padding: $spacing-unit / 2;
+      display: inline-block;
 
       &:hover {
         color: $green;
+      }
+
+      &:visited {
+        color: $white;
       }
 
       &:not(:last-child) {

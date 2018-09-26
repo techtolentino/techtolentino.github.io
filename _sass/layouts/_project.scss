@@ -1,7 +1,7 @@
 .project {
-  margin-bottom: $spacing-unit * 2;
   border-bottom: 1px solid $light-gray;
   padding-bottom: $spacing-unit;
+  padding-top: $spacing-unit;
 
   &_title {
     font-family: "Benton Medium", sans-serif;
@@ -20,6 +20,12 @@
     width: 100%;
     border: 2px solid $light-gray;
     margin-bottom: $spacing-unit * 0.5;
+    transition: border 0.5s ease;
+
+    &:hover {
+      border: 2px solid $green;
+      transition: border 0.5s ease;
+    }
   }
 
   &_note {
