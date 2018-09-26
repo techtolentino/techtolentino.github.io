@@ -11,6 +11,8 @@ subtitle: Recent Experience & Client Projects
   <p>During my time at IBM, I had the opportunity to work in a project that had a significant impact on product teams across the globe. This document intends to capture not only my contributions to my colleagues/teams/projects, but also demonstrate the kind of team player that I am.</p>
   <h4 class="project_property">Technologies & Tools</h4>
   <p>HTML, CSS, SCSS, JavaScript, JS Frameworks and Libraries, NodeJS, Express, Handlebars, Functional Programming, git via GitHub, Gulp, Code Reviews, Testing, Accessibility, Responsive Web Development, Agile Methodologies</p>
+  <h4 class="project_property">Link to Portfolio Document</h4>
+  <p><a href="http://randytolentino.com/assets/docs/randy_tolentino_IBM_portfolio.pdf" target="blank">http://randytolentino.com/assets/docs/randy_tolentino_IBM_portfolio.pdf</a></p>
 </div>
 
 <div class="project">
