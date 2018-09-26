@@ -46,7 +46,7 @@ subtitle: Recent Experience & Client Projects
   <p>HTML, Angular, CoffeeScript, Scss, GitHub, Blackbaud Luminate Online APIs</p>
   <h4 class="project_property">Link to Live Participant Center</h4>
   <p><a href="https://secure3.convio.net/heartdev/site/SPageServer?pagename=heartwalk_participant_center&pc2_page=center&pc2_page=center&fr_id=3491#/dashboard" target="blank">https://secure3.convio.net/heartdev/site/SPageServer?pagename=heartwalk_participant_center&pc2_page=center&fr_id=3491#/dashboard</a></p>
-  <p class="project_note"><strong>Note:</strong> to see this work you'll have to use my test-user credentials (u: ranbox-app, p: 11111)</em></p>
+  <p class="project_note"><em><strong>Note:</strong> to see this work you'll have to use my test-user credentials (u: ranbox-app, p: 11111)</em></p>
 </div>
 
 <div class="project">
