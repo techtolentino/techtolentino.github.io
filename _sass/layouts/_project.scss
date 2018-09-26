@@ -1,0 +1,29 @@
+.project {
+  margin-bottom: $spacing-unit * 2;
+  border-bottom: 1px solid $light-gray;
+  padding-bottom: $spacing-unit;
+
+  &_title {
+    font-family: "Benton Medium", sans-serif;
+    color: $dark;
+  }
+
+  &_property {
+    padding-top: 0.25em;
+    font-family: "Benton Regular", sans-serif;
+    font-weight: bold;
+    font-size: 1.333em;
+    color: $gray;
+  }
+
+  &_img {
+    width: 100%;
+    border: 2px solid $light-gray;
+    margin-bottom: $spacing-unit * 0.5;
+  }
+
+  &_note {
+    color: $gray;
+    font-size: 0.872em;
+  }
+}
