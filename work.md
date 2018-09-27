@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-subtitle: 
+subtitle: Forever refining the craft
 ---
 
 <div class="project_section">
@@ -41,7 +41,7 @@ subtitle:
   <p><small>2018</small></p>
   <a href="https://www2.heart.org/site/SPageServer/?pagename=cn_home" target="blank"><img class="project_img" src="https://image.ibb.co/gbMECU/aha_cyclenation_screenshot.png" alt="American Heart Association's CycleNation Event Landing Page"></a>
   <h4 class="project_property">Description</h4>
-  <p>Developed the national landing page and separate city event page templates with a strong focus on delivering accessibility standards.</p>
+  <p>Significant contributions for the American Heart Association's CycleNation event. Developed the national landing page and separate city event page templates with a strong focus on delivering accessibility standards.</p>
   <h4 class="project_property">Technologies & Tools</h4>
   <p>HTML, CSS (Bootstrap 4 system), Scss, JS, GitHub, animated svgs, and Blackbaud Luminate Online APIs</p>
   <p><a class="project_link" href="https://www2.heart.org/site/SPageServer/?pagename=cn_home" target="blank">View the CycleNation Project</a></p>
@@ -52,7 +52,7 @@ subtitle:
   <p><small>2018</small></p>
   <a href="https://secure3.convio.net/heartdev/site/SPageServer?pagename=heartwalk_participant_center&pc2_page=center&pc2_page=center&fr_id=3491#/dashboard" target="blank"><img class="project_img" src="https://image.ibb.co/gWJ0mp/aha_pc_screenshot.png" alt="American Heart Association's Custom Participant Center"></a>
   <h4 class="project_property">Description</h4>
-  <p>Helped build and maintain a custom series of engagement accessible lightboxes that tracked user progress and promoted org-driven interactions. Operated in an open-source like workflow and collaborated with other developers across different organizations (AHA and Blackbaud) through GitHub.</p>
+  <p>Helped maintain and re-implement a custom series of engagement accessible lightboxes that tracked user progress and promoted org-driven interactions for the American Heart Association. Operated in an open-source like workflow and collaborated with other developers across different organizations (AHA and Blackbaud) through GitHub.</p>
   <h4 class="project_property">Technologies & Tools</h4>
   <p>HTML, Angular, CoffeeScript, Scss, GitHub, Blackbaud Luminate Online APIs</p>
   <h4 class="project_property">Link to Live Participant Center</h4>
@@ -75,14 +75,6 @@ subtitle:
 <hr class="divider_GREEN">
 <h2>Career Highlights</h2>
 <div class="project_highlight">
-  <h3 class="project_title">Awarded Badges</h3>
-  <div class="project_badges">
-    <a class="project_badges_item" href="https://www.youracclaim.com/badges/4a72c78c-e27f-49ff-a234-6c56a18743c4/linked_in" target="blank"><img src="https://image.ibb.co/hUbzWp/AA_Badge_explorer_352.png"></a>
-    <a class="project_badges_item" href="https://www.youracclaim.com/badges/2189ff68-0460-41ff-a528-d842c17c07ad/linked_in" target="blank"><img src="https://image.ibb.co/f8A4xU/Badges_v8_07_Practitioner.png"></a>
-    <a class="project_badges_item" href="https://www.youracclaim.com/badges/a25b2d3c-3a59-47da-9678-aac974b91c85/linked_in" target="blank"><img src="https://image.ibb.co/fbXv49/Badges_v8_08_Co_Creator.png"></a>
-  </div>
-</div>
-<div class="project_highlight">
   <h3 class="project_title">Stories & Articles</h3>
   <h4>IBM Think Blog</h4>
   <p><a href="https://www.ibm.com/blogs/policy/randy-tolentino/" target="blank">Finding the right beat: from Hip Hop Artist to New Collar Coder</a></p>
@@ -93,4 +85,13 @@ subtitle:
   <p><a href="https://medium.com/@techtolentino/engineering-a-hoodie-1d1b5f320d53" target="blank">Engineering a Hoodie</a></p>
   <p><a href="https://medium.com/codebuddies/i-used-to-write-rhymes-now-i-write-software-bf5d2b27578" target="blank">I used to write rhymes. Now, I write software.</a></p>
   <p><a href="https://medium.com/@techtolentino/welcome-to-the-squad-5995fcba168f" target="blank">Welcome to the Squad</a></p>
+</div>
+
+<div class="project_highlight">
+  <h3 class="project_title">Awarded Badges</h3>
+  <div class="project_badges">
+    <a class="project_badges_item" href="https://www.youracclaim.com/badges/4a72c78c-e27f-49ff-a234-6c56a18743c4/linked_in" target="blank"><img src="https://image.ibb.co/hUbzWp/AA_Badge_explorer_352.png"></a>
+    <a class="project_badges_item" href="https://www.youracclaim.com/badges/2189ff68-0460-41ff-a528-d842c17c07ad/linked_in" target="blank"><img src="https://image.ibb.co/f8A4xU/Badges_v8_07_Practitioner.png"></a>
+    <a class="project_badges_item" href="https://www.youracclaim.com/badges/a25b2d3c-3a59-47da-9678-aac974b91c85/linked_in" target="blank"><img src="https://image.ibb.co/fbXv49/Badges_v8_08_Co_Creator.png"></a>
+  </div>
 </div>
