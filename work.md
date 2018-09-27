@@ -60,7 +60,7 @@ subtitle: Forever refining the craft
   <p class="project_note"><strong>Note:</strong> to see this work you'll have to use my test-user credentials (u: ranbox-app, p: 11111)</p>
 </div>
 
-<div class="project_card">
+<div class="project_card project_card_last">
   <h3 class="project_title">Charcot-Marie Tooth Association (in-progress)</h3>
   <p><small>2018</small></p>
   <a href="https://cmtausa.wpengine.com" target="blank"><img class="project_img" src="https://image.ibb.co/eroNz9/cmta_screenshot.png" alt="Charcot-Marie Tooth Association Website"></a>
