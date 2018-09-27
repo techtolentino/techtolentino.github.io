@@ -10,7 +10,7 @@ subtitle: Forever refining the craft
   
   <p>This body of work includes large enterprise projects, development for nonprofit organizations, and contributions made to the open source community.</p>
 
-  <p>My ultimate goal as a Front End Developer is to leverage my skill-set in an effort towards helping others, and I do this through code contributions, collaboration, and mentorship.</p>
+  <p>As a Front End Developer, my professional goals involve contributing to collaborative team, working with modern technologies, continuing to learn from other experienced engineers, and carving a path as a mentor and aspiring leader.</p>
 </div>
 <hr class="divider_GREEN">
 <h2>Recent Projects</h2>
