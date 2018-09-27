@@ -8,7 +8,7 @@ subtitle: Forever refining the craft
   <h3 class="project_title">Professional Experience</h3>
   <p>Over the years, I've had the honor of being a part of both software and web development teams.</p>
   
-  <p>This body of work spans across projects that had an impact on a global product teams, developing in a variety of platforms to support nonprofit organizations fulfill their missions, down to contibuting to open source projects.</p>
+  <p>This body of work spans across projects that had an impact on global product teams, developing in a variety of platforms to support nonprofit organizations fulfill their missions, down to contibuting to open source projects.</p>
 
   <p>My ultimate goal as a Front End Developer is to leverage my skill-set in an effort towards helping others, and I do this through code contributions, collaboration, and mentorship.</p>
 </div>
