@@ -1,11 +1,30 @@
 .project {
-  border-bottom: 1px solid $light-gray;
-  padding-bottom: $spacing-unit;
-  padding-top: $spacing-unit;
+
+  &_section {
+    padding-bottom: 2em;
+  }
+
+  &_card {
+    padding-bottom: $spacing-unit;
+    padding-top: $spacing-unit;
+  
+    &:not(:last-of-type) {
+      border-bottom: 1px solid $border-color;
+    }
+  }
+
+  &_highlight {
+    padding-bottom: $spacing-unit;
+    padding-top: $spacing-unit;
+  
+    &:not(:last-of-type) {
+      border-bottom: 1px solid $border-color;
+    }
+  }
 
   &_title {
     font-family: "Benton Medium", sans-serif;
-    color: $dark;
+    color: $gray;
   }
 
   &_property {
@@ -28,8 +47,54 @@
     }
   }
 
+  &_link {
+    display: inline-block;
+    border: 1px solid #44c3a6;
+    background: #44c3a6;
+    padding: .5em 1em;
+    border-radius: 25px;
+    color: $white;
+    transition: all 0.5s ease;
+    &:hover {
+      background: $green;
+      color: $white;
+      transition: all 0.5s ease;
+    }
+  }
+
   &_note {
     color: $gray;
     font-size: 0.872em;
+  }
+
+  &_badges {
+    display: flex;
+    justify-content: space-between;
+    @include media-query($small-screen) {
+      flex-direction: column;
+    }
+
+    &_item {
+      padding: $spacing-unit * .5 0;
+      width: 32%;
+      opacity: .6;
+      transition: opacity 0.5s ease;
+      @include media-query($small-screen) {
+        width: 100%;
+        margin-bottom: $spacing-unit;
+        text-align: center;
+      }
+
+      &:hover {
+        opacity: 1;
+        transition: opacity 0.5s ease;
+      }
+
+      & img {
+        width: 100%;
+        max-width: 152px;
+        
+      }
+    }
   }
 }
