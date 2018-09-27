@@ -10,7 +10,7 @@ subtitle: Forever refining the craft
   
   <p>This body of work includes large enterprise projects, development for nonprofit organizations, and contributions made to the open source community.</p>
 
-  <p>As a Front End Developer, my professional goals involve contributing to collaborative team, working with modern technologies, continuing to learn from other experienced engineers, and carving a path as a mentor and aspiring leader.</p>
+  <p>As a Front End Developer, my professional goals involve contributing to collaborative teams, working with modern technologies, continuing to learn from other experienced software engineers, and carving my path as a mentor to Junior Developers and minorities in tech.</p>
 </div>
 <hr class="divider_GREEN">
 <h2>Recent Projects</h2>
