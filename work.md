@@ -97,3 +97,13 @@ subtitle: Forever refining the craft
     <a class="project_badges_item" href="https://www.youracclaim.com/badges/a25b2d3c-3a59-47da-9678-aac974b91c85/linked_in" target="blank"><img src="https://image.ibb.co/fbXv49/Badges_v8_08_Co_Creator.png"></a>
   </div>
 </div>
+
+<div class="project_highlight">
+  <h3 class="project_title">Open Source Contributions</h3>
+  <ul class="project_list">
+    <li>Free Code Camp</li>
+    <li>Pavilion.io</li>
+    <li>Open Austin</li>
+    <li>You Might Not Need Javascript</li>
+  </ul>
+</div>
