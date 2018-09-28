@@ -26,6 +26,11 @@
     }
   }
 
+  &_current {
+    padding: $spacing-unit * .5;
+    background: $light-gray;
+  }
+
   &_title {
     font-family: "Benton Medium", sans-serif;
     color: $gray;

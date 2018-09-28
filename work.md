@@ -11,6 +11,8 @@ subtitle: Forever refining the craft
   <p>This body of work includes large enterprise projects, development for nonprofit organizations, and contributions made to the open source community.</p>
 
   <p>As a Front End Developer, my professional goals involve contributing to collaborative teams, working with modern technologies, continuing to learn from other experienced software engineers, and carving my path as a mentor to junior developers and minorities in tech.</p>
+
+  <p class="project_current"><strong>Currently excited about:</strong> React, Vue.js, Google AMP, & Design Systems</p>
 </div>
 <hr class="divider_GREEN">
 <h2>Recent Projects</h2>
